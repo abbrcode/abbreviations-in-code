@@ -4,18 +4,18 @@ Here is a list of **common** and **well-known** abbreviation which you can find 
 
 A good abbreviation is:
 * **clear** if you see it at first time you will know what it means (*nl* for *name list* is not good)
-* **shorter** taking out one letter is not a real abbriviation (like *cpy* for *copy*)
-* **non-contex sensitive** like *r* for radius is straightforward only if you speak about circles
+* **shorter** taking out one letter is not a real abbreviation (like *cpy* for *copy*)
+* **non-context sensitive** like *r* for radius is straightforward only if you speak about circles
 
 ### Goal
-Give a good name to your variables, functions, classes, files etc. is a very difficult task. Using very long names (e.g. number_of_connected_clients) are always clear but it means an extra time to read and harder to remember them. Therefore choose a shorter form if possible but be careful to keep your names meaningful and clear.
+Give a good name to your variables, functions, classes, files etc. is a very difficult task. Using long names (e.g. number_of_connected_clients) are always clear but it needs an extra time to read and harder to remember. Therefore choose a shorter form if possible but be careful to keep your names meaningful and clear.
 
-Keep in mind as your scope getting bigger (from very local to API) you should choose more descriptive names. For example *res* is good when you are using it only in the next line to see the result of something. However if it is a global variable then *last_log_save_res* is more appropriate.
+Keep in mind as your scope getting bigger (from very local to API) you should choose more descriptive names. For example *res* is good to check the result of something in the next line. However if it's a global variable then *log_save_res* is more appropriate.
 
 When speaking about API then establish a pattern of naming. 
 For example in C: `namespace + module + action + object` (gui_label_set_text)
 
-If you are using only these abbreviations your naming become more coherent, logical and understandable by other (even novice) programmers. Use the *contex sensitive* abbreviations only in their context and avoide the ~~not recommanded~~ abbreviations because they are not clear or useless.
+If you are using only these abbreviations your naming become more coherent, logical and understandable by other (even novice) programmers. Use the *context sensitive (italic)* abbreviations only in their context and avoid the ~~not recommended~~ (strike through) abbreviations because they are not clear or useless.
 
 ### Contributing
 * Please, create an issue or pull request to add new abbreviations or modify the existing ones.
@@ -24,12 +24,14 @@ If you are using only these abbreviations your naming become more coherent, logi
   * _**abr** context sensitive abbreviations_ (`* _**key** meaning_`)
   * ~~**abr** not recommended abbreviations~~ (`* ~~**key** meaning~~`)
 * Do not list here acronyms (like RAM, CPU, SQL)
+* Keep alphabetic order
   
 ## 0..9
 * **2** to (e.g. copy2mem) 
   
 ## A
 * **act** actual (current)
+* **alloc** allocate
 * **arg** argument
 * **attr** attribute
 * **app** application
@@ -43,23 +45,25 @@ If you are using only these abbreviations your naming become more coherent, logi
 * **cb** callback
 * **clr** clear
 * **cnt** counter
+* **cont** continue
 * **col** column
 * **cord** coordinate
 * **coord** coordinate
-* **cos** cosinus
+* **cos** cosines
 * **cur** current
 * ~~**cpy** copy~~
 
 ## D
 * **db** database
 * **def** default
+* **del** delete
 * **dest** destination
 * **dev** device
 * **disp** display
 * **dsc** descriptor
 
 ## E
-* **e.g.** example
+* **e.g.** example (in comments)
 * **err** error
 
 ## F
@@ -89,15 +93,16 @@ If you are using only these abbreviations your naming become more coherent, logi
 * _**ll** linked list_
 
 ## M
-* **math** mathematic
+* **math** mathematics
 * **mem** memory
 * **mcu** microcontroller
 * **mid** middle
 * **min** minimum
-* **max** maimum
+* **max** maximum
 * **mng** manager
 
 ## N
+* _**n** no (only in pair with yes)_
 * **num** number
 
 ## O
@@ -105,21 +110,22 @@ If you are using only these abbreviations your naming become more coherent, logi
 * **os** operating system
 
 ## P
+* _**p** pointer_
 * **pos** position
 * **prev** previous
 * **ptr** pointer
-* _**p** pointer_
 
 ## Q
 * **qry** query
 
 ## R
-* _**r** radious_
+* _**r** radius_
 * **recv** receive
 * **rem** remove
 * **res** result
 * **ret** return
 * **rev** revision
+* **req** required/requested
 
 ## S
 * **str** string
@@ -128,6 +134,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 * _**sem** semaphore_
 
 ## T
+* _**t** type (e.g. uint8_t)
 * **temp** temporary
 * _**temp** temperature_
 * **tmp** temporary 
