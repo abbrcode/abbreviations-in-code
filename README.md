@@ -12,7 +12,10 @@ Give a good name to your variables, functions, classes, files etc. is a very dif
 
 Keep in mind as your scope getting bigger (from very local to API) you should choose more descriptive names. For example *res* is good when you are using it only in the next line to see the result of something. However if it is a global variable then *last_log_save_res* is more appropriate.
 
-If you are using only these abbreviations your naming become mode coherent, logical and understandable by other (even novice) programmers. Use the *contex sensitive* abbreviations only in their context and avoide the ~~not recommanded~~ abbreviations because they are not clear or useless.
+When speaking about API then establish a pattern of naming. 
+For example in C: `namespace + module + action + object` (gui_label_set_text)
+
+If you are using only these abbreviations your naming become more coherent, logical and understandable by other (even novice) programmers. Use the *contex sensitive* abbreviations only in their context and avoide the ~~not recommanded~~ abbreviations because they are not clear or useless.
 
 ### Contributing
 * Please, create an issue or pull request to add new abbreviations or modify the existing ones.
@@ -33,6 +36,7 @@ If you are using only these abbreviations your naming become mode coherent, logi
 
 ## B
 * **bool** boolean
+* **btn** button
 
 ## C
 * **calc** calculate 
@@ -97,6 +101,7 @@ If you are using only these abbreviations your naming become mode coherent, logi
 * **num** number
 
 ## O
+* **obj** object
 * **os** operating system
 
 ## P
