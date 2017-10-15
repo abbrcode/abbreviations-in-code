@@ -134,7 +134,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 * _**sem** semaphore_
 
 ## T
-* _**t** type (e.g. uint8_t)
+* _**t** type (e.g. uint8_t)_
 * **temp** temporary
 * _**temp** temperature_
 * **tmp** temporary 
