@@ -1,6 +1,6 @@
 # Abbreviations in program codes
 
-Here is a list of common and well-known abbreviation which you can find in program codes. 
+Here is a list of **common** and **well-known** abbreviation which you can find in program codes. 
 
 A good abbreviation is:
 * **clear** if you see it at first time you will know what it means (*nl* for *name list* is not good)
@@ -8,7 +8,7 @@ A good abbreviation is:
 * **non-contex sensitive** like *r* for radius is straightforward only if you speak about circles
 
 ### Goal
-If you are using only these abbreviations in your naming become coherent, logical and understandable by other (even novice) programmers. Use the *contex sensitive* abbreviations only in their context and avoide the ~~not recommanded~~ abbreviations because they are not clear or useless.
+If you are using only these abbreviations your naming become coherent, logical and understandable by other (even novice) programmers. Use the *contex sensitive* abbreviations only in their context and avoide the ~~not recommanded~~ abbreviations because they are not clear or useless.
 
 ### Contributing
 * Please, create an issue or pull request to add new abbreviations or modify the existing ones.
