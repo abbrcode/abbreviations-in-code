@@ -13,9 +13,9 @@ If you are using only these abbreviations your naming become coherent, logical a
 ### Contributing
 * Please, create an issue or pull request to add new abbreviations or modify the existing ones.
 * Formatting rules:
-  * **abr** straightforward abbreviations
-  * _**abr** context sensitive abbreviations_
-  * ~~**abr** not recommended abbreviations~~
+  * **abr** straightforward abbreviations (`* **key** meaning`)
+  * _**abr** context sensitive abbreviations_ (`* _**key** meaning_`)
+  * ~~**abr** not recommended abbreviations~~ (`* ~~**key** meaning~~`)
   
 ## A
 * **arg** argument
