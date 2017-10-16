@@ -145,6 +145,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 * **req** required/requested
 
 ## S
+* _**s** signed as prefix (s8 variable type)
 * **str** string
 * **sin** sinus
 * **src** source
@@ -165,6 +166,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 
 ## V
 * ~~**val** value~~
+* **var** variable
 * _**v** version_
 
 ## W
