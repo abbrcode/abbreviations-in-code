@@ -32,6 +32,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 ## A
 * **act** actual (current)
 * **alloc** allocate
+* **alt** alternative/alternate
 * **arg** argument
 * **attr** attribute
 * **app** application
@@ -50,6 +51,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 * **cord** coordinate
 * **coord** coordinate
 * **cos** cosines
+* **ctrl** control
 * **cur** current
 * ~~**cpy** copy~~
 
@@ -94,11 +96,12 @@ If you are using only these abbreviations your naming become more coherent, logi
 
 ## M
 * **math** mathematics
+* **max** maximum
 * **mem** memory
 * **mcu** microcontroller
 * **mid** middle
 * **min** minimum
-* **max** maximum
+* **misc** miscellaneous
 * **mng** manager
 
 ## N
@@ -111,6 +114,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 
 ## P
 * _**p** pointer_
+* **param** parameter
 * **pos** position
 * **prev** previous
 * **ptr** pointer
@@ -137,6 +141,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 * _**t** type (e.g. uint8_t)_
 * **temp** temporary
 * _**temp** temperature_
+* _**tgl** toggle_
 * **tmp** temporary 
 * _**tmp** temperature_
 * **tmr** timer
