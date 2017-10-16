@@ -118,6 +118,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 * **pos** position
 * **prev** previous
 * **ptr** pointer
+* **px** pixel
 
 ## Q
 * **qry** query
