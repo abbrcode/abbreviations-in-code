@@ -1,6 +1,6 @@
 # Abbreviations in program codes
 
-Here is a list of **common** and **well-known** abbreviation which you can find in program codes. 
+Here is a list of **common**, **standard** and **well-known** abbreviation which you can find in program codes. 
 
 A good abbreviation is:
 * **clear** if you see it at first time you will know what it means (*nl* for *name list* is not good)
@@ -42,9 +42,12 @@ If you are using only these abbreviations your naming become more coherent, logi
 * **btn** button
 
 ## C
+* _**c** character_
 * **calc** calculate 
 * **cb** callback
+* **ch** channel
 * **clr** clear
+* **cmp** compare
 * **cnt** counter
 * **cont** continue
 * **col** column
@@ -61,11 +64,13 @@ If you are using only these abbreviations your naming become more coherent, logi
 * **del** delete
 * **dest** destination
 * **dev** device
+* **diff** difference 
 * **disp** display
 * **dsc** descriptor
 
 ## E
 * **e.g.** example (in comments)
+* _**eq** equal_
 * **err** error
 
 ## F
@@ -75,6 +80,8 @@ If you are using only these abbreviations your naming become more coherent, logi
 * **func** function
 
 ## G
+* _**ge** greater or equal_
+* _**gt** greater then_
 
 ## H
 * _**h** height_
@@ -92,7 +99,9 @@ If you are using only these abbreviations your naming become more coherent, logi
 
 ## L
 * **lib** library
+* _**le** less or equal_
 * _**ll** linked list_
+* _**lt** less then_
 
 ## M
 * **math** mathematics
@@ -106,10 +115,12 @@ If you are using only these abbreviations your naming become more coherent, logi
 
 ## N
 * _**n** no (only in pair with yes)_
+* _**ne** not equal_
 * **num** number
 
 ## O
 * **obj** object
+* ~~**ord** order~~
 * **os** operating system
 
 ## P
@@ -117,6 +128,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 * **param** parameter
 * **pos** position
 * **prev** previous
+* **proc** process
 * **ptr** pointer
 * **px** pixel
 
@@ -156,10 +168,12 @@ If you are using only these abbreviations your naming become more coherent, logi
 * _**v** version_
 
 ## W
+* _**w** width_ 
+* **win** window
 
 ## X
 
 ## Y
-* _**y** yes_
+* _**y** yes (only in pair with no)_
 
 ## Z
