@@ -52,6 +52,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **cmp** compare
 * **cnt** counter
 * **cont** continue
+* **conv** conversation
 * **col** column
 * **cord** coordinate
 * **coord** coordinate
@@ -94,6 +95,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 
 ## I
 * **i** integer iterator
+* **id** identifier
 * **img** image
 * **int** integer
 
