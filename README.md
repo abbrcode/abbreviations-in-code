@@ -64,12 +64,14 @@ If you are using only these abbreviations your naming become more coherent, logi
 * **del** delete
 * **dest** destination
 * **dev** device
-* **diff** difference 
+* **diff** difference
+* **dis** disable
 * **disp** display
 * **dsc** descriptor
 
 ## E
 * **e.g.** example (in comments)
+* **en** enable
 * _**eq** equal_
 * **err** error
 
