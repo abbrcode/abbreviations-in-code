@@ -40,6 +40,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **app** application
 
 ## B
+* **bin** binary
 * **bool** boolean
 * **btn** button
 
@@ -63,6 +64,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 
 ## D
 * **db** database
+* **dec** decimal
 * **def** default
 * **del** delete
 * **dest** destination
@@ -91,6 +93,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 
 ## H
 * _**h** height_
+* **hex** hexadecimal
 * **hor** horizontal
 
 ## I
