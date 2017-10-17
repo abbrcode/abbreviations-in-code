@@ -17,6 +17,8 @@ For example in C: `namespace + module + action + object` (gui_label_set_text)
 
 If you are using only these abbreviations your naming become more coherent, logical and understandable by other (even novice) programmers. Use the *context sensitive (italic)* abbreviations only in their context and avoid the ~~not recommended~~ (strike through) abbreviations because they are not clear or useless.
 
+Of course you can judge the not recommended abbreviations. For example why don't use *txt* insted of *text*? It's still clear but in my opinion not shorter enough. The only important thing is to remain consitent in your code (do not mix *txt* with *text*).
+
 ### Contributing
 * Please, create an issue or pull request to add new abbreviations or modify the existing ones.
 * Formatting rules:
@@ -104,6 +106,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 ## L
 * **lib** library
 * _**le** less or equal_
+* ~~**len** length~~
 * _**ll** linked list_
 * _**lt** less then_
 
