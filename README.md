@@ -67,6 +67,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 * **diff** difference
 * **dis** disable
 * **disp** display
+* **drv** driver
 * **dsc** descriptor
 
 ## E
