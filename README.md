@@ -91,6 +91,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 
 ## I
 * **i** integer iterator
+* **img** image
 * **int** integer
 
 ## J
@@ -128,6 +129,7 @@ If you are using only these abbreviations your naming become more coherent, logi
 ## P
 * _**p** pointer_
 * **param** parameter
+* **pic** picture
 * **pos** position
 * **prev** previous
 * **proc** process
