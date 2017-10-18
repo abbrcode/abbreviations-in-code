@@ -40,6 +40,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **app** application
 
 ## B
+* **bg** background
 * **bin** binary
 * **bool** boolean
 * **btn** button
@@ -50,11 +51,14 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **cb** callback
 * **ch** channel
 * **clr** clear
+* **cmd** command
 * **cmp** compare
 * **cnt** counter
 * **cont** continue
 * **conv** conversation
 * **col** column
+* _**com** common_
+* _**com** communication_
 * **cord** coordinate
 * **coord** coordinate
 * **cos** cosines
