@@ -105,6 +105,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **id** identifier
 * **img** image
 * **info** information
+* **init** initialize (esp. for methods which initialize new objects)
 * **int** integer
 
 ## J
