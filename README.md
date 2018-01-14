@@ -186,6 +186,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * ~~**val** value~~
 * **var** variable
 * _**v** version_
+* **vert** vertical
 
 ## W
 * _**w** width_ 
