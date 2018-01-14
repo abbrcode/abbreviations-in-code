@@ -128,6 +128,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **min** minimum
 * **misc** miscellaneous
 * **mng** manager
+* **msg** message
 
 ## N
 * _**n** no (only in pair with yes)_
