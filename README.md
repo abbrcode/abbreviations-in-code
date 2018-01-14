@@ -104,6 +104,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **i** integer iterator
 * **id** identifier
 * **img** image
+* **info** information
 * **int** integer
 
 ## J
