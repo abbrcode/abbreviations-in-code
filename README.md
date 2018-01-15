@@ -104,6 +104,8 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **i** integer iterator
 * **id** identifier
 * **img** image
+* **info** information
+* **init** initialize (esp. for methods which initialize new objects)
 * **int** integer
 
 ## J
@@ -128,6 +130,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **min** minimum
 * **misc** miscellaneous
 * **mng** manager
+* **msg** message
 
 ## N
 * _**n** no (only in pair with yes)_
@@ -185,6 +188,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * ~~**val** value~~
 * **var** variable
 * _**v** version_
+* **vert** vertical
 
 ## W
 * _**w** width_ 
