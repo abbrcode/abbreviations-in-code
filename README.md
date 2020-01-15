@@ -168,7 +168,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 ## S
 * _**s** signed as prefix (s8 variable type)
 * **str** string
-* **sin** sinus
+* **sin** sine
 * **src** source
 * _**sem** semaphore_
 
