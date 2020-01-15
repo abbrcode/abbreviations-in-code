@@ -147,6 +147,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **param** parameter
 * **pic** picture
 * **pos** position
+* **pred** prediction
 * **prev** previous
 * **proc** process
 * **ptr** pointer
