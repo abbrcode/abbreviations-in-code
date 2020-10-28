@@ -32,7 +32,9 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **2** to (e.g. copy2mem) 
   
 ## A
-* **act** actual (current)
+* **abs** absolute number
+* ~~**act**~~ (could be actual, action, active)
+* **addr** address
 * **alloc** allocate
 * **alt** alternative/alternate
 * **arg** argument
@@ -40,16 +42,23 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **app** application
 
 ## B
+* _**bat** battery_
 * **bg** background
 * **bin** binary
 * **bool** boolean
+* ~~**brk** break~~
 * **btn** button
+* **buf** buffer
 
 ## C
-* _**c** character_
+* ~~**c** character~~
+* **char** character
 * **calc** calculate 
 * **cb** callback
+* _**cert** certificate_
+* **cfg** configuration
 * **ch** channel
+* _**circ** circle_
 * **clr** clear
 * **cmd** command
 * **cmp** compare
@@ -57,18 +66,21 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **cont** continue
 * **conv** conversation
 * **col** column
-* _**com** common_
-* _**com** communication_
-* **cord** coordinate
+* ~~**com**~~ (could be common, comercial, communication)
+* ~~**cord** coordinate~~ (use coord)
 * **coord** coordinate
 * **cos** cosines
+* **csum** checksum
 * **ctrl** control
+* **ctx** context
 * **cur** current
-* ~~**cpy** copy~~
+* ~~**cpy** copy~~ (saves only one character)
 
 ## D
 * **db** database
+* **dbg** debug
 * **dec** decimal
+* **dec** decrease
 * **def** default
 * **del** delete
 * **dest** destination
@@ -78,6 +90,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **disp** display
 * **drv** driver
 * **dsc** descriptor
+* **dt** delta time
 
 ## E
 * **e.g.** example (in comments)
@@ -86,24 +99,31 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **err** error
 
 ## F
-* **fp** function pointer
 * _**f** function_
 * _**f** file_
+* **fmt** format
+* **fp** function pointer
 * **func** function
 
 ## G
 * _**ge** greater or equal_
+* **gen** generate
 * _**gt** greater then_
 
 ## H
 * _**h** height_
 * **hex** hexadecimal
+* **hdr** header
 * **hor** horizontal
+* **hw** hardware
 
 ## I
 * **i** integer iterator
 * **id** identifier
+* **idx** index
+* **iface** interface
 * **img** image
+* **inc** increase, include
 * **info** information
 * **init** initialize (esp. for methods which initialize new objects)
 * **int** integer
@@ -115,11 +135,12 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **k** integer iterator, only together with *i* and  *j*
 
 ## L
+* _**lat** latitude_
 * **lib** library
 * _**le** less or equal_
-* ~~**len** length~~
-* _**ll** linked list_
-* _**lt** less then_
+* **len** length
+* ~~**ll**~~ (could be linked list or less then)
+* _**lon** longitude_
 
 ## M
 * **math** mathematics
@@ -130,11 +151,13 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **min** minimum
 * **misc** miscellaneous
 * **mng** manager
+* **mod** modulo
 * **msg** message
 
 ## N
 * _**n** no (only in pair with yes)_
 * _**ne** not equal_
+* **net** network
 * **num** number
 
 ## O
@@ -150,14 +173,18 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **pred** prediction
 * **prev** previous
 * **proc** process
+* **prof** profiler
 * **ptr** pointer
+* **pwr** power
 * **px** pixel
 
 ## Q
 * **qry** query
 
 ## R
+* **rand** random
 * _**r** radius_
+* _**rect** rectangle_
 * **recv** receive
 * **rem** remove
 * **res** result
@@ -167,28 +194,31 @@ Of course you can judge the not recommended abbreviations. For example why don't
 
 ## S
 * _**s** signed as prefix (s8 variable type)
+* _**sem** semaphore_
+* **seq** sequence
 * **str** string
 * **sin** sine
+* **sqrt** square root
 * **src** source
-* _**sem** semaphore_
 
 ## T
-* _**t** type (e.g. uint8_t)_
+* _**t** time or type (e.g. uint8_t)_
 * **temp** temporary
 * _**temp** temperature_
-* _**tgl** toggle_
+* ~~**tgl** toggle~~
 * **tmp** temporary 
-* _**tmp** temperature_
 * **tmr** timer
+* **ts** timestamp
 * ~~**txt** text~~
 
 ## U
 * _**u** unsigned as prefix (e.g. uint8_t)_
+* ~~**usr** user~~
 
 ## V
-* ~~**val** value~~
+* **val** value
 * **var** variable
-* _**v** version_
+* _**v** version, vector_
 * **vert** vertical
 
 ## W
