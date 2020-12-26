@@ -38,7 +38,6 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **alloc** allocate
 * **alt** alternative/alternate
 * **arg** argument
-* **arr** array
 * **attr** attribute
 * **app** application
 
