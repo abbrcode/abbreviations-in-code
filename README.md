@@ -82,12 +82,15 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **dec** decimal
 * **dec** decrease
 * **def** default
+* **def** define
 * **del** delete
 * **dest** destination
 * **dev** device
 * **diff** difference
+* **dir** directory
 * **dis** disable
 * **disp** display
+* **doc** document
 * **drv** driver
 * **dsc** descriptor
 * **dt** delta time
@@ -101,6 +104,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 ## F
 * _**f** function_
 * _**f** file_
+* **fig** figure
 * **fmt** format
 * **fp** function pointer
 * **func** function
