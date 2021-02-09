@@ -112,7 +112,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 ## G
 * _**ge** greater or equal_
 * **gen** generate
-* _**gt** greater then_
+* _**gt** greater than_
 
 ## H
 * _**h** height_
@@ -143,7 +143,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **lib** library
 * _**le** less or equal_
 * **len** length
-* ~~**ll**~~ (could be linked list or less then)
+* ~~**ll**~~ (could be linked list or less than)
 * _**lon** longitude_
 
 ## M
