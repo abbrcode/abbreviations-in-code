@@ -16,7 +16,7 @@ Keep in mind that as your scope is getting bigger (from very local to API) you s
 When speaking about APIs then establish a pattern of naming.
 For example in C: `namespace + module + action + object` (gui_label_set_text)
 
-If you are using the abbreviations below your naming become more coherent, logical and understandable to other (even novice) programmers. Use the *context sensitive (italic)* abbreviations only in their context and avoid the ~~not recommended~~ (strike through) abbreviations because they are not clear or useless.
+If you are using the abbreviations below your naming will become more coherent, logical and understandable to other (even novice) programmers. Use the *context sensitive (italic)* abbreviations only in their context and avoid the ~~not recommended~~ (strike through) abbreviations because they are not clear or useless.
 
 Of course, you can consider using the not recommended abbreviations. For example why not use *txt* instead of *text*? It's still clear but not much is gained. The most important thing is to remain consistent in your code (do not mix *txt* with *text*).
 
