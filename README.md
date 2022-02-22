@@ -1,23 +1,24 @@
 # Abbreviations in program codes
 
-Here is a list of **common**, **standard** and **well-known** abbreviation which you can find in program codes. 
+Here is a list of **common**, **standard** and **well-known** abbreviations which you can find in software code.
 
 A good abbreviation is:
-* **clear** if you see it at first time you will know what it means (*nl* for *name list* is not good)
-* **shorter** taking out one letter is not a real abbreviation (like *cpy* for *copy*)
-* **non-context sensitive** like *r* for radius is straightforward only if you speak about circles
+* **clear** - if seen for the first time you still know what it means (good: *arg* for *argument* | bad: *nl* for *name_list*)
+* **shorter** - taking out one letter is not a real abbreviation (good: *doc* for *document* | bad: *cpy* for *copy*)
+* **non-context sensitive** - like *r* for radius is straightforward only if you speak about circles
+* **programming language/flavor agnostic** - understood by all developers
 
 ### Goal
-Give a good name to your variables, functions, classes, files etc. is a very difficult task. Using long names (e.g. number_of_connected_clients) are always clear but it needs an extra time to read and harder to remember. Therefore choose a shorter form if possible but be careful to keep your names meaningful and clear.
+Giving good names to your variables, functions, classes, files etc. can be a hard task. Long names (e.g. number_of_connected_clients) are always clear, but need extra time to read, take up line space and are harder to remember. Therefore choosing a shorter form if possible is advisable, whilst being careful to keep names meaningful and clear.
 
-Keep in mind as your scope getting bigger (from very local to API) you should choose more descriptive names. For example *res* is good to check the result of something in the next line. However if it's a global variable then *log_save_res* is more appropriate.
+Keep in mind that as your scope is getting bigger (from very local to API) you should choose more descriptive names. For example *res* is good to check the result of something in the next line. However if it's a global variable then *log_save_res* is more appropriate.
 
-When speaking about API then establish a pattern of naming. 
+When speaking about APIs then establish a pattern of naming.
 For example in C: `namespace + module + action + object` (gui_label_set_text)
 
-If you are using only these abbreviations your naming become more coherent, logical and understandable by other (even novice) programmers. Use the *context sensitive (italic)* abbreviations only in their context and avoid the ~~not recommended~~ (strike through) abbreviations because they are not clear or useless.
+If you are using the abbreviations below your naming will become more coherent, logical and understandable to other (even novice) programmers. Use the *context sensitive (italic)* abbreviations only in their context and avoid the ~~not recommended~~ (strike through) abbreviations because they are not clear or useless.
 
-Of course you can judge the not recommended abbreviations. For example why don't use *txt* insted of *text*? It's still clear but in my opinion not shorter enough. The only important thing is to remain consitent in your code (do not mix *txt* with *text*).
+Of course, you can consider using the not recommended abbreviations. For example why not use *txt* instead of *text*? It's still clear but not much is gained. The most important thing is to remain consistent in your code (do not mix *txt* with *text*).
 
 ### Contributing
 * Please, create an issue or pull request to add new abbreviations or modify the existing ones.
@@ -27,10 +28,13 @@ Of course you can judge the not recommended abbreviations. For example why don't
   * ~~**abr** not recommended abbreviations~~ (`* ~~**key** meaning~~`)
 * Do not list here acronyms (like RAM, CPU, SQL)
 * Keep alphabetic order
-  
+
+## Special Characters
+* **$** indicates a DOM node (e.g. $btn)
+
 ## 0..9
-* **2** to (e.g. copy2mem) 
-  
+* **2** to (e.g. copy2mem)
+
 ## A
 * **abs** absolute number
 * ~~**act**~~ (could be actual, action, active)
@@ -40,6 +44,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **arg** argument
 * **attr** attribute
 * **app** application
+* **arr** array
 
 ## B
 * _**bat** battery_
@@ -53,7 +58,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 ## C
 * ~~**c** character~~
 * **char** character
-* **calc** calculate 
+* **calc** calculate
 * **cb** callback
 * _**cert** certificate_
 * **cfg** configuration
@@ -66,6 +71,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **cont** continue
 * **conv** conversation
 * **col** column
+* **coll** collection
 * ~~**com**~~ (could be common, comercial, communication)
 * ~~**cord** coordinate~~ (use coord)
 * **coord** coordinate
@@ -86,6 +92,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **del** delete
 * **dest** destination
 * **dev** device
+* **dev** development
 * **diff** difference
 * **dir** directory
 * **dis** disable
@@ -96,8 +103,10 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **dt** delta time
 
 ## E
+* **e** event
 * **e.g.** example (in comments)
 * **en** enable
+* **env** environment
 * _**eq** equal_
 * **err** error
 
@@ -137,6 +146,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 
 ## K
 * **k** integer iterator, only together with *i* and  *j*
+* **k** object key, only together with *v* for *value*
 
 ## L
 * _**lat** latitude_
@@ -183,6 +193,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **px** pixel
 
 ## Q
+* **q** query
 * **qry** query
 
 ## R
@@ -191,14 +202,16 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * _**rect** rectangle_
 * **recv** receive
 * **rem** remove
-* **res** result
+* **res** result/response
 * **ret** return
 * **rev** revision
 * **req** required/requested
+* **rng** range
 
 ## S
 * _**s** signed as prefix (s8 variable type)
 * _**sem** semaphore_
+* **sel** selection/selected
 * **seq** sequence
 * **str** string
 * **sin** sine
@@ -210,7 +223,7 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * **temp** temporary
 * _**temp** temperature_
 * ~~**tgl** toggle~~
-* **tmp** temporary 
+* **tmp** temporary
 * **tmr** timer
 * **ts** timestamp
 * ~~**txt** text~~
@@ -220,13 +233,14 @@ Of course you can judge the not recommended abbreviations. For example why don't
 * ~~**usr** user~~
 
 ## V
+* **v** value, only together with *k* for *key*
 * **val** value
 * **var** variable
 * _**v** version, vector_
 * **vert** vertical
 
 ## W
-* _**w** width_ 
+* _**w** width_
 * **win** window
 
 ## X
