@@ -45,6 +45,8 @@ Of course, you can consider using the not recommended abbreviations. For example
 * **attr** attribute
 * **app** application
 * **arr** array
+* **auth** authenticate/authentication
+* **avg** average
 
 ## B
 * _**bat** battery_
@@ -68,6 +70,10 @@ Of course, you can consider using the not recommended abbreviations. For example
 * **cmd** command
 * **cmp** compare
 * **cnt** counter
+* **concat** concatenate/concatenation
+* **conf** configuration
+* **config** configuration
+* **conn** connection
 * **cont** continue
 * **conv** conversation
 * **col** column
@@ -109,6 +115,7 @@ Of course, you can consider using the not recommended abbreviations. For example
 * **env** environment
 * _**eq** equal_
 * **err** error
+* **expr** expression
 
 ## F
 * _**f** function_
@@ -149,6 +156,7 @@ Of course, you can consider using the not recommended abbreviations. For example
 * **k** object key, only together with *v* for *value*
 
 ## L
+* **lang** language
 * _**lat** latitude_
 * **lib** library
 * _**le** less or equal_
@@ -177,6 +185,7 @@ Of course, you can consider using the not recommended abbreviations. For example
 ## O
 * **obj** object
 * ~~**ord** order~~
+* **op** operation
 * **os** operating system
 
 ## P
@@ -185,6 +194,7 @@ Of course, you can consider using the not recommended abbreviations. For example
 * **pic** picture
 * **pos** position
 * **pred** prediction
+* **pref** preference
 * **prev** previous
 * **proc** process
 * **prof** profiler
@@ -213,10 +223,13 @@ Of course, you can consider using the not recommended abbreviations. For example
 * _**sem** semaphore_
 * **sel** selection/selected
 * **seq** sequence
+* **stat** statistics
+* **std** standard
 * **str** string
 * **sin** sine
 * **sqrt** square root
 * **src** source
+* **sync** synchronize
 
 ## T
 * _**t** time or type (e.g. uint8_t)_
