@@ -4,7 +4,7 @@ Here is a list of **common**, **standard** and **well-known** abbreviations whic
 
 A good abbreviation is:
 
--  **global** - understood by all developers
+-  **global** • understood by all developers
 -  **clear** • if seen for the first time you still know what it means (good: _arg_ for _argument_ | bad: _nl_ for _name_list_)
 -  **short** • taking out one letter is not a real abbreviation (good: _doc_ for _document_ | bad: _cpy_ for _copy_)
 -  **non-context sensitive** • like _r_ for radius is straightforward only if you speak about circles
