@@ -57,7 +57,7 @@ Of course, you can consider using the not recommended ones. For example why not 
 -  **app** application
 -  **arg** argument
 -  **arr** array
--  **async** asyncronus
+-  **async** asynchronous
 -  **attr** attribute
 -  **auth** authenticate / authentication
 -  **avg** average
