@@ -40,7 +40,7 @@ Of course, you can consider using the not recommended ones. For example why not 
 
 ## Special Characters
 
--  **$...** indicates a DOM node (e.g. $btn)
+-  **$...** indicates a DOM node (jQuery selector, e.g. $btn)
 
 ## 0-9
 
@@ -80,6 +80,7 @@ Of course, you can consider using the not recommended ones. For example why not 
 -  _**cert** certificate_
 -  **cfg** configuration
 -  **ch** channel
+-  **chk** check
 -  **char** character
 -  _**circ** circle_
 -  **clr** clear
@@ -100,7 +101,7 @@ Of course, you can consider using the not recommended ones. For example why not 
 -  **csum** checksum
 -  **ctrl** control
 -  **ctx** context
--  **cur** current
+-  **cur / curr** current
 -  ~~**cpy** copy~~
 
 ## D
@@ -112,31 +113,34 @@ Of course, you can consider using the not recommended ones. For example why not 
 -  **def** default / define
 -  **del** delete
 -  **dest** destination
--  **dev** developer / development / device
+-  **dev** development / device /  developer
 -  **diff** difference
--  **dir** direction / directory
+-  **dir** directory / direction
 -  **dis** disable
 -  **disp** display
 -  **doc** document
 -  **drv** driver
 -  **dsc** descriptor
 -  **dt** delta time
+-  **dyn** dynamic
 
 ## E
 
 -  **e** event
--  **e.g.** example (in comments)
+-  **e.g.** example (only used in comments)
 -  **en** enable
 -  **env** environment
 -  _**eq** equal_
 -  **err** error
 -  **exe** executable
 -  **expr** expression
+-  **ext** extension
 
 ## F
 
 -  _**f** function_
 -  _**f** file_
+-  **fac** factory
 -  **fig** figure
 -  **fmt** format
 -  **fp** function pointer
@@ -166,27 +170,30 @@ Of course, you can consider using the not recommended ones. For example why not 
 -  **inc** include / increase
 -  **info** information
 -  **init** initialize (e.g. for methods which initialize new objects)
+-  **ins** insert
+-  **intf** interface
 -  **int** integer
+-  **itor** iterator
 
 ## J
 
--  **j** integer iterator (only with **i**)
+-  **j** integer iterator (variable iterator, only used with **i** and **k**)
 
 ## K
 
--  **k** integer iterator (only with **i** and **j**)
--  **k** object key (only with **v**)
+-  **k** integer iterator (variable iterator, only used like **i** and **j**)
+-  **key** object key (variable iterator, only  used with **val**)
 
 ## L
 
 -  **lang** language
 -  _**lat** latitude_
 -  **lib** library
--  _**le** less or equal_
+-  _**le** less or equal (binary relational operator)_
 -  **len** length
 -  **ll** linked list
 -  _**lon** longitude_
--  **lt** less than
+-  _**lt** less than  (binary relational operator)_
 
 ## M
 
@@ -194,39 +201,45 @@ Of course, you can consider using the not recommended ones. For example why not 
 -  **max** maximum
 -  **mcu** microcontroller
 -  **mem** memory
+-  **meta** metadata
 -  **mid** middle
 -  **min** minimum
 -  **misc** miscellaneous
 -  **mng** manager
 -  **mod** modulo
 -  **msg** message
+-  **mut** mutable
 
 ## N
 
--  _**n** no (only with **yes**)_
+-  _**n** no (boolean value, only with **yes**)_
 -  **nav** navigation
--  _**ne** not equal_
+-  _**ne** not equal (binary relational operator)_
 -  **net** network
+-  **nl** newline
 -  **num** number
 
 ## O
 
 -  **obj** object
 -  ~~**ord** order~~
+-  **ok** success
 -  **op** operation
--  **opt** optional
+-  **opt** option / optional
 -  **os** operating system
 
 ## P
 
 -  _**p** pointer_
 -  **param** parameter
+-  **perf** performance
 -  **pic** picture
 -  **pos** position
 -  **pred** prediction
 -  **pref** preference
 -  **prev** previous
 -  **proc** process
+-  **prod** production
 -  **prof** profiler
 -  **ptr** pointer
 -  **pwr** power
@@ -240,19 +253,22 @@ Of course, you can consider using the not recommended ones. For example why not 
 
 -  _**r** radius_
 -  **rand** random
+-  **rec** record
 -  _**rect** rectangle_
 -  **recv** receive
+-  **ref** reference
 -  **rem** remove
 -  **repo** repository
 -  **req** required / requested
 -  **res** response / result
 -  **ret** return
 -  **rev** revision
+-  **rgx / regex** regular expression
 -  **rng** range
 
 ## S
 
--  \_**s** signed as prefix (s8 variable type)
+-  _**s** signed as prefix (variable type modifier, e.g. s8)_
 -  _**sem** semaphore_
 -  **sel** selected / selection
 -  **sin** sine
@@ -266,37 +282,43 @@ Of course, you can consider using the not recommended ones. For example why not 
 
 ## T
 
--  _**t** time / type (e.g. uint8_t)_
+-  _**t** time / type (variable type modifier, e.g. uint8_t)_
 -  _**temp** temperature_
 -  **temp / tmp** temporary
 -  ~~**tgl** toggle~~
+-  **tmpl** template
 -  **tmr** timer
 -  **ts** timestamp
 -  ~~**txt** text~~
+-  **tz** timezone
 
 ## U
 
--  _**u** unsigned as prefix (e.g. uint8_t)_
+-  _**u** unsigned as prefix (variable type modifier, e.g. uint8_t)_
+-  **upd** update
 -  ~~**usr** user~~
+-  **utl / util** utility
+
 
 ## V
 
--  **v** value (only with **k**)
--  _**v** vector / version_
+-  _**v** value (variable iterator, only with **k**)_
 -  **val** value
 -  **var** variable
+-  **vec** vector
 -  **ver** version / vertical
 
 ## W
 
 -  _**w** width_
 -  **win** window
+-  **ws** white space
 
 ## X
 
 ## Y
 
--  _**y** yes (only with **n**)_
+-  _**y** yes (boolean value, only with **n**)_
 
 ## Z
 
