@@ -8,7 +8,6 @@ The list of the abbreviations you can find and use in software environment.
 -  [Guide](#guide)
 -  [List](#list)
 -  [Contributing](./CONTRIBUTING.md)
--  [JSON](./json/abbr.json)
 
 ## A good abbreviation is:
 
@@ -21,11 +20,11 @@ The list of the abbreviations you can find and use in software environment.
 
 Give good names to variables, functions, classes, files can be difficult. Long names are always clear, but need time to read, take up space and are hard to remember. Choose a shorter form is better.
 
-If you are using the abbreviations below your naming will become more coherent, logical and understandable to other (even newbies) programmers.
+If you will use the abbreviations below your naming will become more coherent, logical and understandable to other (even newbies) programmers.
 
 ## Guide
 
-Abbreviations are in key value format. Multiple choices are sorted from the most used one. Dots specify how much recommended is the abbreviation.
+Abbreviations are in key value format. Multiple choices are sorted from the most used one. Dots specify how much recommended is it.
 
 -  🟢 Recommended
 -  🟡 Context sensitive
@@ -35,15 +34,11 @@ You can consider using the not recommended ones. The most important thing is to 
 
 ## List
 
--  [Special characters](#special-characters)
--  [0-9](#0-9)
+-  [Numbers](#numbers)
 -  [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
+-  [Symbols](#symbols)
 
-### Special characters
-
--  🟡 $... • node ($btn) {jQuery selector / DOM}
-
-### 0-9
+### Numbers
 
 -  🔴 2 • to
 
@@ -296,7 +291,7 @@ You can consider using the not recommended ones. The most important thing is to 
 
 ### V
 
--  🟢 v** value {only with **k**}
+-  🟢 v** value {only with **k\*\*}
 -  🟡 v • vector / version
 -  🟢 val • value
 -  🟢 var • variable
@@ -315,6 +310,10 @@ You can consider using the not recommended ones. The most important thing is to 
 -  🟡 y • yes {only with **n**}
 
 ## Z
+
+### Symbols
+
+-  🟡 $... • node ($btn) {jQuery selector / DOM}
 
 <br>
 
