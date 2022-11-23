@@ -1,0 +1,1460 @@
+{
+   "abbreviations": [
+      {
+         "abbr": "$...",
+         "desc": "indicates a DOM node",
+         "domain": "jQuery selector",
+         "constraint": "",
+         "example": "$btn"
+      },
+      {
+         "abbr": "2",
+         "desc": "to",
+         "domain": "generic",
+         "constraint": "",
+         "example": "copy2mem"
+      },
+      {
+         "abbr": "abbr",
+         "desc": "abbreviation",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "abs",
+         "desc": "absolute number",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "addr",
+         "desc": "address",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "alloc",
+         "desc": "allocate",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "alt",
+         "desc": "alternative",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "alt",
+         "desc": "alternate",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "app",
+         "desc": "application",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "arg",
+         "desc": "argument",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "arr",
+         "desc": "array",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "async",
+         "desc": "asynchronous",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "attr",
+         "desc": "attribute",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "auth",
+         "desc": "authenticate",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "auth",
+         "desc": "authentication",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "avg",
+         "desc": "average",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "bat",
+         "desc": "battery",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "bg",
+         "desc": "background",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "bin",
+         "desc": "binary",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "bool",
+         "desc": "boolean",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "btn",
+         "desc": "button",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "buf",
+         "desc": "buffer",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "calc",
+         "desc": "calculate",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "cb",
+         "desc": "callback",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "cert",
+         "desc": "certificate",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "cfg",
+         "desc": "configuration",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ch",
+         "desc": "channel",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "chk",
+         "desc": "check",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "char",
+         "desc": "character",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "circ",
+         "desc": "circle",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "clr",
+         "desc": "clear",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "cmd",
+         "desc": "command",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "cmp",
+         "desc": "compare",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "cnt",
+         "desc": "counter",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "concat",
+         "desc": "concatenate",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "conf",
+         "desc": "configuration",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "config",
+         "desc": "configuration",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "conn",
+         "desc": "connection",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "cont",
+         "desc": "continue",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "conv",
+         "desc": "conversation",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "col",
+         "desc": "column",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "coll",
+         "desc": "collection",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "coord",
+         "desc": "coordinate",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "cos",
+         "desc": "cosines",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "csum",
+         "desc": "checksum",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ctrl",
+         "desc": "control",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ctx",
+         "desc": "context",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "cur",
+         "desc": "current",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "curr",
+         "desc": "current",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "db",
+         "desc": "database",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dbg",
+         "desc": "debug",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dec",
+         "desc": "decimal",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dec",
+         "desc": "decrease",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "def",
+         "desc": "default",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "def",
+         "desc": "define",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "del",
+         "desc": "delete",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dest",
+         "desc": "destination",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dev",
+         "desc": "development",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dev",
+         "desc": "device",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dev",
+         "desc": "developer",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "diff",
+         "desc": "difference",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dir",
+         "desc": "directory",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dir",
+         "desc": "direction",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dis",
+         "desc": "disable",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "disp",
+         "desc": "display",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "doc",
+         "desc": "document",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "drv",
+         "desc": "driver",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dsc",
+         "desc": "descriptor",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dt",
+         "desc": "delta time",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "dyn",
+         "desc": "dynamic",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "e",
+         "desc": "event",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "e.g.",
+         "desc": "example",
+         "domain": "generic",
+         "constraint": "only used in comments",
+         "example": ""
+      },
+      {
+         "abbr": "en",
+         "desc": "enable",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "env",
+         "desc": "environment",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "eq",
+         "desc": "equal",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "err",
+         "desc": "error",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "exe",
+         "desc": "executable",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "expr",
+         "desc": "expression",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ext",
+         "desc": "extension",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "f",
+         "desc": "function",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "f",
+         "desc": "file",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "fac",
+         "desc": "factory",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "fig",
+         "desc": "figure",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "fmt",
+         "desc": "format",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "fp",
+         "desc": "function pointer",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "func",
+         "desc": "function",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ge",
+         "desc": "greater or equal",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "gen",
+         "desc": "generate",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "gt",
+         "desc": "greater then",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "h",
+         "desc": "height",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "hex",
+         "desc": "hexadecimal",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "hor",
+         "desc": "horizontal",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "hw",
+         "desc": "hardware",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "i",
+         "desc": "integer iterator",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "id",
+         "desc": "identifier",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "idx",
+         "desc": "index",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "iface",
+         "desc": "interface",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "img",
+         "desc": "image",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "inc",
+         "desc": "include",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "inc",
+         "desc": "increase",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "info",
+         "desc": "information",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "init",
+         "desc": "initialize",
+         "domain": "generic",
+         "constraint": "",
+         "example": "for methods which initialize new objects"
+      },
+      {
+         "abbr": "ins",
+         "desc": "insert",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "intf",
+         "desc": "interface",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "int",
+         "desc": "integer",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "itor",
+         "desc": "iterator",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "j",
+         "desc": "integer iterator",
+         "domain": "variable iterator",
+         "constraint": "only used with **i** and **k**",
+         "example": ""
+      },
+      {
+         "abbr": "k",
+         "desc": "integer iterator",
+         "domain": "variable iterator",
+         "constraint": "only used like **i** and **j**",
+         "example": ""
+      },
+      {
+         "abbr": "key",
+         "desc": "object key",
+         "domain": "variable iterator",
+         "constraint": "only  used with **val**",
+         "example": ""
+      },
+      {
+         "abbr": "lang",
+         "desc": "language",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "lat",
+         "desc": "latitude",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "lib",
+         "desc": "library",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "le",
+         "desc": "less or equal",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "len",
+         "desc": "length",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ll",
+         "desc": "linked list",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "lon",
+         "desc": "longitude",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "lt",
+         "desc": "less than",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "max",
+         "desc": "maximum",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "mcu",
+         "desc": "microcontroller",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "mem",
+         "desc": "memory",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "meta",
+         "desc": "metadata",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "mid",
+         "desc": "middle",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "min",
+         "desc": "minimum",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "misc",
+         "desc": "miscellaneous",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "mng",
+         "desc": "manager",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "mod",
+         "desc": "modulo",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "msg",
+         "desc": "message",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "mut",
+         "desc": "mutable",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "n",
+         "desc": "no",
+         "domain": "boolean value",
+         "constraint": "only with **yes**",
+         "example": ""
+      },
+      {
+         "abbr": "nav",
+         "desc": "navigation",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ne",
+         "desc": "not equal",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "net",
+         "desc": "network",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "nl",
+         "desc": "newline",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "num",
+         "desc": "number",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "obj",
+         "desc": "object",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ok",
+         "desc": "success",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "op",
+         "desc": "operation",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "opt",
+         "desc": "option",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "opt",
+         "desc": "optional",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "os",
+         "desc": "operating system",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "p",
+         "desc": "pointer",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "param",
+         "desc": "parameter",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "perf",
+         "desc": "performance",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "pic",
+         "desc": "picture",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "pos",
+         "desc": "position",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "pred",
+         "desc": "prediction",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "pref",
+         "desc": "preference",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "prev",
+         "desc": "previous",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "proc",
+         "desc": "process",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "prod",
+         "desc": "production",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "prof",
+         "desc": "profiler",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ptr",
+         "desc": "pointer",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "pwr",
+         "desc": "power",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "px",
+         "desc": "pixel",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "q",
+         "desc": "query",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "qry",
+         "desc": "query",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "r",
+         "desc": "radius",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "rand",
+         "desc": "random",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "rec",
+         "desc": "record",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "rect",
+         "desc": "rectangle",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "recv",
+         "desc": "receive",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ref",
+         "desc": "reference",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "rem",
+         "desc": "remove",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "repo",
+         "desc": "repository",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "req",
+         "desc": "required",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "req",
+         "desc": "requested",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "res",
+         "desc": "response",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "res",
+         "desc": "result",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ret",
+         "desc": "return",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "rev",
+         "desc": "revision",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "rgx",
+         "desc": "regular expression",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "regex",
+         "desc": "regular expression",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "rng",
+         "desc": "range",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "s",
+         "desc": "signed as prefix",
+         "domain": "variable type modifier",
+         "constraint": "",
+         "example": "s8"
+      },
+      {
+         "abbr": "sem",
+         "desc": "semaphore",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "sel",
+         "desc": "selected",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "sel",
+         "desc": "selection",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "sin",
+         "desc": "sine",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "seq",
+         "desc": "sequence",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "sqrt",
+         "desc": "square root",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "src",
+         "desc": "source",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "stat",
+         "desc": "statistics",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "std",
+         "desc": "standard",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "str",
+         "desc": "string",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "sync",
+         "desc": "synchronize",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "t",
+         "desc": "time",
+         "domain": "variable type modifier",
+         "constraint": "",
+         "example": "uint8_t"
+      },
+      {
+         "abbr": "t",
+         "desc": "type",
+         "domain": "variable type modifier",
+         "constraint": "",
+         "example": "uint8_t"
+      },
+      {
+         "abbr": "temp",
+         "desc": "temperature",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "temp",
+         "desc": "temporary",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "tmp",
+         "desc": "temporary",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "tmpl",
+         "desc": "template",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "tmr",
+         "desc": "timer",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ts",
+         "desc": "timestamp",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "tz",
+         "desc": "timezone",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "u",
+         "desc": "unsigned as prefix",
+         "domain": "variable type modifier",
+         "constraint": "",
+         "example": "uint8_t"
+      },
+      {
+         "abbr": "upd",
+         "desc": "update",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "utl",
+         "desc": "utility",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "util",
+         "desc": "utility",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "v",
+         "desc": "value",
+         "domain": "variable iterator",
+         "constraint": "only with **k**",
+         "example": ""
+      },
+      {
+         "abbr": "val",
+         "desc": "value",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "var",
+         "desc": "variable",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "vec",
+         "desc": "vector",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ver",
+         "desc": "version",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ver",
+         "desc": "vertical",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "w",
+         "desc": "width",
+         "domain": "specific",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "win",
+         "desc": "window",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "ws",
+         "desc": "white space",
+         "domain": "generic",
+         "constraint": "",
+         "example": ""
+      },
+      {
+         "abbr": "y",
+         "desc": "yes",
+         "domain": "boolean value",
+         "constraint": "only with **n**",
+         "example": ""
+      }
+   ]
+}
