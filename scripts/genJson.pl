@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 # 
 # Perl script to generate a json abbriviation file from README.md 
-#  Usage in a Bash shell: ./genJson.pl > abbr.json
+#  Usage in a Bash shell: ./scripts/genJson.pl > ./data/abbr.json
 #
 use warnings;
 use strict;
