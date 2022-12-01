@@ -1,6 +1,6 @@
-# Abbreviations in codes
+# Abbreviations in code
 
-The list of the abbreviations you can find and use in software environment.
+The list of the abbreviations you can find and use in software environments.
 
 ## Index
 
