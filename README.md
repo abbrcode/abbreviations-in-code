@@ -291,7 +291,7 @@ You can consider using the not recommended ones. The most important thing is to 
 
 ### V
 
--  🟢 v** value {only with **k\*\*}
+-  🟢 v • value {only with **k**}
 -  🟡 v • vector / version
 -  🟢 val • value
 -  🟢 var • variable
