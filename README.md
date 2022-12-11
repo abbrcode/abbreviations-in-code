@@ -143,7 +143,7 @@ You can consider using the not recommended ones. The most important thing is to 
 
 -  🟡 ge • greater or equal {binary operation}
 -  🟢 gen • generate
--  🟡 gt • greater then {binary operation}
+-  🟡 gt • greater than {binary operation}
 
 ### H
 
