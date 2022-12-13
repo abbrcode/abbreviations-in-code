@@ -135,6 +135,7 @@ You can consider using the not recommended ones. The most important thing is to 
 
 -  🟢 f / func • function
 -  🟢 fac • factory
+-  🟢 fd • file descriptor
 -  🟢 fig • figure
 -  🟢 fmt • format
 -  🟢 fp • function pointer
