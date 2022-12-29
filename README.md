@@ -76,7 +76,7 @@ You can consider using the not recommended ones. The most important thing is to 
 -  🟢 cert • certificate
 -  🟡 ch • channel {connection}
 -  🟢 chk • check
--  🟢 char • character
+-  🟢 char / chr • character
 -  🟡 circ • circle {shape}
 -  🟢 clr • clear
 -  🟢 cmd • command
