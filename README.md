@@ -101,7 +101,7 @@ You can consider using the not recommended ones. The most important thing is to 
 
 ### D
 
--  🟢 db • databasa
+-  🟢 db • database
 -  🟢 dbg • debug
 -  🟢 dec • decimal / decrease
 -  🟢 def • default / define
