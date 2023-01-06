@@ -18,19 +18,19 @@ The list of the abbreviations you can find and use in software environments.
 
 ## Goal
 
-Give good names to variables, functions, classes, files can be difficult. Long names are always clear, but need time to read, take up space and are hard to remember. Choose a shorter form is better.
+Giving good names to variables, functions, classes, files etc. can be difficult. Long names are always clear, but take time to read, take up space and are hard to remember. Choosing a shorter form is better.
 
-If you will use the abbreviations below your naming will become more coherent, logical and understandable to other (even newbies) programmers.
+If you use the abbreviations below, your naming will become more coherent, logical and understandable to other programmers (even newbies).
 
 ## Guide
 
-Abbreviations are in key value format. Multiple choices are sorted from the most used one. Dots specify how much recommended is it.
+Abbreviations are in key&ndash;value format. Multiple choices are sorted from most to least used. Colored circles signify the degree of recommendation:
 
--  🟢 Recommended
--  🟡 Context sensitive
--  🔴 Not recommended
+- 🟢 Recommended
+- 🟡 Context-sensitive
+- 🔴 Not recommended
 
-You can consider using the not recommended ones. The most important thing is to remain consistent in your code.
+Unrecommended ones can still be considered. The most important thing is to remain consistent in your code.
 
 ## List
 
@@ -101,7 +101,7 @@ You can consider using the not recommended ones. The most important thing is to 
 
 ### D
 
--  🟢 db • databasa
+-  🟢 db • database
 -  🟢 dbg • debug
 -  🟢 dec • decimal / decrease
 -  🟢 def • default / define
