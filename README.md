@@ -121,7 +121,6 @@ Unrecommended ones can still be considered. The most important thing is to remai
 ### E
 
 -  🟢 e • event
--  🟢 e.g. • example
 -  🟢 en • enable
 -  🟢 env • environment
 -  🟡 eq • equal {binary operation}
@@ -133,7 +132,7 @@ Unrecommended ones can still be considered. The most important thing is to remai
 
 ### F
 
--  🟢 f / func • function
+-  🟢 f / fn / func • function
 -  🟢 fac • factory
 -  🟢 fd • file descriptor
 -  🟢 fig • figure
@@ -191,7 +190,7 @@ Unrecommended ones can still be considered. The most important thing is to remai
 ### M
 
 -  🟢 max • maximum
--  🟢 mcu • microcontroller
+-  🟢 mcu • microcontroller {for "microcontroller unit"}
 -  🟢 mem • memory
 -  🟡 meta • metadata {data science}
 -  🟢 mid • middle
@@ -209,7 +208,7 @@ Unrecommended ones can still be considered. The most important thing is to remai
 -  🟡 ne • not equal {binary operator}
 -  🟢 net • network
 -  🟡 nl • newline {endcoding}
--  🟢 num • number
+-  🟢 num • number / number of
 
 ### O
 
@@ -234,7 +233,6 @@ Unrecommended ones can still be considered. The most important thing is to remai
 -  🟢 prod • production
 -  🟢 prof • profiler
 -  🟢 ptr • pointer
--  🟢 pr • pull request
 -  🟡 pwr • power {energy}
 -  🟢 px • pixel
 
@@ -277,7 +275,7 @@ Unrecommended ones can still be considered. The most important thing is to remai
 
 ### T
 
--  🟡 t • time / type (e.g. uint8_t) {type modifier}
+-  🟡 t • time / type (e.g., uint8_t) {type modifier}
 -  🟢 temp • temperature
 -  🟢 temp / tmp • temporary
 -  🔴 tgl • toggle
@@ -296,7 +294,8 @@ Unrecommended ones can still be considered. The most important thing is to remai
 -  🟡 v • vector / version
 -  🟢 val • value
 -  🟢 var • variable
--  🟢 ver • version / vertical
+-  🟢 ver • version
+-  🟢 ver / vert • vertical {"ver" for same length as "hor"}
 
 ### W
 
