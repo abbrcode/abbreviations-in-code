@@ -132,12 +132,14 @@ Unrecommended ones can still be considered. The most important thing is to remai
 
 ### F
 
--  🟢 f / fn / func • function
+-  🟡 f • function {math}
 -  🟢 fac • factory
 -  🟢 fd • file descriptor
 -  🟢 fig • figure
 -  🟢 fmt • format
+-  🟡 fn • function {computer keyboard}
 -  🟢 fp • function pointer
+-  🟢 func • function
 
 ### G
 
