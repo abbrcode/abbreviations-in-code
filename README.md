@@ -192,7 +192,7 @@ Unrecommended ones can still be considered. The most important thing is to remai
 ### M
 
 -  🟢 max • maximum
--  🟢 mcu • microcontroller {for "microcontroller unit"}
+-  🟢 mcu • microcontroller {"microcontroller unit"}
 -  🟢 mem • memory
 -  🟡 meta • metadata {data science}
 -  🟢 mid • middle
@@ -297,7 +297,7 @@ Unrecommended ones can still be considered. The most important thing is to remai
 -  🟢 val • value
 -  🟢 var • variable
 -  🟢 ver • version
--  🟢 ver / vert • vertical {"ver" for same length as "hor"}
+-  🟢 ver / vert • vertical
 
 ### W
 
