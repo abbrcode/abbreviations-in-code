@@ -26,9 +26,9 @@ If you use the abbreviations below, your naming will become more coherent, logic
 
 Abbreviations are in key&ndash;value format. Multiple choices are sorted from most to least used. Colored circles signify the degree of recommendation:
 
-- 🟢 Recommended
-- 🟡 Context-sensitive
-- 🔴 Not recommended
+-  🟢 Recommended
+-  🟡 Context-sensitive
+-  🔴 Not recommended
 
 Unrecommended ones can still be considered. The most important thing is to remain consistent in your code.
 
@@ -200,6 +200,7 @@ Unrecommended ones can still be considered. The most important thing is to remai
 -  🟢 mng • manager
 -  🟢 mod • modulo
 -  🟢 msg • message
+-  🟢 mplr • multiplier
 -  🟡 mut • mutable {variables}
 
 ### N
@@ -283,6 +284,7 @@ Unrecommended ones can still be considered. The most important thing is to remai
 -  🔴 tgl • toggle
 -  🟢 tmr • timer
 -  🟢 ts • timestamp
+-  🟢 tx transaction
 -  🔴 txt • text
 
 ### U
