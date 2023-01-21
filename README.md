@@ -227,14 +227,16 @@ Unrecommended ones can still be considered. The most important thing is to remai
 -  🟢 perf • performance
 -  🟢 pic • picture
 -  🟢 pos • position
+-  🟢 pr • pull request
 -  🟢 pred • prediction
 -  🟢 pref • preference
 -  🟢 prev • previous
+-  🟢 priv • private
 -  🟡 proc • process {thread}
 -  🟢 prod • production
 -  🟢 prof • profiler
 -  🟢 ptr • pointer
--  🟢 pr • pull request
+-  🟢 pub • public
 -  🟡 pwr • power {energy}
 -  🟢 px • pixel
 
