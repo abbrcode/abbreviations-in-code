@@ -180,12 +180,12 @@ Unrecommended ones can still be considered. The most important thing is to remai
 ### L
 
 -  🟢 lang • language
--  🟡 lat • latitude {only with **coord**}
+-  🟢 lat • latitude
 -  🟢 lib • library
 -  🟡 le • less or equal {binary operator}
 -  🟢 len • length
 -  🟢 ll • linked list
--  🟡 lon • longitude {only with **coord**}
+-  🟢 lng • longitude
 -  🟡 lt • less than {binary operators}
 
 ### M
