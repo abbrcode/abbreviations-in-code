@@ -1,42 +1,20 @@
 # Abbreviations in code
 
-The list of the abbreviations you can find and use in software environments.
+Giving good names to variables, functions, files etc. can be difficult. Long names are always clear, but take time to read, space and are hard to remember.
+Choosing a shorter form is better.
+If you use the abbreviations below, your naming will become more coherent, logical and understandable to other programmers (even newbies).
 
 ## Index
 
--  [Goal](#goal)
--  [Guide](#guide)
--  [List](#list)
--  [Contributing](./CONTRIBUTING.md)
-
-## A good abbreviation is:
-
--  `global` • understood by everyone
--  `significant` • seen for the first time you still know what it means
--  `absolute` • not related to the context
--  `short` • taking out one letter is not an abbreviation
-
-## Goal
-
-Giving good names to variables, functions, classes, files etc. can be difficult. Long names are always clear, but take time to read, take up space and are hard to remember. Choosing a shorter form is better.
-
-If you use the abbreviations below, your naming will become more coherent, logical and understandable to other programmers (even newbies).
-
-## Guide
-
-Abbreviations are in key&ndash;value format. Multiple choices are sorted from most to least used. Colored circles signify the degree of recommendation:
-
--  🟢 Recommended
--  🟡 Context-sensitive
--  🔴 Not recommended
-
-Unrecommended ones can still be considered. The most important thing is to remain consistent in your code.
+-  [Guide](./guide.md)
+-  [CONTRIBUTING](./CONTRIBUTING.md)
 
 ## List
 
 -  [Numbers](#numbers)
 -  [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 -  [Symbols](#symbols)
+-  [Others](#others)
 
 ### Numbers
 
@@ -56,7 +34,7 @@ Unrecommended ones can still be considered. The most important thing is to remai
 -  alternate • 🟢 alt
 -  application • 🟢 app
 -  array • 🟢 arr
--  argument • 🟢 arg
+-  argument • 🟡 arg {memory}
 -  asynchronous • 🟢 async
 -  attribute • 🟢 attr
 -  authentication • auth
@@ -311,8 +289,8 @@ Unrecommended ones can still be considered. The most important thing is to remai
 
 -  temperature • 🟢 temp
 -  temporary
-   - 🟢 tmp
-   - 🟢 temp
+   -  🟢 tmp
+   -  🟢 temp
 -  text • 🔴 txt
 -  time • 🟡 t
 -  timer • 🟢 tmr
@@ -353,6 +331,16 @@ Unrecommended ones can still be considered. The most important thing is to remai
 -  yes • 🟡 y {only with **n**}
 
 ## Z
+
+## Symbols
+
+## Others
+
+---
+
+<br>
+
+[License](./LICENCE)
 
 <br>
 
