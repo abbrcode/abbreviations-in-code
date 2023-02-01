@@ -29,12 +29,12 @@ If you use the abbreviations below, your naming will become more coherent, logic
 -  action • 🔴 act
 -  active • 🔴 act
 -  actual • 🔴 act
--  allocate • 🟡 alloc {memory}
+-  allocate • 🟡 alloc { memory }
 -  alternative • 🟢 alt
 -  alternate • 🟢 alt
 -  application • 🟢 app
 -  array • 🟢 arr
--  argument • 🟡 arg {memory}
+-  argument • 🟢 arg
 -  asynchronous • 🟢 async
 -  attribute • 🟢 attr
 -  authentication • auth
@@ -43,11 +43,11 @@ If you use the abbreviations below, your naming will become more coherent, logic
 ### B
 
 -  background • 🟢 bg
--  battery • 🟡 bat {power}
+-  battery • 🟡 bat { power }
 -  binary • 🟢 bin
 -  boolean • 🟢 bool
 -  break • 🔴 brk
--  breakline • 🟡 bl {encoding}
+-  breakline • 🟡 bl { encoding }
 -  buffer • 🟢 buf
 -  button • 🟢 btn
 
@@ -58,24 +58,24 @@ If you use the abbreviations below, your naming will become more coherent, logic
 -  callback • 🟢 cb
 -  certificate • 🟢 cert
 -  certification • 🟢 cert
--  channel • 🟡 ch {connection}
+-  channel • 🟡 ch { connections }
 -  character • 🟢 char
 -  check • 🟢 chk
--  checksum • 🟡 csum {operation}
--  circle • 🟡 circ {shape}
+-  checksum • 🟡 csum { operations }
+-  circle • 🟡 circ { shapes }
 -  clear • 🟢 clr
 -  command • 🟢 cmd
 -  commercial • 🔴 com
 -  common • 🔴 com
 -  communication • 🔴 com
--  compare • 🟡 cmp {conditional operator}
+-  compare • 🟡 cmp { conditional operators }
 -  collection • 🟢 coll
 -  column • 🟢 col
 -  concatenate • 🟢 concat
 -  configuration
-   -  🟢 conf
    -  🟢 config
--  connection • 🟢 conn {connection}
+   -  🔴 conf
+-  connection • 🟢 conn { connections }
 -  context • 🟢 ctx
 -  continue • 🟢 cont
 -  control • 🟢 ctrl
@@ -86,25 +86,25 @@ If you use the abbreviations below, your naming will become more coherent, logic
 -  cotangent • 🟢 cot
 -  counter • 🟢 cnt
 -  current
-   -  🟢 cur
    -  🟢 curr
+   -  🔴 cur
 
 ### D
 
 -  databse • 🟢 db
 -  debug • 🟢 dbg
 -  decimal • 🟢 dec
--  decrease • 🟢 dec
--  default • 🟢 def
+-  decrease • 🟡 dec {loops}
+-  default • 🔴 def
 -  define • 🟢 def
 -  delete • 🟢 del
--  delta time • 🟡 dt {calculation}
+-  delta time • 🟡 dt { calculations }
 -  descriptor • 🟢 dsc
 -  destination • 🟢 dest
 -  developer • 🟢 dev
 -  development • 🟢 dev
--  device • 🟢 dev
--  difference • 🟡 diff {operation}
+-  device • 🟡 dev { devices }
+-  difference • 🟡 diff { operations }
 -  direction • 🟢 dir
 -  directory • 🟢 dir
 -  disable • 🟢 dis
@@ -117,7 +117,7 @@ If you use the abbreviations below, your naming will become more coherent, logic
 
 -  enable • 🟢 en
 -  environment • 🟢 env
--  equal • 🟡 eq {binary operation}
+-  equal • 🟡 eq { binary operations }
 -  error • 🟢 err
 -  etc • 🟢 etc
 -  event • 🟢 e
@@ -133,39 +133,39 @@ If you use the abbreviations below, your naming will become more coherent, logic
 -  for example 🟢 e.g.
 -  format • 🟢 fmt
 -  function
-   -  🟢 f
-   -  🟢 fn
    -  🟢 func
+   -  🔴 f
+   -  🔴 fn
 -  function pointer • 🟢 fp
 
 ### G
 
 -  generate • 🟢 gen
--  greater or equal • 🟡 ge {binary operation}
--  greater than • 🟡 gt {binary operation}
+-  greater or equal • 🟡 ge { binary operations }
+-  greater than • 🟡 gt { binary operations }
 
 ### H
 
--  hardware • 🟡 hw {computer science}
+-  hardware • 🟡 hw { computer science }
 -  header • 🔴 hdr
--  height • 🟡 h {shape}
+-  height • 🟡 h { shapes }
 -  hexadecimal 🟢 hex • hexadecimal
--  horizontal • 🟡 hor {shape}
+-  horizontal • 🟡 hor { shapes }
 
 ### I
 
 -  identifier • 🟢 id
 -  image • 🟢 img
 -  include • 🟢 inc
--  increase • 🟢 inc
+-  increase • 🟡 inc { loops }
 -  index • 🟢 idx
 -  information • info
 -  initialize • 🟢 init
 -  initialization • 🟢 init
--  input 🟢 in • input
+-  input • 🟢 in
 -  insert • 🟢 ins
 -  integer • 🟢 int
--  iterator • 🟢 iter
+-  iterator • 🟡 iter {loops}
 -  interface
    -  🟢 iface
    -  🟢 intf
@@ -179,13 +179,13 @@ If you use the abbreviations below, your naming will become more coherent, logic
 ### L
 
 -  language • 🟢 lang
--  latitude • 🟡 lat {only with **coord**}
+-  latitude • 🟡 lat { only with **coord** }
 -  length • 🟢 len
--  less or equal • 🟡 le {binary operator}
--  less than • 🟡 lt {binary operator}
+-  less or equal • 🟡 le { binary operators }
+-  less than • 🟡 lt { binary operators }
 -  library • 🟢 lib
 -  linked list • 🟢 ll
--  longitude • 🟡 lon {only with **coord**}
+-  longitude • 🟡 lon { only with **coord** }
 
 ### M
 
@@ -193,34 +193,34 @@ If you use the abbreviations below, your naming will become more coherent, logic
 -  maximum • 🟢 max
 -  memory • 🟢 mem
 -  message • 🟢 msg
--  metadata • 🟡 meta {data science}
+-  metadata • 🟡 meta { data science }
 -  microcontroller • 🟢 mcu
 -  middle • 🟢 mid
 -  minimum • 🟢 min
 -  miscellaneous • 🟢 misc
 -  modulo • 🟢 mod
 -  multiplier • 🟢 mplr
--  mutable • 🟡 mut {variable}
+-  mutable • 🟡 mut { variables }
 
 ### N
 
 -  navigation • 🟢 nav
 -  network • 🟢 net
--  newline • 🟡 nl {endcoding}
--  no • 🔴 n {only with **yes**}
--  node 🟡 $... • {selector / DOM}
--  not equal • 🟡 ne {binary operator}
+-  newline • 🟡 nl { endcoding }
+-  no • 🟡 n { only with **yes** }
+-  node 🟡 $... • { selector / DOM }
+-  not equal • 🟡 ne { binary operators }
 -  number • 🟢 num
 
 ### O
 
 -  object • 🟢 obj
--  object key • 🟡 key {only with **val**}
--  operation • 🟡 op {binary operation}
+-  object key • 🟡 key { only with **val** }
+-  operation • 🟡 op { binary operations }
 -  optional • 🟢 opt
 -  option • 🟢 opt
 -  operating system • 🟢 os
--  order • 🔴 ord {data science}
+-  order • 🟡 ord { data science }
 -  output • 🟢 out
 
 ### P
@@ -230,16 +230,16 @@ If you use the abbreviations below, your naming will become more coherent, logic
 -  picture • 🟢 pic
 -  pixel • 🟢 px
 -  pointer
-   -  🟡 p {memory}
+   -  🟡 p { memory }
    -  🟢 ptr
 -  position • 🟢 pos
 -  prediction • 🟢 pred
 -  preference • 🟢 pref
 -  previous • 🟢 prev
--  process • 🟡 proc {thread}
+-  process • 🟡 proc { threads }
 -  production • 🟢 prod
 -  profiler • 🟢 prof
--  power • 🟡 pwr {energy}
+-  power • 🟡 pwr { energy }
 
 ### Q
 
@@ -249,16 +249,16 @@ If you use the abbreviations below, your naming will become more coherent, logic
 
 ### R
 
--  radius • 🟡 r {circle / shape}
+-  radius • 🟡 r { circles / shapes }
 -  random • 🟢 rand
 -  range • 🟢 rng
 -  receive • 🟢 recv
 -  record • 🟢 rec
--  rectangle • 🟡 rect {shape}
+-  rectangle • 🟡 rect { shapes }
 -  reference • 🟢 ref
 -  regular expression
-   -  🟢 rgx
    -  🟢 regex
+   -  🔴 rgx
 -  remote • 🟢 rem
 -  repository • 🟢 repo
 -  required • 🟢 req
@@ -270,15 +270,15 @@ If you use the abbreviations below, your naming will become more coherent, logic
 
 ### S
 
--  signed as prefix • 🟡 s {modifier}
--  semaphore • 🟡 sem {conditional operator}
+-  signed as prefix • 🟡 s { modifiers }
+-  semaphore • 🟡 sem { conditional operators }
 -  selection • 🟢 sel
 -  selected • 🟢 sel
 -  sine • 🟢 sin
 -  sequence • 🟢 seq
 -  square root • 🟢 sqrt
 -  source • 🟢 src
--  software • 🟡 sw {computer science}
+-  software • 🟡 sw { computer science }
 -  statistic • 🟢 stat
 -  std • standard • 🟢 std
 -  string • 🟢 str
@@ -287,10 +287,8 @@ If you use the abbreviations below, your naming will become more coherent, logic
 
 ### T
 
--  temperature • 🟢 temp
--  temporary
-   -  🟢 tmp
-   -  🟢 temp
+-  temperature • 🟢 tmp
+-  temporary •  🟢 temp
 -  text • 🔴 txt
 -  time • 🟡 t
 -  timer • 🟢 tmr
@@ -298,37 +296,37 @@ If you use the abbreviations below, your naming will become more coherent, logic
 -  to • 🔴 2
 -  toggle • 🔴 tgl
 -  transaction • 🟢 tx
--  type • 🟡 t {modifier}
+-  type • 🟡 t { modifiers }
 
 ### U
 
 -  user
-   -  🟡 u {URLs}
+   -  🟡 u { URLs }
    -  🔴 usr
 
 ### V
 
 -  value
-   -  🟢 v {only with **k**}
    -  🟢 val
--  vector • 🟡 v
+   -  🟡 v { only with **k** }
+-  vector • 🟡 v { physics }
 -  variable • 🟢 var
 -  version
-   -  🟡 v
-   -  🟢 ver
+   -  🟢 v
+   -  🔴 ver
 -  vertical • 🟢 ver
 
 ### W
 
--  white space • 🟡 ws {encoding}
--  width • 🟡 w {shape}
+-  white space • 🟡 ws { encoding }
+-  width • 🟡 w { shapes }
 -  window • 🟢 win
 
 ## X
 
 ## Y
 
--  yes • 🟡 y {only with **n**}
+-  yes • 🟡 y { only with **n** }
 
 ## Z
 
