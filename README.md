@@ -7,7 +7,7 @@ If you use the abbreviations below, your naming will become more coherent, logic
 ## Index
 
 -  [Guide](./guide.md)
--  [CONTRIBUTING](./CONTRIBUTING.md)
+-  [CONTRIBUTING](./.github/CONTRIBUTING.md)
 
 ## List
 
