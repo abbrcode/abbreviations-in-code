@@ -2,15 +2,11 @@
 
 # Contributing
 
-## List [guide](../guide.md)
-
-<br>
-
 ## A good abbreviation is:
 
 -  `global` • understood by everyone
 -  `significant` • seen for the first time you still know what it means
 
 ## Open an issue
-- [New abbr]()
-- [Edit curr abbr]()
+- [New abbr](./ISSUE_TEMPLATE/newAbbr.MD)
+- [Edit curr abbr](./ISSUE_TEMPLATE/editCurrAbbr.md)

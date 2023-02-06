@@ -4,10 +4,19 @@ Giving good names to variables, functions, files etc. can be difficult. Long nam
 Choosing a shorter form is better.
 If you use the abbreviations below, your naming will become more coherent, logical and understandable to other programmers (even newbies).
 
-## Index
+## [CONTRIBUTING](./.github/CONTRIBUTING.md)
 
--  [Guide](./guide.md)
--  [CONTRIBUTING](./.github/CONTRIBUTING.md)
+## Guide
+
+Colored circles before the abbr mean the degree of recommendation:
+
+-  🟢 Recommended
+-  🟡 Context-sensitive
+-  🔴 Not recommended
+
+Unrecommended abbrs can still be considered.
+The most important thing is to remain consistent in your code.
+Context abbrs are more suitable in certain cases. The context is specified between { } after the abbr.
 
 ## List
 
