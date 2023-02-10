@@ -11,12 +11,8 @@ If you use the abbreviations below, your naming will become more coherent, logic
 Colored circles before the abbr mean the degree of recommendation:
 
 -  🟢 Recommended
--  🟡 Context-sensitive
+-  🟡 Context-sensitive • Context is specified between { }.
 -  🔴 Not recommended
-
-Unrecommended abbrs can still be considered.
-The most important thing is to remain consistent in your code.
-Context abbrs are more suitable in certain cases. The context is specified between { } after the abbr.
 
 ## List
 

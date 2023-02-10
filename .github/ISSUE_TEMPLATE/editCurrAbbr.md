@@ -1,4 +1,4 @@
-# ✏️ Edit curr abbrs
+# ✏️ Edit curr abbr
 
 Which abbrs do you want to modify?
 

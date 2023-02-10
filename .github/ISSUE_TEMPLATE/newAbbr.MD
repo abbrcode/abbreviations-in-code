@@ -1,4 +1,4 @@
-# ➕ New abbrs
+# ➕ New abbr
 
 ## Criteria
 
@@ -26,4 +26,4 @@
 
 ---
 
-- [ ] I can handle the following pr related to this issue to add the new abbrs.
+- [ ] I can handle the following pr related to this issue to add the new abbr.
