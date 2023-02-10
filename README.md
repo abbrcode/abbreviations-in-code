@@ -77,9 +77,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  collection • 🟢 coll
 -  column • 🟢 col
 -  concatenate • 🟢 concat
--  configuration
-   -  🟢 config
-   -  🔴 conf
+-  configuration • 🟢 config • 🔴 conf
 -  connection • 🟢 conn { connections }
 -  context • 🟢 ctx
 -  continue • 🟢 cont
@@ -90,9 +88,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  cosine • 🟢 cos
 -  cotangent • 🟢 cot
 -  counter • 🟢 cnt
--  current
-   -  🟢 curr
-   -  🔴 cur
+-  current • 🟢 curr • 🔴 cur
 
 ### D
 
@@ -137,10 +133,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  figure • 🟢 fig
 -  for example 🟢 e.g.
 -  format • 🟢 fmt
--  function
-   -  🟢 func
-   -  🔴 f
-   -  🔴 fn
+-  function • 🟢 func • 🔴 f • 🔴 fn
 -  function pointer • 🟢 fp
 
 ### G
@@ -171,9 +164,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  insert • 🟢 ins
 -  integer • 🟢 int
 -  iterator • 🟡 iter {loops}
--  interface
-   -  🟢 iface
-   -  🟢 intf
+-  interface • 🟢 iface • 🔴 intf
 
 ### J
 
@@ -234,9 +225,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  performance • 🟢 perf
 -  picture • 🟢 pic
 -  pixel • 🟢 px
--  pointer
-   -  🟡 p { memory }
-   -  🟢 ptr
+-  pointer • 🟢 ptr • 🟡 p { memory }
 -  position • 🟢 pos
 -  prediction • 🟢 pred
 -  preference • 🟢 pref
@@ -248,9 +237,7 @@ Colored circles before the abbr mean the degree of recommendation:
 
 ### Q
 
--  query
-   -  🟢 q
-   -  🟢 qry
+-  query • 🟢 q • 🔴 qry
 
 ### R
 
@@ -261,9 +248,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  record • 🟢 rec
 -  rectangle • 🟡 rect { shapes }
 -  reference • 🟢 ref
--  regular expression
-   -  🟢 regex
-   -  🔴 rgx
+-  regular expression • 🟢 regex • 🔴 rgx
 -  remote • 🟢 rem
 -  repository • 🟢 repo
 -  required • 🟢 req
@@ -305,20 +290,14 @@ Colored circles before the abbr mean the degree of recommendation:
 
 ### U
 
--  user
-   -  🟡 u { URLs }
-   -  🔴 usr
+-  user • 🟡 u { URLs } • 🔴 usr
 
 ### V
 
--  value
-   -  🟢 val
-   -  🟡 v { only with **k** }
+-  value • 🟢 val • 🟡 v { only with **k** }
 -  vector • 🟡 v { physics }
 -  variable • 🟢 var
--  version
-   -  🟢 v
-   -  🔴 ver
+-  version • 🟢 v • 🔴 ver
 -  vertical • 🟢 ver
 
 ### W
