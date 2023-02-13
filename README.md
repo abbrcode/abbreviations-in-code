@@ -1,42 +1,25 @@
 # Abbreviations in code
 
-The list of the abbreviations you can find and use in software environments.
-
-## Index
-
--  [Goal](#goal)
--  [Guide](#guide)
--  [List](#list)
--  [Contributing](./CONTRIBUTING.md)
-
-## A good abbreviation is:
-
--  `global` • understood by everyone
--  `significant` • seen for the first time you still know what it means
--  `absolute` • not related to the context
--  `short` • taking out one letter is not an abbreviation
-
-## Goal
-
-Giving good names to variables, functions, classes, files etc. can be difficult. Long names are always clear, but take time to read, take up space and are hard to remember. Choosing a shorter form is better.
-
+Giving good names to variables, functions, files etc. can be difficult. Long names are always clear, but take time to read, space and are hard to remember.
+Choosing a shorter form is better.
 If you use the abbreviations below, your naming will become more coherent, logical and understandable to other programmers (even newbies).
+
+## [CONTRIBUTING](./.github/CONTRIBUTING.md)
 
 ## Guide
 
-Abbreviations are in key&ndash;value format. Multiple choices are sorted from most to least used. Colored circles signify the degree of recommendation:
+Colored circles before the abbr mean the degree of recommendation:
 
-- 🟢 Recommended
-- 🟡 Context-sensitive
-- 🔴 Not recommended
-
-Unrecommended ones can still be considered. The most important thing is to remain consistent in your code.
+-  🟢 Recommended
+-  🟡 Context-sensitive • Context is specified between { }.
+-  🔴 Not recommended
 
 ## List
 
 -  [Numbers](#numbers)
 -  [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 -  [Symbols](#symbols)
+-  [Others](#others)
 
 ### Numbers
 
@@ -44,277 +27,302 @@ Unrecommended ones can still be considered. The most important thing is to remai
 
 ### A
 
--  🟢 abbr • abbreviation
--  🟢 abs • absolute number
--  🔴 act • action / active / actual
--  🟢 addr • address
--  🟡 alloc • allocate {memory}
--  🟢 alt • alternative / alternate
--  🟢 app • application
--  🟡 arg • argument {memory}
--  🟢 arr • array
--  🟢 async • asynchronous
--  🟢 attr • attribute
--  🟢 auth • authentication / authenticate
--  🟢 avg • average
+-  abbreviation • 🟢 abbr
+-  absolute • 🟢 abs
+-  addition • 🟢 sum
+-  address • 🟢 addr
+-  action • 🔴 act
+-  active • 🔴 act
+-  actual • 🔴 act
+-  allocate • 🟡 alloc { memory }
+-  alternative • 🟢 alt
+-  alternate • 🟢 alt
+-  application • 🟢 app
+-  array • 🟢 arr
+-  argument • 🟢 arg
+-  asynchronous • 🟢 async
+-  attribute • 🟢 attr
+-  authentication • auth
+-  average • 🟢 avg
 
 ### B
 
--  🟡 bat • battery {power}
--  🟢 bg • background
--  🟢 bin • binary
--  🟡 bl • breakline {encoding}
--  🟢 bool • boolean
--  🔴 brk • break
--  🟢 btn • button
--  🟢 buf • buffer
+-  background • 🟢 bg
+-  battery • 🟡 bat { power }
+-  binary • 🟢 bin
+-  boolean • 🟢 bool
+-  break • 🔴 brk
+-  breakline • 🟡 bl { encoding }
+-  buffer • 🟢 buf
+-  button • 🟢 btn
 
 ### C
 
--  🟢 calc • calculate / calculator
--  🟢 cb • callback
--  🟢 cert • certificate
--  🟡 ch • channel {connection}
--  🟢 chk • check
--  🟢 char • character
--  🟡 circ • circle {shape}
--  🟢 clr • clear
--  🟢 cmd • command
--  🟡 cmp • compare {conditional operator}
--  🟢 cnt • counter
--  🟢 concat • concatenate
--  🟢 conf / config • configuration
--  🟢 conn • connection {connection}
--  🟢 cont • continue
--  🟢 conv • conversation
--  🟢 col • column
--  🟢 coll • collection
--  🔴 com • commercial / common / communication
--  🟢 coord • coordinate
--  🟢 cos • cosine
--  🟢 cot • cotangent
--  🟡 csum • checksum {operation}
--  🟢 ctrl • control
--  🟢 ctx • context
--  🟢 cur / curr • current
--  🔴 cpy • copy
+-  calculate • 🟢 calc
+-  calculator • 🟢 calc
+-  callback • 🟢 cb
+-  certificate • 🟢 cert
+-  certification • 🟢 cert
+-  channel • 🟡 ch { connections }
+-  character • 🟢 char
+-  check • 🟢 chk
+-  checksum • 🟡 csum { operations }
+-  circle • 🟡 circ { shapes }
+-  clear • 🟢 clr
+-  command • 🟢 cmd
+-  commercial • 🔴 com
+-  common • 🔴 com
+-  communication • 🔴 com
+-  compare • 🟡 cmp { conditional operators }
+-  collection • 🟢 coll
+-  column • 🟢 col
+-  concatenate • 🟢 concat
+-  configuration • 🟢 config • 🔴 conf
+-  connection • 🟢 conn { connections }
+-  context • 🟢 ctx
+-  continue • 🟢 cont
+-  control • 🟢 ctrl
+-  conversation • 🟢 conv
+-  coordinate • 🟢 coord
+-  copy • 🔴 cpy
+-  cosine • 🟢 cos
+-  cotangent • 🟢 cot
+-  counter • 🟢 cnt
+-  current • 🟢 curr • 🔴 cur
 
 ### D
 
--  🟢 db • database
--  🟢 dbg • debug
--  🟢 dec • decimal / decrease
--  🟢 def • default / define
--  🟢 del • delete
--  🟢 dest • destination
--  🟢 dev • development / device / developer
--  🟡 diff • difference {operation}
--  🟢 dir • directory / direction
--  🟢 dis • disable
--  🟢 disp • display
--  🟢 doc • document
--  🟢 drv • driver
--  🟢 dsc • descriptor
--  🟡 dt • delta time {calculation}
--  🟢 dyn • dynamic
+-  databse • 🟢 db
+-  debug • 🟢 dbg
+-  decimal • 🟢 dec
+-  decrease • 🟡 dec {loops}
+-  default • 🔴 def
+-  define • 🟢 def
+-  delete • 🟢 del
+-  delta time • 🟡 dt { calculations }
+-  descriptor • 🟢 dsc
+-  destination • 🟢 dest
+-  developer • 🟢 dev
+-  development • 🟢 dev
+-  device • 🟡 dev { devices }
+-  difference • 🟡 diff { operations }
+-  direction • 🟢 dir
+-  directory • 🟢 dir
+-  disable • 🟢 dis
+-  display • 🟢 disp
+-  document • 🟢 doc
+-  driver • 🟢 drv
+-  dynamic • 🟢 dyn
 
 ### E
 
--  🟢 e • event
--  🟢 e.g. • example
--  🟢 en • enable
--  🟢 env • environment
--  🟡 eq • equal {binary operation}
--  🟢 err • error
--  🟢 exe • executable
--  🟢 expr • expression
--  🟢 ext • extension
--  🟢 etc • etcetera
+-  enable • 🟢 en
+-  environment • 🟢 env
+-  equal • 🟡 eq { binary operations }
+-  error • 🟢 err
+-  etc • 🟢 etc
+-  event • 🟢 e
+-  executable • 🟢 exe
+-  expression • 🟢 expr
+-  extension • 🟢 ext
 
 ### F
 
--  🟢 f / func • function
--  🟢 fac • factory
--  🟢 fd • file descriptor
--  🟢 fig • figure
--  🟢 fmt • format
--  🟢 fp • function pointer
+-  factory • 🟢 fac
+-  file descriptor • 🟢 fd
+-  figure • 🟢 fig
+-  for example 🟢 e.g.
+-  format • 🟢 fmt
+-  function • 🟢 func • 🔴 f • 🔴 fn
+-  function pointer • 🟢 fp
 
 ### G
 
--  🟡 ge • greater or equal {binary operation}
--  🟢 gen • generate
--  🟡 gt • greater than {binary operation}
+-  generate • 🟢 gen
+-  greater or equal • 🟡 ge { binary operations }
+-  greater than • 🟡 gt { binary operations }
 
 ### H
 
--  🟡 h • height {shape}
--  🟢 hex • hexadecimal
--  🔴 hdr • header
--  🟡 hor • horizontal {shape}
--  🟡 hw • hardware {computer science}
+-  hardware • 🟡 hw { computer science }
+-  header • 🔴 hdr
+-  height • 🟡 h { shapes }
+-  hexadecimal 🟢 hex • hexadecimal
+-  horizontal • 🟡 hor { shapes }
 
 ### I
 
--  🟢 id • identifier
--  🟢 idx • index
--  🟢 iface • interface
--  🟢 img • image
--  🟢 in • input
--  🟢 inc • include / increase
--  🟢 info • information
--  🟢 init • initialize
--  🟢 ins • insert
--  🟢 intf • interface
--  🟢 int • integer
--  🟢 iter • iterator
+-  identifier • 🟢 id
+-  image • 🟢 img
+-  include • 🟢 inc
+-  increase • 🟡 inc { loops }
+-  index • 🟢 idx
+-  information • info
+-  initialize • 🟢 init
+-  initialization • 🟢 init
+-  input • 🟢 in
+-  insert • 🟢 ins
+-  integer • 🟢 int
+-  iterator • 🟡 iter {loops}
+-  interface • 🟢 iface • 🔴 intf
 
 ### J
 
--  🟢 js • javascript
+-  javascript • 🟢 js
 
 ### K
 
--  🟡 key • object key {only with **val**}
-
 ### L
 
--  🟢 lang • language
--  🟡 lat • latitude {only with **coord**}
--  🟢 lib • library
--  🟡 le • less or equal {binary operator}
--  🟢 len • length
--  🟢 ll • linked list
--  🟡 lon • longitude {only with **coord**}
--  🟡 lt • less than {binary operators}
+-  language • 🟢 lang
+-  latitude • 🟡 lat { only with **coord** }
+-  length • 🟢 len
+-  less or equal • 🟡 le { binary operators }
+-  less than • 🟡 lt { binary operators }
+-  library • 🟢 lib
+-  linked list • 🟢 ll
+-  longitude • 🟡 lon { only with **coord** }
 
 ### M
 
--  🟢 max • maximum
--  🟢 mcu • microcontroller
--  🟢 mem • memory
--  🟡 meta • metadata {data science}
--  🟢 mid • middle
--  🟢 min • minimum
--  🟢 misc • miscellaneous
--  🟢 mng • manager
--  🟢 mod • modulo
--  🟢 msg • message
--  🟡 mut • mutable {variables}
+-  manager • 🟢 mng
+-  maximum • 🟢 max
+-  memory • 🟢 mem
+-  message • 🟢 msg
+-  metadata • 🟡 meta { data science }
+-  microcontroller • 🟢 mcu
+-  middle • 🟢 mid
+-  minimum • 🟢 min
+-  miscellaneous • 🟢 misc
+-  modulo • 🟢 mod
+-  multiplier • 🟢 mplr
+-  mutable • 🟡 mut { variables }
 
 ### N
 
--  🔴 n • no {only with **yes**}
--  🟢 nav • navigation
--  🟡 ne • not equal {binary operator}
--  🟢 net • network
--  🟡 nl • newline {endcoding}
--  🟢 num • number
+-  navigation • 🟢 nav
+-  network • 🟢 net
+-  newline • 🟡 nl { endcoding }
+-  no • 🟡 n { only with **yes** }
+-  node 🟡 $... • { selector / DOM }
+-  not equal • 🟡 ne { binary operators }
+-  number • 🟢 num
 
 ### O
 
--  🟢 obj • object
--  🔴 ord • order {data science}
--  🟡 op • operation {binary operation}
--  🟢 opt • option / optional
--  🟢 os • operating system
--  🟢 out • output
+-  object • 🟢 obj
+-  object key • 🟡 key { only with **val** }
+-  operation • 🟡 op { binary operations }
+-  optional • 🟢 opt
+-  option • 🟢 opt
+-  operating system • 🟢 os
+-  order • 🟡 ord { data science }
+-  output • 🟢 out
 
 ### P
 
--  🟡 p • pointer {memory}
--  🟢 param • parameter
--  🟢 perf • performance
--  🟢 pic • picture
--  🟢 pos • position
--  🟢 pred • prediction
--  🟢 pref • preference
--  🟢 prev • previous
--  🟡 proc • process {thread}
--  🟢 prod • production
--  🟢 prof • profiler
--  🟢 ptr • pointer
--  🟢 pr • pull request
--  🟡 pwr • power {energy}
--  🟢 px • pixel
+-  parameter • 🟢 param
+-  performance • 🟢 perf
+-  picture • 🟢 pic
+-  pixel • 🟢 px
+-  pointer • 🟢 ptr • 🟡 p { memory }
+-  position • 🟢 pos
+-  prediction • 🟢 pred
+-  preference • 🟢 pref
+-  previous • 🟢 prev
+-  process • 🟡 proc { threads }
+-  production • 🟢 prod
+-  profiler • 🟢 prof
+-  power • 🟡 pwr { energy }
 
 ### Q
 
--  🟢 q / qry • query
+-  query • 🟢 q • 🔴 qry
 
 ### R
 
--  🟡 r • radius {circle / shape}
--  🟢 rand • random
--  🟢 rec • record
--  🟡 rect • rectangle {shape}
--  🟢 recv • receive
--  🟢 ref • reference
--  🟢 regex / rgx • regular expression
--  🟢 rem • remove
--  🟢 repo • repository
--  🟢 req • required / requested
--  🟢 res • response / result
--  🟢 ret • return
--  🟢 rev • revision
--  🟢 rng • range
+-  radius • 🟡 r { circles / shapes }
+-  random • 🟢 rand
+-  range • 🟢 rng
+-  receive • 🟢 recv
+-  record • 🟢 rec
+-  rectangle • 🟡 rect { shapes }
+-  reference • 🟢 ref
+-  regular expression • 🟢 regex • 🔴 rgx
+-  remote • 🟢 rem
+-  repository • 🟢 repo
+-  required • 🟢 req
+-  requested • 🟢 req
+-  result • 🟢 res
+-  responde • 🟢 res
+-  return • 🟢 ret
+-  revision • 🟢 rev
 
 ### S
 
--  🟡 s • signed as prefix {modifier}
--  🟡 sem • semaphore {conditional operator}
--  🟢 sel • selected / selection
--  🟢 sin • sine
--  🟢 seq • sequence
--  🟢 sqrt • square root
--  🟢 src • source
--  🟡 sw • software {computer science}
--  🟢 stat • statistic
--  🟢 std • standard
--  🟢 str • string
--  🟢 sum • addition
--  🟢 sync • synchronize
+-  signed as prefix • 🟡 s { modifiers }
+-  semaphore • 🟡 sem { conditional operators }
+-  selection • 🟢 sel
+-  selected • 🟢 sel
+-  sine • 🟢 sin
+-  sequence • 🟢 seq
+-  square root • 🟢 sqrt
+-  source • 🟢 src
+-  software • 🟡 sw { computer science }
+-  statistic • 🟢 stat
+-  std • standard • 🟢 std
+-  string • 🟢 str
+-  synchronous • sync
+-  synchronize • 🟢 sync
 
 ### T
 
--  🟡 t • time / type (e.g. uint8_t) {type modifier}
--  🟢 temp • temperature
--  🟢 temp / tmp • temporary
--  🔴 tgl • toggle
--  🟢 tmr • timer
--  🟢 ts • timestamp
--  🔴 txt • text
+-  temperature • 🟢 tmp
+-  temporary •  🟢 temp
+-  text • 🔴 txt
+-  time • 🟡 t
+-  timer • 🟢 tmr
+-  timestamp • 🟢 ts
+-  to • 🔴 2
+-  toggle • 🔴 tgl
+-  transaction • 🟢 tx
+-  type • 🟡 t { modifiers }
 
 ### U
 
--  🟡 u • user {URLs}
--  🔴 usr • user
+-  user • 🟡 u { URLs } • 🔴 usr
 
 ### V
 
--  🟢 v • value {only with **k**}
--  🟡 v • vector / version
--  🟢 val • value
--  🟢 var • variable
--  🟢 ver • version / vertical
+-  value • 🟢 val • 🟡 v { only with **k** }
+-  vector • 🟡 v { physics }
+-  variable • 🟢 var
+-  version • 🟢 v • 🔴 ver
+-  vertical • 🟢 ver
 
 ### W
 
--  🟡 w • width {shape}
--  🟢 win • window
--  🟡 ws • white space {encoding}
+-  white space • 🟡 ws { encoding }
+-  width • 🟡 w { shapes }
+-  window • 🟢 win
 
 ## X
 
 ## Y
 
--  🟡 y • yes {only with **n**}
+-  yes • 🟡 y { only with **n** }
 
 ## Z
 
-### Symbols
+## Symbols
 
--  🟡 $... • node ($btn) {jQuery selector / DOM}
+## Others
+
+---
+
+<br>
+
+[License](./LICENCE)
 
 <br>
 
