@@ -1,3 +1,12 @@
+---
+name: New abbr
+about: Create a new abbreviation
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # ➕ New abbr
 
 ## Criteria
