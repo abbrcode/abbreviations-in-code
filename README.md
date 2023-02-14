@@ -204,7 +204,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  network • 🟢 net
 -  newline • 🟡 nl { endcoding }
 -  no • 🟡 n { only with **yes** }
--  node 🟡 $... • { selector / DOM }
+-  node • 🟡 $... { selector / DOM }
 -  not equal • 🟡 ne { binary operators }
 -  number • 🟢 num
 
