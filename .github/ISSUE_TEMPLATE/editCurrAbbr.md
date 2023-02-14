@@ -1,10 +1,19 @@
+---
+name: Edit curr abbr
+about: Edit an existing abbreviation
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # ✏️ Edit curr abbr
 
-Which abbrs do you want to modify?
+## Which abbrs do you want to modify?
 
 ->
 
-What do you want to change?
+## What do you want to change?
 
 ...
 
