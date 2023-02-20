@@ -163,7 +163,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  input • 🟢 in
 -  insert • 🟢 ins
 -  integer • 🟢 int
--  iterator • 🟡 iter {loops}
+-  iterator • 🟡 iter { loops }
 -  interface • 🟢 iface • 🔴 intf
 
 ### J
