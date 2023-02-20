@@ -147,7 +147,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  hardware • 🟡 hw { computer science }
 -  header • 🔴 hdr
 -  height • 🟡 h { shapes }
--  hexadecimal 🟢 hex • hexadecimal
+-  hexadecimal • 🟢 hex
 -  horizontal • 🟡 hor { shapes }
 
 ### I
