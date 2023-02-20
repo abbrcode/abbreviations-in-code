@@ -270,7 +270,8 @@ Colored circles before the abbr mean the degree of recommendation:
 -  source • 🟢 src
 -  software • 🟡 sw { computer science }
 -  statistic • 🟢 stat
--  std • standard • 🟢 std
+-  standard • 🟢 std
+-  standard input output • 🟢 stdio
 -  string • 🟢 str
 -  synchronous • sync
 -  synchronize • 🟢 sync
