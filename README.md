@@ -95,7 +95,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  databse • 🟢 db
 -  debug • 🟢 dbg
 -  decimal • 🟢 dec
--  decrease • 🟡 dec {loops}
+-  decrease • 🟡 dec { loops }
 -  default • 🔴 def
 -  define • 🟢 def
 -  delete • 🟢 del
