@@ -92,7 +92,7 @@ Colored circles before the abbr mean the degree of recommendation:
 
 ### D
 
--  databse • 🟢 db
+-  database • 🟢 db
 -  debug • 🟢 dbg
 -  decimal • 🟢 dec
 -  decrease • 🟡 dec { loops }
@@ -254,7 +254,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  required • 🟢 req
 -  requested • 🟢 req
 -  result • 🟢 res
--  responde • 🟢 res
+-  response • 🟢 res
 -  return • 🟢 ret
 -  revision • 🟢 rev
 
