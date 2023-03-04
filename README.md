@@ -70,9 +70,9 @@ Colored circles before the abbr mean the degree of recommendation:
 -  circle • 🟡 circ { shapes }
 -  clear • 🟢 clr
 -  command • 🟢 cmd
--  commercial • 🔴 com
--  common • 🔴 com
--  communication • 🔴 com
+-  commercial • 🟡 com { URLs }
+-  common • 🔴 com • 🔴 comm
+-  communication • 🟢 com
 -  compare • 🟡 cmp { conditional operators }
 -  collection • 🟢 coll
 -  column • 🟢 col
@@ -101,6 +101,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  delete • 🟢 del
 -  delta time • 🟡 dt { calculations }
 -  descriptor • 🟢 dsc
+-  description • 🟢 dsc
 -  destination • 🟢 dest
 -  developer • 🟢 dev
 -  development • 🟢 dev
@@ -212,6 +213,7 @@ Colored circles before the abbr mean the degree of recommendation:
 
 -  object • 🟢 obj
 -  object key • 🟡 key { only with **val** }
+-  octal • 🟢 oct
 -  operation • 🟡 op { binary operations }
 -  optional • 🟢 opt
 -  option • 🟢 opt
@@ -273,13 +275,13 @@ Colored circles before the abbr mean the degree of recommendation:
 -  standard • 🟢 std
 -  standard input output • 🟢 stdio
 -  string • 🟢 str
--  synchronous • sync
+-  synchronous • 🟢 sync
 -  synchronize • 🟢 sync
 
 ### T
 
 -  temperature • 🟢 tmp
--  temporary •  🟢 temp
+-  temporary • 🟢 temp
 -  text • 🔴 txt
 -  time • 🟡 t
 -  timer • 🟢 tmr
@@ -288,10 +290,12 @@ Colored circles before the abbr mean the degree of recommendation:
 -  toggle • 🔴 tgl
 -  transaction • 🟢 tx
 -  type • 🟡 t { modifiers }
+-  typescript • 🟢 ts
 
 ### U
 
 -  user • 🟡 u { URLs } • 🔴 usr
+-  utility • 🟢 util
 
 ### V
 
