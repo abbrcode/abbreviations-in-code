@@ -100,8 +100,8 @@ Colored circles before the abbr mean the degree of recommendation:
 -  define • 🟢 def
 -  delete • 🟢 del
 -  delta time • 🟡 dt { calculations }
--  descriptor • 🟢 dsc
--  description • 🟢 dsc
+-  descriptor • 🟢 desc
+-  description • 🟢 desc
 -  destination • 🟢 dest
 -  developer • 🟢 dev
 -  development • 🟢 dev
@@ -215,7 +215,6 @@ Colored circles before the abbr mean the degree of recommendation:
 -  object key • 🟡 key { only with **val** }
 -  octal • 🟢 oct
 -  operation • 🟡 op { binary operations }
--  optional • 🟢 opt
 -  option • 🟢 opt
 -  operating system • 🟢 os
 -  order • 🟡 ord { data science }
@@ -254,7 +253,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  remote • 🟢 rem
 -  repository • 🟢 repo
 -  required • 🟢 req
--  requested • 🟢 req
+-  request • 🟢 req
 -  result • 🟢 res
 -  response • 🟢 res
 -  return • 🟢 ret
@@ -265,7 +264,6 @@ Colored circles before the abbr mean the degree of recommendation:
 -  signed as prefix • 🟡 s { modifiers }
 -  semaphore • 🟡 sem { conditional operators }
 -  selection • 🟢 sel
--  selected • 🟢 sel
 -  sine • 🟢 sin
 -  sequence • 🟢 seq
 -  square root • 🟢 sqrt
@@ -275,8 +273,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  standard • 🟢 std
 -  standard input output • 🟢 stdio
 -  string • 🟢 str
--  synchronous • 🟢 sync
--  synchronize • 🟢 sync
+-  synchronization • 🟢 sync
 
 ### T
 
