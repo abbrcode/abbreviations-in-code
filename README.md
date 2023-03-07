@@ -207,6 +207,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  node • 🟡 $... { selector / DOM }
 -  not equal • 🟡 ne { binary operators }
 -  number • 🟢 num
+-  number of • 🟢 num
 
 ### O
 
