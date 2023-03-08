@@ -8,5 +8,5 @@
 -  `significant` • seen for the first time you still know what it means
 
 ## Open a new issue
-- [New abbr](./ISSUE_TEMPLATE/newAbbr.MD)
-- [Edit curr abbr](./ISSUE_TEMPLATE/editCurrAbbr.md)
+- [New abbr](https://github.com/kisvegabor/abbreviations-in-code/issues/new?assignees=&labels=&template=newAbbr.md&title=)
+- [Edit curr abbr](https://github.com/kisvegabor/abbreviations-in-code/issues/new?assignees=&labels=&template=editCurrAbbr.md&title=)

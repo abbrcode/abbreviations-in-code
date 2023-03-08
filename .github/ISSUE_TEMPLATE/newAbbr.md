@@ -1,19 +1,18 @@
 ---
 name: New abbr
-about: Create a new abbreviation
+about: Suggest a new abbreviation
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
 # ➕ New abbr
 
 ## Criteria
 
-- Not an acronym (e.g. **RAM, CPU, SQL**) or a conventions (e.g. **i, j, k**).
+- Not an acronym (e.g. **RAM, CPU, SQL**) or conventions (e.g. **i, j, k**).
 - Lowercase
-- Singular and neutral form.
+- Neutral form as singular masculine noun like dictionaries.
 - Max 1 🟢 abbr
 
 <br>

@@ -34,9 +34,8 @@ Colored circles before the abbr mean the degree of recommendation:
 -  action • 🔴 act
 -  active • 🔴 act
 -  actual • 🔴 act
--  allocate • 🟡 alloc { memory }
+-  allocation • 🟡 alloc { memory }
 -  alternative • 🟢 alt
--  alternate • 🟢 alt
 -  application • 🟢 app
 -  array • 🟢 arr
 -  argument • 🟢 arg
@@ -58,11 +57,9 @@ Colored circles before the abbr mean the degree of recommendation:
 
 ### C
 
--  calculate • 🟢 calc
 -  calculator • 🟢 calc
 -  callback • 🟢 cb
 -  certificate • 🟢 cert
--  certification • 🟢 cert
 -  channel • 🟡 ch { connections }
 -  character • 🟢 char
 -  check • 🟢 chk
@@ -70,13 +67,13 @@ Colored circles before the abbr mean the degree of recommendation:
 -  circle • 🟡 circ { shapes }
 -  clear • 🟢 clr
 -  command • 🟢 cmd
--  commercial • 🔴 com
--  common • 🔴 com
--  communication • 🔴 com
--  compare • 🟡 cmp { conditional operators }
+-  commercial • 🟡 com { URLs }
+-  common • 🔴 com • 🔴 comm
+-  communication • 🟢 com
+-  comparison • 🟡 cmp { conditional operators }
 -  collection • 🟢 coll
 -  column • 🟢 col
--  concatenate • 🟢 concat
+-  concatenation • 🟢 concat
 -  configuration • 🟢 config • 🔴 conf
 -  connection • 🟢 conn { connections }
 -  context • 🟢 ctx
@@ -97,10 +94,10 @@ Colored circles before the abbr mean the degree of recommendation:
 -  decimal • 🟢 dec
 -  decrease • 🟡 dec { loops }
 -  default • 🔴 def
--  define • 🟢 def
+-  definition • 🟢 def
 -  delete • 🟢 del
 -  delta time • 🟡 dt { calculations }
--  descriptor • 🟢 dsc
+-  description • 🟢 desc
 -  destination • 🟢 dest
 -  developer • 🟢 dev
 -  development • 🟢 dev
@@ -122,14 +119,14 @@ Colored circles before the abbr mean the degree of recommendation:
 -  error • 🟢 err
 -  etc • 🟢 etc
 -  event • 🟢 e
--  executable • 🟢 exe
+-  execution • 🟢 exe
 -  expression • 🟢 expr
 -  extension • 🟢 ext
 
 ### F
 
 -  factory • 🟢 fac
--  file descriptor • 🟢 fd
+-  file description • 🟢 fd
 -  figure • 🟢 fig
 -  for example 🟢 e.g.
 -  format • 🟢 fmt
@@ -138,7 +135,7 @@ Colored circles before the abbr mean the degree of recommendation:
 
 ### G
 
--  generate • 🟢 gen
+-  generation • 🟢 gen
 -  greater or equal • 🟡 ge { binary operations }
 -  greater than • 🟡 gt { binary operations }
 
@@ -154,14 +151,13 @@ Colored circles before the abbr mean the degree of recommendation:
 
 -  identifier • 🟢 id
 -  image • 🟢 img
--  include • 🟢 inc
+-  inclusion • 🟢 inc
 -  increase • 🟡 inc { loops }
 -  index • 🟢 idx
--  information • info
--  initialize • 🟢 init
+-  information • 🟢 info
 -  initialization • 🟢 init
 -  input • 🟢 in
--  insert • 🟢 ins
+-  insertion • 🟢 ins
 -  integer • 🟢 int
 -  iterator • 🟡 iter { loops }
 -  interface • 🟢 iface • 🔴 intf
@@ -213,8 +209,8 @@ Colored circles before the abbr mean the degree of recommendation:
 
 -  object • 🟢 obj
 -  object key • 🟡 key { only with **val** }
+-  octal • 🟢 oct
 -  operation • 🟡 op { binary operations }
--  optional • 🟢 opt
 -  option • 🟢 opt
 -  operating system • 🟢 os
 -  order • 🟡 ord { data science }
@@ -254,8 +250,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  regular expression • 🟢 regex • 🔴 rgx
 -  remote • 🟢 rem
 -  repository • 🟢 repo
--  required • 🟢 req
--  requested • 🟢 req
+-  request • 🟢 req
 -  result • 🟢 res
 -  response • 🟢 res
 -  return • 🟢 ret
@@ -266,7 +261,6 @@ Colored circles before the abbr mean the degree of recommendation:
 -  signed as prefix • 🟡 s { modifiers }
 -  semaphore • 🟡 sem { conditional operators }
 -  selection • 🟢 sel
--  selected • 🟢 sel
 -  sine • 🟢 sin
 -  sequence • 🟢 seq
 -  square root • 🟢 sqrt
@@ -276,8 +270,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  standard • 🟢 std
 -  standard input output • 🟢 stdio
 -  string • 🟢 str
--  synchronous • sync
--  synchronize • 🟢 sync
+-  synchronization • 🟢 sync
 
 ### T
 
@@ -291,10 +284,12 @@ Colored circles before the abbr mean the degree of recommendation:
 -  toggle • 🔴 tgl
 -  transaction • 🟢 tx
 -  type • 🟡 t { modifiers }
+-  typescript • 🟢 ts
 
 ### U
 
 -  user • 🟡 u { URLs } • 🔴 usr
+-  utility • 🟢 util
 
 ### V
 

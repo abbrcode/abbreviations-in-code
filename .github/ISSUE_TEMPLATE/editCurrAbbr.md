@@ -4,7 +4,6 @@ about: Edit an existing abbreviation
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
 # ✏️ Edit curr abbr
@@ -15,7 +14,7 @@ assignees: ''
 
 ## What do you want to change?
 
-...
+->
 
 ---
 
