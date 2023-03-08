@@ -100,7 +100,6 @@ Colored circles before the abbr mean the degree of recommendation:
 -  define • 🟢 def
 -  delete • 🟢 del
 -  delta time • 🟡 dt { calculations }
--  descriptor • 🟢 desc
 -  description • 🟢 desc
 -  destination • 🟢 dest
 -  developer • 🟢 dev
