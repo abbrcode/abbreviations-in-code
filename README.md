@@ -231,10 +231,12 @@ Colored circles before the abbr mean the degree of recommendation:
 -  prediction • 🟢 pred
 -  preference • 🟢 pref
 -  previous • 🟢 prev
+-  private • 🟢 priv
 -  process • 🟡 proc { threads }
 -  production • 🟢 prod
 -  profiler • 🟢 prof
 -  power • 🟡 pwr { energy }
+-  public • 🟢 pub
 
 ### Q
 
@@ -280,7 +282,7 @@ Colored circles before the abbr mean the degree of recommendation:
 ### T
 
 -  temperature • 🟢 tmp
--  temporary •  🟢 temp
+-  temporary • 🟢 temp
 -  text • 🔴 txt
 -  time • 🟡 t
 -  timer • 🟢 tmr
