@@ -154,8 +154,6 @@ Colored circles before the abbr mean the degree of recommendation:
 -  inclusion • 🟢 inc
 -  increase • 🟡 inc { loops }
 -  index • 🟢 idx
--  information • info
--  initialize • 🟢 init
 -  information • 🟢 info
 -  initialization • 🟢 init
 -  input • 🟢 in
