@@ -117,7 +117,6 @@ Colored circles before the abbr mean the degree of recommendation:
 -  environment • 🟢 env
 -  equal • 🟡 eq { binary operations }
 -  error • 🟢 err
--  etc • 🟢 etc
 -  event • 🟢 e
 -  execution • 🟢 exe
 -  expression • 🟢 expr
