@@ -9,6 +9,7 @@ Welcome to the CONTRIBUTING.md. In this file you can find everything you need to
 ## A good abbreviation is:
 
 -  `global` • understood by everyone
+-  `neutral` • singular masculine noun form like in dictionaries.
 -  `significant` • seen for the first time you still know what it means
 
 ## Open a new issue

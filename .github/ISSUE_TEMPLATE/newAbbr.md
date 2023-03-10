@@ -12,7 +12,6 @@ assignees: ''
 
 - Not an acronym (e.g. **RAM, CPU, SQL**) or conventions (e.g. **i, j, k**).
 - Lowercase
-- Neutral form as singular masculine noun like dictionaries.
 - Max 1 🟢 abbr
 
 <br>
