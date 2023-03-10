@@ -2,6 +2,10 @@
 
 # Contributing
 
+Welcome to the CONTRIBUTING.md. In this file you can find everything you need to contribute in our repo.
+
+> [GitHub open source page](https://github.com/open-source)
+
 ## A good abbreviation is:
 
 -  `global` • understood by everyone
