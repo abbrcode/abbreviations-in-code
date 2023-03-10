@@ -12,6 +12,7 @@ Welcome to the CONTRIBUTING.md. In this file you can find everything you need to
 -  `neutral` • singular masculine noun form like in dictionaries.
 -  `significant` • seen for the first time you still know what it means
 
-## Open a new issue
-- [New abbr](https://github.com/kisvegabor/abbreviations-in-code/issues/new?assignees=&labels=&template=newAbbr.md&title=)
-- [Edit curr abbr](https://github.com/kisvegabor/abbreviations-in-code/issues/new?assignees=&labels=&template=editCurrAbbr.md&title=)
+## Open an issue
+
+-  [New abbr](https://github.com/abbrcode/abbreviations-in-code/issues/new?assignees=&labels=&template=newAbbr.md&title=)
+-  [Edit curr abbr](https://github.com/abbrcode/abbreviations-in-code/issues/new?assignees=&labels=&template=editCurrAbbr.md&title=)
