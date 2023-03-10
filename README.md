@@ -4,7 +4,10 @@ Giving good names to variables, functions, files etc. can be difficult. Long nam
 Choosing a shorter form is better.
 If you use the abbreviations below, your naming will become more coherent, logical and understandable to other programmers (even newbies).
 
-## [CONTRIBUTING](./.github/CONTRIBUTING.md)
+<h2 align='center'>
+   
+   [Licence](./LICENCE) • [Discussions](https://github.com/orgs/abbrcode/discussions) • [CONTRIBUTING](./.github/CONTRIBUTING.md)
+</h2>
 
 ## Guide
 
@@ -317,10 +320,6 @@ Colored circles before the abbr mean the degree of recommendation:
 ## Others
 
 ---
-
-<br>
-
-[License](./LICENCE)
 
 <br>
 
