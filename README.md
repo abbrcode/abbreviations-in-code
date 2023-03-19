@@ -153,9 +153,9 @@ Colored circles before the abbr mean the degree of recommendation:
 
 -  identifier • 🟢 id
 -  image • 🟢 img
+-  implementation • 🟢 impl
 -  inclusion • 🟢 inc
 -  increase • 🟡 inc { loops }
--  implementation • 🟢 impl
 -  index • 🟢 idx
 -  information • 🟢 info
 -  initialization • 🟢 init
