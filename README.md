@@ -155,6 +155,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  image • 🟢 img
 -  inclusion • 🟢 inc
 -  increase • 🟡 inc { loops }
+-  implementation • 🟢 impl
 -  index • 🟢 idx
 -  information • 🟢 info
 -  initialization • 🟢 init
