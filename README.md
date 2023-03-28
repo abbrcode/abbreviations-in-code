@@ -325,4 +325,4 @@ Colored circles before the abbr mean the degree of recommendation:
 
 <br>
 
-[Go to index](#index)
+[Go to index](#list)
