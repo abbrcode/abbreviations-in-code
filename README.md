@@ -253,6 +253,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  reference • 🟢 ref
 -  regular expression • 🟢 regex • 🔴 rgx
 -  remote • 🟢 rem
+-  remove • 🟢 rmv • 🔴 rm
 -  repository • 🟢 repo
 -  request • 🟢 req
 -  result • 🟢 res
