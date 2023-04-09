@@ -217,7 +217,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  option • 🟢 opt
 -  operating system • 🟢 os
 -  order • 🟡 ord { data science }
-- organization • 🟢 org
+-  organization • 🟢 org
 -  output • 🟢 out
 
 ### P
