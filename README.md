@@ -217,7 +217,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  option • 🟢 opt
 -  operating system • 🟢 os
 -  order • 🟡 ord { data science }
-- organization • 🟢 org
+-  organization • 🟢 org
 -  output • 🟢 out
 
 ### P
@@ -253,6 +253,7 @@ Colored circles before the abbr mean the degree of recommendation:
 -  reference • 🟢 ref
 -  regular expression • 🟢 regex • 🔴 rgx
 -  remote • 🟢 rem
+-  remove • 🟢 rm • 🟢 rmv 
 -  repository • 🟢 repo
 -  request • 🟢 req
 -  result • 🟢 res
