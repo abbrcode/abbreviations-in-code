@@ -34,6 +34,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - actual • 🔴 act
 - addition • 🟢 sum
 - address • 🟢 addr
+- algorithm • 🟢 algo
 - allocation • 🟡 alloc { memory }
 - alternative • 🟢 alt
 - application • 🟢 app
@@ -324,7 +325,7 @@ Colored circles before the abbr mean the degree of recommendation:
 
 <br/>
 
-216 abbrs in the list.
+217 abbrs in the list.
 
 <br/>
 
