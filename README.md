@@ -269,6 +269,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - sine • 🟢 sin
 - software • 🟡 sw { computer science }
 - source • 🟢 src
+- specification • 🟢 space
 - square root • 🟢 sqrt
 - standard • 🟢 std
 - standard input output • 🟢 stdio
@@ -325,7 +326,7 @@ Colored circles before the abbr mean the degree of recommendation:
 
 <br/>
 
-217 abbrs in the list.
+218 abbrs in the list.
 
 <br/>
 
