@@ -42,7 +42,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - array • 🟢 arr
 - asynchronous • 🟢 async
 - attribute • 🟢 attr
-- authentication
+- authentication • 🟢 auth
 - average • 🟢 avg
 
 ### B
