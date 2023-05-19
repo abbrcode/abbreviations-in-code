@@ -296,7 +296,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - temperature • 🟢 tmp
 - temporary • 🟢 temp
 - text • 🔴 txt
-- time • 🟡 t { undefined }
+- time • 🟡 t { physics }
 - timer • 🟢 tmr
 - timestamp • 🟢 ts
 - to • 🔴 2
