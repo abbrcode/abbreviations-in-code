@@ -6,7 +6,7 @@ If you use the abbreviations below, your naming will become more coherent, logic
 
 <h2 align='center'>
    
-   [Licence](./LICENCE) • [Discussions](https://github.com/orgs/abbrcode/discussions) • [CONTRIBUTING](./.github/CONTRIBUTING.md)
+   [Contributing](./.github/CONTRIBUTING.md) • [Discussions](https://github.com/orgs/abbrcode/discussions) • [Licence](./LICENCE) 
 </h2>
 
 ## Guide
@@ -18,15 +18,16 @@ Colored circles before the abbr mean the degree of recommendation:
 -  🔴 Not recommended
 
 ## List
-- [Numbers](#numbers)
+
+- [Symbols](#symbols) [Numbers](#numbers)
 - [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z) 
 
-### Numbers
+### Symbols
 
+### Numbers
 - 2 • 🔴 to
 
 ### A
-
 - abbreviation • 🟢 abbr
 - absolute • 🟢 abs
 - acronym • 🟢 acro
@@ -48,7 +49,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - average • 🟢 avg
 
 ### B
-
 - background • 🟢 bg
 - battery • 🟡 bat { power }
 - binary • 🟢 bin
@@ -59,7 +59,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - button • 🟢 btn
 
 ### C
-
 - calculator • 🟢 calc
 - callback • 🟢 cb
 - certificate • 🟢 cert
@@ -79,7 +78,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - comparison • 🟡 cmp { conditional operators }
 - concatenation • 🟢 concat
 - configuration • 🔴 cfg • 🔴 conf • 🟢 config
-- connection • 🟢 conn
+- connection • 🔴 con • 🟢 conn
 - constant • 🟢 const
 - context • 🟢 ctx
 - continue • 🟢 cont
@@ -93,7 +92,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - current • 🔴 cur • 🟢 curr
 
 ### D
-
 - database • 🟢 db
 - debug • 🟢 dbg
 - decimal • 🟢 dec
@@ -108,18 +106,17 @@ Colored circles before the abbr mean the degree of recommendation:
 - development • 🟢 dev
 - device • 🟡 dev { devices }
 - difference • 🟡 diff { operations }
-- dimension • 🟡 dim { undefined }
+- dimension • 🟢 dim
 - direction • 🟢 dir
 - directory • 🟢 dir
 - disable • 🟢 dis
 - display • 🟢 disp
-- division • 🟡 div { undefined }
+- division • 🟢 div
 - document • 🟢 doc
 - driver • 🟢 drv
 - dynamic • 🟢 dyn
 
 ### E
-
 - enable • 🟢 en
 - environment • 🟢 env
 - equal • 🟡 eq { binary operations }
@@ -130,7 +127,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - extension • 🟢 ext
 
 ### F
-
 - factory • 🟢 fac
 - figure • 🟢 fig
 - file chooser • 🟢 fc
@@ -147,13 +143,11 @@ Colored circles before the abbr mean the degree of recommendation:
 - function pointer • 🟢 fp
 
 ### G
-
 - generation • 🟢 gen
 - greater or equal • 🟡 ge { binary operations }
 - greater than • 🟡 gt { binary operations }
 
 ### H
-
 - hardware • 🟡 hw { computer science }
 - header • 🔴 hdr
 - height • 🟡 h { shapes }
@@ -161,7 +155,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - horizontal • 🟡 hor { shapes }
 
 ### I
-
 - identifier • 🟢 id
 - image • 🟢 img
 - implementation • 🟢 impl
@@ -179,17 +172,14 @@ Colored circles before the abbr mean the degree of recommendation:
 - iterator • 🟡 iter { loops }
 
 ### J
-
 - javascript • 🟢 js
 
 ### K
-
 - key • 🟡 k { only with **val** }
 - keymap • 🟢 km
 - keyword • 🟢 kwd
 
 ### L
-
 - language • 🟢 lang
 - latitude • 🟡 lat { only with **coord** }
 - length • 🟢 len
@@ -203,7 +193,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - longitude • 🟡 lon { only with **coord** }
 
 ### M
-
 - manager • 🟢 mng
 - maximum • 🟢 max
 - memory • 🟢 mem
@@ -218,7 +207,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - mutable • 🟡 mut { variables }
 
 ### N
-
 - navigation • 🟢 nav
 - network • 🟢 net
 - newline • 🟡 nl { endcoding }
@@ -229,7 +217,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - number of • 🟢 num
 
 ### O
-
 - object • 🟢 obj
 - object key • 🟡 key { only with **val** }
 - octal • 🟢 oct
@@ -242,7 +229,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - output • 🟢 out
 
 ### P
-
 - package • 🟢 pkg
 - parameter • 🟢 param
 - performance • 🟢 perf
@@ -262,11 +248,9 @@ Colored circles before the abbr mean the degree of recommendation:
 - public • 🟢 pub
 
 ### Q
-
 - query • 🟢 q • 🔴 qry
 
 ### R
-
 - radius • 🟡 r { circles }
 - random • 🟢 rand • 🔴 rnd
 - range • 🟢 rng
@@ -286,7 +270,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - revision • 🟢 rev
 
 ### S
-
 - script • 🔴 sc
 - selection • 🟢 sel
 - semaphore • 🟡 sem { conditional operators }
@@ -306,7 +289,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - synchronization • 🟢 sync
 
 ### T
-
 - table data • 🟢 td
 - table header • 🟢 th
 - table row • 🟢 tr
@@ -324,12 +306,10 @@ Colored circles before the abbr mean the degree of recommendation:
 - typescript • 🟢 ts
 
 ### U
-
 - user • 🟡 u { URLs } • 🔴 usr
 - utility • 🟢 util
 
 ### V
-
 - value • 🟡 v { only with **k** } • 🟢 val
 - variable • 🟢 var
 - vector • 🟡 v { physics }
@@ -337,7 +317,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - vertical • 🟢 ver
 
 ### W
-
 - white space • 🟡 ws { encoding }
 - width • 🟡 w { shapes }
 - window • 🟢 win
@@ -345,22 +324,15 @@ Colored circles before the abbr mean the degree of recommendation:
 
 ### X
 
-
 ### Y
-
 - yes • 🟡 y { only with **n** }
 
 ### Z
 
 
-<br/>
 
----
+251 abbrs in the list
 
-<br/>
-
-251 abbrs in the list.
-
-<br/>
+<br />
 
 [Go up to list index](#list)
