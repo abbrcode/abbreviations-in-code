@@ -25,7 +25,6 @@ Colored circles before the abbr mean the degree of recommendation:
 ### Symbols
 
 ### Numbers
-- 2 • 🔴 to
 
 ### A
 - abbreviation • 🟢 abbr
@@ -39,6 +38,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - algorithm • 🟢 algo
 - allocation • 🟡 alloc { memory }
 - alternative • 🟢 alt
+- annotation • 🟢 anno
 - application • 🟢 app
 - argument • 🟢 arg
 - array • 🟢 arr
@@ -76,7 +76,9 @@ Colored circles before the abbr mean the degree of recommendation:
 - common • 🔴 com • 🔴 comm
 - communication • 🟢 com
 - comparison • 🟡 cmp { conditional operators }
+- component • 🟢 comp
 - concatenation • 🟢 concat
+- condition • 🟢 cond
 - configuration • 🔴 cfg • 🔴 conf • 🟢 config
 - connection • 🔴 con • 🟢 conn
 - constant • 🟢 const
@@ -95,11 +97,13 @@ Colored circles before the abbr mean the degree of recommendation:
 - database • 🟢 db
 - debug • 🟢 dbg
 - decimal • 🟢 dec
+- declaration • 🟢 decl
 - decrease • 🟡 dec { loops }
 - default • 🔴 def
 - definition • 🟢 def
 - deletion • 🟢 del
 - delta time • 🟡 dt { calculations }
+- dependency • 🟢 dep
 - description • 🟢 desc
 - destination • 🟢 dest
 - developer • 🟢 dev
@@ -113,10 +117,13 @@ Colored circles before the abbr mean the degree of recommendation:
 - display • 🟢 disp
 - division • 🟢 div
 - document • 🟢 doc
+- documentation • 🟢 docs
+- driver • 🟢 drv
 - driver • 🟢 drv
 - dynamic • 🟢 dyn
 
 ### E
+- element • 🟢 elm
 - enable • 🟢 en
 - environment • 🟢 env
 - equal • 🟡 eq { binary operations }
@@ -127,6 +134,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - extension • 🟢 ext
 
 ### F
+- facet • 🟢 fct
 - factory • 🟢 fac
 - figure • 🟢 fig
 - file chooser • 🟢 fc
@@ -185,10 +193,10 @@ Colored circles before the abbr mean the degree of recommendation:
 - length • 🟢 len
 - less or equal • 🟡 le { binary operators }
 - less than • 🟡 lt { binary operators }
+- level • 🟢 lvl
 - library • 🟢 lib
 - link • 🔴 lnk
 - linked list • 🟢 ll
-- level • 🟢 lvl
 - location • 🟢 loc
 - longitude • 🟡 lon { only with **coord** }
 
@@ -234,10 +242,12 @@ Colored circles before the abbr mean the degree of recommendation:
 - performance • 🟢 perf
 - picture • 🟢 pic
 - pixel • 🟢 px
+- pixel • 🟢 px
 - pointer • 🟡 p { memory } • 🟢 ptr
 - poligon • 🟢 pol
 - position • 🟢 pos
 - power • 🟡 pwr { energy }
+- predication • 🟢 pred
 - prediction • 🟢 pred
 - preference • 🟢 pref
 - previous • 🟢 prev
@@ -273,16 +283,20 @@ Colored circles before the abbr mean the degree of recommendation:
 - script • 🔴 sc
 - selection • 🟢 sel
 - semaphore • 🟡 sem { conditional operators }
+- separator • 🟢 sep
 - sequence • 🟢 seq
+- session • 🟢 sess
 - signed as prefix • 🟡 s { modifiers }
 - sine • 🟢 sin
 - software • 🟡 sw { computer science }
 - solution • 🔴 sln • 🟢 sol
+- solver • 🟢 sol
 - source • 🟢 src
 - specification • 🟢 spec
 - square root • 🟢 sqrt
 - standard • 🟢 std
 - standard input output • 🟢 stdio
+- statement • 🟢 stmt
 - statistic • 🟢 stat
 - string • 🟢 str
 - subtration • 🟢 sub
@@ -331,7 +345,7 @@ Colored circles before the abbr mean the degree of recommendation:
 
 
 
-251 abbrs in the list
+265 abbrs in the list
 
 <br />
 
