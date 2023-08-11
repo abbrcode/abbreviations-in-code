@@ -119,7 +119,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - document • 🟢 doc
 - documentation • 🟢 docs
 - driver • 🟢 drv
-- driver • 🟢 drv
 - dynamic • 🟢 dyn
 
 ### E
@@ -242,7 +241,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - performance • 🟢 perf
 - picture • 🟢 pic
 - pixel • 🟢 px
-- pixel • 🟢 px
 - pointer • 🟡 p { memory } • 🟢 ptr
 - poligon • 🟢 pol
 - position • 🟢 pos
@@ -345,7 +343,7 @@ Colored circles before the abbr mean the degree of recommendation:
 
 
 
-265 abbrs in the list
+263 abbrs in the list
 
 <br />
 
