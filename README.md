@@ -7,7 +7,15 @@ If you use the abbreviations below, your naming will become more coherent, logic
 
 <h2 align='center'>
    
-   [Contributing](./.github/CONTRIBUTING.md) • [Discussions](https://github.com/orgs/abbrcode/discussions) • [Licence](./LICENCE) 
+   [Contributing](./.github/CONTRIBUTING.md)
+   •
+   [Licence](./LICENCE)
+
+   [Discussions](https://github.com/orgs/abbrcode/discussions)
+   •
+   [Website](https://abbreviations-in-code.vercel.app)
+   •
+   [AbbrExt](https://github.com/T1xx1/AbbrExt)
 </h2>
 
 ## Guide
