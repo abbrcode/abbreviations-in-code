@@ -1,6 +1,7 @@
 # Abbreviations in code
 
-Giving good names to variables, functions, files etc. can be difficult. Long names are always clear, but take time to read, space and are hard to remember.
+Giving good names to variables, functions and files can be difficult.
+Long names are always clear, but take time to read, space and are hard to remember.
 Choosing a shorter form is better.
 If you use the abbreviations below, your naming will become more coherent, logical and understandable to other programmers (even newbies).
 
@@ -305,8 +306,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - table header • 🟢 th
 - table row • 🟢 tr
 - target • 🔴 tgt
-- temperature • 🟢 tmp
-- temporary • 🟢 temp
+- temporary • 🟢 tmp • 🟢 temp
 - text • 🔴 txt
 - time • 🟡 t { physics }
 - timer • 🟢 tmr
