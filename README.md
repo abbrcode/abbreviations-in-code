@@ -13,7 +13,7 @@ If you use the abbreviations below, your naming will become more coherent, logic
 
    [Discussions](https://github.com/orgs/abbrcode/discussions)
    •
-   [Website](https://abbreviations-in-code.vercel.app)
+   [Website](https://abbrcode.github.io/website/)
    •
    [AbbrExt](https://github.com/T1xx1/AbbrExt)
 </h2>
