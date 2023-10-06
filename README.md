@@ -292,6 +292,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - semaphore • 🟡 sem { conditional operators }
 - separator • 🟢 sep
 - sequence • 🟢 seq
+- service • 🟢 svc
 - session • 🟢 sess
 - signed as prefix • 🟡 s { modifiers }
 - sine • 🟢 sin
