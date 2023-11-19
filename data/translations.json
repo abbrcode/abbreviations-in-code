@@ -196,7 +196,7 @@
       "translations": [
          {
             "lang": "it",
-            "word": "codice binario"
+            "word": "binario"
          }
       ],
       "word": "binary"
@@ -229,14 +229,19 @@
       "word": "breakline"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "buffer"
+         }
+      ],
       "word": "buffer"
    },
    {
       "translations": [
          {
             "lang": "it",
-            "word": "bottone"
+            "word": "pulsante"
          }
       ],
       "word": "button"
@@ -316,7 +321,7 @@
       "translations": [
          {
             "lang": "it",
-            "word": "pulizia"
+            "word": "pulire"
          }
       ],
       "word": "clear"
@@ -819,7 +824,12 @@
       "word": "extension"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "sfaccettatura"
+         }
+      ],
       "word": "facet"
    },
    {
@@ -832,7 +842,12 @@
       "word": "factory"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "figura"
+         }
+      ],
       "word": "figure"
    },
    {
@@ -945,7 +960,12 @@
       "word": "hardware"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "intestazione"
+         }
+      ],
       "word": "header"
    },
    {
@@ -1195,11 +1215,21 @@
       "word": "library"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "collegamento"
+         }
+      ],
       "word": "link"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "elenco concatenato"
+         }
+      ],
       "word": "linked list"
    },
    {
@@ -1256,7 +1286,12 @@
       "word": "metadata"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "microcontrollore"
+         }
+      ],
       "word": "microcontroller"
    },
    {
@@ -1278,7 +1313,12 @@
       "word": "minimum"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "misto"
+         }
+      ],
       "word": "miscellaneous"
    },
    {
@@ -1318,7 +1358,12 @@
       "word": "navigation"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "rete"
+         }
+      ],
       "word": "network"
    },
    {
@@ -1479,11 +1524,21 @@
       "word": "parameter"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "prestazione"
+         }
+      ],
       "word": "performance"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "immagine"
+         }
+      ],
       "word": "picture"
    },
    {
@@ -1532,7 +1587,12 @@
       "word": "power"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "predicazione"
+         }
+      ],
       "word": "predication"
    },
    {
@@ -1608,7 +1668,12 @@
       "word": "public"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "quesito"
+         }
+      ],
       "word": "query"
    },
    {
@@ -1630,7 +1695,12 @@
       "word": "random"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "gamma"
+         }
+      ],
       "word": "range"
    },
    {
@@ -1795,7 +1865,12 @@
       "word": "sequence"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "servizio"
+         }
+      ],
       "word": "service"
    },
    {
@@ -1883,7 +1958,12 @@
       "word": "standard input output"
    },
    {
-      "translations": [],
+      "translations": [
+         {
+            "lang": "it",
+            "word": "affermazione"
+         }
+      ],
       "word": "statement"
    },
    {
@@ -1931,12 +2011,7 @@
       "word": "table header"
    },
    {
-      "translations": [
-         {
-            "lang": "it",
-            "word": "riga"
-         }
-      ],
+      "translations": [],
       "word": "table row"
    },
    {
