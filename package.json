@@ -1,0 +1,7 @@
+{
+   "scripts": {
+      "build": "npm run compile",
+
+      "compile": "node ./scripts/compiler/index.mjs",
+   }
+}
