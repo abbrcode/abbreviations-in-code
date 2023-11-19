@@ -6,12 +6,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "abbreviazione"
-         }
-      ],
       "word": "abbreviation"
    },
    {
@@ -19,12 +13,6 @@
          {
             "abbr": "abs",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "assoluto"
          }
       ],
       "word": "absolute"
@@ -36,12 +24,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "acronimo"
-         }
-      ],
       "word": "acronym"
    },
    {
@@ -49,12 +31,6 @@
          {
             "abbr": "act",
             "degree": "red"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "azione"
          }
       ],
       "word": "action"
@@ -66,12 +42,6 @@
             "degree": "red"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "attivo"
-         }
-      ],
       "word": "active"
    },
    {
@@ -79,12 +49,6 @@
          {
             "abbr": "act",
             "degree": "red"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "attuale"
          }
       ],
       "word": "actual"
@@ -96,12 +60,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "addizione"
-         }
-      ],
       "word": "addition"
    },
    {
@@ -111,12 +69,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "indirizzo"
-         }
-      ],
       "word": "address"
    },
    {
@@ -124,12 +76,6 @@
          {
             "abbr": "algo",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "algoritmo"
          }
       ],
       "word": "algorithm"
@@ -142,12 +88,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "allocazione"
-         }
-      ],
       "word": "allocation"
    },
    {
@@ -155,12 +95,6 @@
          {
             "abbr": "alt",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "alternativo"
          }
       ],
       "word": "alternative"
@@ -172,12 +106,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "annotazione"
-         }
-      ],
       "word": "annotation"
    },
    {
@@ -185,12 +113,6 @@
          {
             "abbr": "app",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "applicazione"
          }
       ],
       "word": "application"
@@ -202,12 +124,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "argomento"
-         }
-      ],
       "word": "argument"
    },
    {
@@ -217,7 +133,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "array"
    },
    {
@@ -225,12 +140,6 @@
          {
             "abbr": "async",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "asincrono"
          }
       ],
       "word": "asynchronous"
@@ -242,12 +151,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "attributo"
-         }
-      ],
       "word": "attribute"
    },
    {
@@ -255,12 +158,6 @@
          {
             "abbr": "auth",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "autenticazione"
          }
       ],
       "word": "authentication"
@@ -272,12 +169,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "ausiliario"
-         }
-      ],
       "word": "auxiliary"
    },
    {
@@ -287,12 +178,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "media"
-         }
-      ],
       "word": "average"
    },
    {
@@ -300,12 +185,6 @@
          {
             "abbr": "bg",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "sfondo"
          }
       ],
       "word": "background"
@@ -318,12 +197,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "batteria"
-         }
-      ],
       "word": "battery"
    },
    {
@@ -331,12 +204,6 @@
          {
             "abbr": "bin",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "codice binario"
          }
       ],
       "word": "binary"
@@ -348,12 +215,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "boleano"
-         }
-      ],
       "word": "boolean"
    },
    {
@@ -361,12 +222,6 @@
          {
             "abbr": "brk",
             "degree": "red"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "interruzione"
          }
       ],
       "word": "break"
@@ -377,12 +232,6 @@
             "abbr": "bl",
             "context": "encoding",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "interruzione di riga"
          }
       ],
       "word": "breakline"
@@ -398,7 +247,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "buffer"
    },
    {
@@ -406,12 +254,6 @@
          {
             "abbr": "btn",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "bottone"
          }
       ],
       "word": "button"
@@ -423,12 +265,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "calcolatore"
-         }
-      ],
       "word": "calculator"
    },
    {
@@ -438,7 +274,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "callback"
    },
    {
@@ -446,12 +281,6 @@
          {
             "abbr": "cert",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "certificato"
          }
       ],
       "word": "certificate"
@@ -464,12 +293,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "canale"
-         }
-      ],
       "word": "channel"
    },
    {
@@ -479,12 +302,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "carattere"
-         }
-      ],
       "word": "character"
    },
    {
@@ -492,12 +309,6 @@
          {
             "abbr": "chk",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "controllo"
          }
       ],
       "word": "check"
@@ -510,7 +321,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [],
       "word": "checksum"
    },
    {
@@ -519,12 +329,6 @@
             "abbr": "circ",
             "context": "shapes",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "cerchio"
          }
       ],
       "word": "circle"
@@ -536,12 +340,6 @@
             "degree": "red"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "classe"
-         }
-      ],
       "word": "class"
    },
    {
@@ -549,12 +347,6 @@
          {
             "abbr": "clr",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "pulizia"
          }
       ],
       "word": "clear"
@@ -566,12 +358,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "collezione"
-         }
-      ],
       "word": "collection"
    },
    {
@@ -579,12 +365,6 @@
          {
             "abbr": "col",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "colonna"
          }
       ],
       "word": "column"
@@ -596,12 +376,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "comando"
-         }
-      ],
       "word": "command"
    },
    {
@@ -610,12 +384,6 @@
             "abbr": "com",
             "context": "URLs",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "commerciale"
          }
       ],
       "word": "commercial"
@@ -631,12 +399,6 @@
             "degree": "red"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "comune"
-         }
-      ],
       "word": "common"
    },
    {
@@ -644,12 +406,6 @@
          {
             "abbr": "com",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "comunicazione"
          }
       ],
       "word": "communication"
@@ -662,12 +418,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "comparazione"
-         }
-      ],
       "word": "comparison"
    },
    {
@@ -675,12 +425,6 @@
          {
             "abbr": "comp",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "componente"
          }
       ],
       "word": "component"
@@ -692,12 +436,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "concatenazione"
-         }
-      ],
       "word": "concatenation"
    },
    {
@@ -705,12 +443,6 @@
          {
             "abbr": "cond",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "condizione"
          }
       ],
       "word": "condition"
@@ -730,12 +462,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "configurazione"
-         }
-      ],
       "word": "configuration"
    },
    {
@@ -749,12 +475,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "connessione"
-         }
-      ],
       "word": "connection"
    },
    {
@@ -762,12 +482,6 @@
          {
             "abbr": "const",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "costante"
          }
       ],
       "word": "constant"
@@ -779,12 +493,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "contesto"
-         }
-      ],
       "word": "context"
    },
    {
@@ -792,12 +500,6 @@
          {
             "abbr": "cont",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "continuo"
          }
       ],
       "word": "continue"
@@ -809,12 +511,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "controllo"
-         }
-      ],
       "word": "control"
    },
    {
@@ -822,12 +518,6 @@
          {
             "abbr": "conv",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "conversazione"
          }
       ],
       "word": "conversation"
@@ -839,12 +529,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "coordinate"
-         }
-      ],
       "word": "coordinate"
    },
    {
@@ -852,12 +536,6 @@
          {
             "abbr": "cpy",
             "degree": "red"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "copia"
          }
       ],
       "word": "copy"
@@ -869,12 +547,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "coseno"
-         }
-      ],
       "word": "cosine"
    },
    {
@@ -884,12 +556,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "cotangente"
-         }
-      ],
       "word": "cotangent"
    },
    {
@@ -897,12 +563,6 @@
          {
             "abbr": "cnt",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "conto"
          }
       ],
       "word": "count"
@@ -918,12 +578,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "corrente"
-         }
-      ],
       "word": "current"
    },
    {
@@ -933,7 +587,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "database"
    },
    {
@@ -943,7 +596,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "debug"
    },
    {
@@ -953,12 +605,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "decimale"
-         }
-      ],
       "word": "decimal"
    },
    {
@@ -966,12 +612,6 @@
          {
             "abbr": "decl",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "dichiarazione"
          }
       ],
       "word": "declaration"
@@ -984,12 +624,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "decremento"
-         }
-      ],
       "word": "decrease"
    },
    {
@@ -997,12 +631,6 @@
          {
             "abbr": "def",
             "degree": "red"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "predefinito"
          }
       ],
       "word": "default"
@@ -1014,12 +642,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "definizione"
-         }
-      ],
       "word": "definition"
    },
    {
@@ -1027,12 +649,6 @@
          {
             "abbr": "del",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "eliminazione"
          }
       ],
       "word": "deletion"
@@ -1045,12 +661,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "tempo delta"
-         }
-      ],
       "word": "delta time"
    },
    {
@@ -1060,7 +670,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "dependency"
    },
    {
@@ -1068,12 +677,6 @@
          {
             "abbr": "desc",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "descrizione"
          }
       ],
       "word": "description"
@@ -1085,12 +688,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "destinazione"
-         }
-      ],
       "word": "destination"
    },
    {
@@ -1100,12 +697,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "sviluppatore"
-         }
-      ],
       "word": "developer"
    },
    {
@@ -1113,12 +704,6 @@
          {
             "abbr": "dev",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "sviluppo"
          }
       ],
       "word": "development"
@@ -1131,12 +716,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "dispositivo"
-         }
-      ],
       "word": "device"
    },
    {
@@ -1145,12 +724,6 @@
             "abbr": "diff",
             "context": "operations",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "differenza"
          }
       ],
       "word": "difference"
@@ -1162,12 +735,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "dimensione"
-         }
-      ],
       "word": "dimension"
    },
    {
@@ -1175,12 +742,6 @@
          {
             "abbr": "dir",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "direzione"
          }
       ],
       "word": "direction"
@@ -1192,7 +753,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "directory"
    },
    {
@@ -1200,12 +760,6 @@
          {
             "abbr": "dis",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "disabilitare"
          }
       ],
       "word": "disable"
@@ -1217,12 +771,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "schermo"
-         }
-      ],
       "word": "display"
    },
    {
@@ -1230,12 +778,6 @@
          {
             "abbr": "div",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "divisione"
          }
       ],
       "word": "division"
@@ -1247,12 +789,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "documento"
-         }
-      ],
       "word": "document"
    },
    {
@@ -1260,12 +796,6 @@
          {
             "abbr": "docs",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "documentazione"
          }
       ],
       "word": "documentation"
@@ -1277,7 +807,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "driver"
    },
    {
@@ -1285,12 +814,6 @@
          {
             "abbr": "dyn",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "dinamico"
          }
       ],
       "word": "dynamic"
@@ -1302,12 +825,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "elemento"
-         }
-      ],
       "word": "element"
    },
    {
@@ -1317,12 +834,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "abilitare"
-         }
-      ],
       "word": "enable"
    },
    {
@@ -1330,12 +841,6 @@
          {
             "abbr": "env",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "ambiente"
          }
       ],
       "word": "environment"
@@ -1348,12 +853,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "uguale"
-         }
-      ],
       "word": "equal"
    },
    {
@@ -1361,12 +860,6 @@
          {
             "abbr": "err",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "errore"
          }
       ],
       "word": "error"
@@ -1382,12 +875,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "evento"
-         }
-      ],
       "word": "event"
    },
    {
@@ -1395,12 +882,6 @@
          {
             "abbr": "exe",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "esecuzione"
          }
       ],
       "word": "execution"
@@ -1412,12 +893,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "espressione"
-         }
-      ],
       "word": "expression"
    },
    {
@@ -1425,12 +900,6 @@
          {
             "abbr": "ext",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "estensione"
          }
       ],
       "word": "extension"
@@ -1442,7 +911,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "facet"
    },
    {
@@ -1450,12 +918,6 @@
          {
             "abbr": "fac",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "fabbrica"
          }
       ],
       "word": "factory"
@@ -1467,7 +929,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "figure"
    },
    {
@@ -1477,7 +938,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "file chooser"
    },
    {
@@ -1487,7 +947,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "file description"
    },
    {
@@ -1497,7 +956,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "file processor"
    },
    {
@@ -1507,7 +965,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "file reader"
    },
    {
@@ -1517,7 +974,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "file system"
    },
    {
@@ -1527,7 +983,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "file writer"
    },
    {
@@ -1535,12 +990,6 @@
          {
             "abbr": "e.g.",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "per esempio"
          }
       ],
       "word": "for example"
@@ -1552,12 +1001,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "formato"
-         }
-      ],
       "word": "format"
    },
    {
@@ -1567,12 +1010,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "frazione"
-         }
-      ],
       "word": "fraction"
    },
    {
@@ -1580,12 +1017,6 @@
          {
             "abbr": "freq",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "frequenza"
          }
       ],
       "word": "frequence"
@@ -1605,12 +1036,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "funzione"
-         }
-      ],
       "word": "function"
    },
    {
@@ -1620,12 +1045,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "puntatore di funzione"
-         }
-      ],
       "word": "function pointer"
    },
    {
@@ -1633,12 +1052,6 @@
          {
             "abbr": "gen",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "generazione"
          }
       ],
       "word": "generation"
@@ -1651,12 +1064,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "maggiore uguale"
-         }
-      ],
       "word": "greater or equal"
    },
    {
@@ -1665,12 +1072,6 @@
             "abbr": "gt",
             "context": "binary operations",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "maggiore di"
          }
       ],
       "word": "greater than"
@@ -1683,7 +1084,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [],
       "word": "hardware"
    },
    {
@@ -1693,7 +1093,6 @@
             "degree": "red"
          }
       ],
-      "translations": [],
       "word": "header"
    },
    {
@@ -1704,12 +1103,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "altezza"
-         }
-      ],
       "word": "height"
    },
    {
@@ -1717,12 +1110,6 @@
          {
             "abbr": "hex",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "esadecimale"
          }
       ],
       "word": "hexadecimal"
@@ -1735,12 +1122,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "orizzontale"
-         }
-      ],
       "word": "horizontal"
    },
    {
@@ -1748,12 +1129,6 @@
          {
             "abbr": "id",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "identificatore"
          }
       ],
       "word": "identifier"
@@ -1765,12 +1140,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "immagine"
-         }
-      ],
       "word": "image"
    },
    {
@@ -1778,12 +1147,6 @@
          {
             "abbr": "impl",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "implementazione"
          }
       ],
       "word": "implementation"
@@ -1795,12 +1158,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "importazione"
-         }
-      ],
       "word": "import"
    },
    {
@@ -1808,12 +1165,6 @@
          {
             "abbr": "inc",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "inclusione"
          }
       ],
       "word": "inclusion"
@@ -1826,12 +1177,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "aumento"
-         }
-      ],
       "word": "increase"
    },
    {
@@ -1839,12 +1184,6 @@
          {
             "abbr": "idx",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "indice"
          }
       ],
       "word": "index"
@@ -1856,12 +1195,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "informazione"
-         }
-      ],
       "word": "information"
    },
    {
@@ -1869,12 +1202,6 @@
          {
             "abbr": "init",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "inizializzazione"
          }
       ],
       "word": "initialization"
@@ -1886,7 +1213,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "input"
    },
    {
@@ -1894,12 +1220,6 @@
          {
             "abbr": "ins",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "inserzione"
          }
       ],
       "word": "insertion"
@@ -1911,12 +1231,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "istanza"
-         }
-      ],
       "word": "instance"
    },
    {
@@ -1924,12 +1238,6 @@
          {
             "abbr": "int",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "intero"
          }
       ],
       "word": "integer"
@@ -1945,12 +1253,6 @@
             "degree": "red"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "interfaccia"
-         }
-      ],
       "word": "interface"
    },
    {
@@ -1959,12 +1261,6 @@
             "abbr": "iter",
             "context": "loops",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "iteratore"
          }
       ],
       "word": "iterator"
@@ -1976,7 +1272,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "javascript"
    },
    {
@@ -1985,12 +1280,6 @@
             "abbr": "k",
             "context": "only with **val**",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "chiave"
          }
       ],
       "word": "key"
@@ -2002,7 +1291,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "keymap"
    },
    {
@@ -2012,12 +1300,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "tastiera"
-         }
-      ],
       "word": "keyword"
    },
    {
@@ -2025,12 +1307,6 @@
          {
             "abbr": "lang",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "lingua"
          }
       ],
       "word": "language"
@@ -2043,12 +1319,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "latitudine"
-         }
-      ],
       "word": "latitude"
    },
    {
@@ -2056,12 +1326,6 @@
          {
             "abbr": "len",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "lunghezza"
          }
       ],
       "word": "length"
@@ -2074,12 +1338,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "minore uguale"
-         }
-      ],
       "word": "less or equal"
    },
    {
@@ -2088,12 +1346,6 @@
             "abbr": "lt",
             "context": "binary operators",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "minore di"
          }
       ],
       "word": "less than"
@@ -2105,12 +1357,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "livello"
-         }
-      ],
       "word": "level"
    },
    {
@@ -2118,12 +1364,6 @@
          {
             "abbr": "lib",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "librearia"
          }
       ],
       "word": "library"
@@ -2135,7 +1375,6 @@
             "degree": "red"
          }
       ],
-      "translations": [],
       "word": "link"
    },
    {
@@ -2145,7 +1384,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "linked list"
    },
    {
@@ -2153,12 +1391,6 @@
          {
             "abbr": "loc",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "posizione"
          }
       ],
       "word": "location"
@@ -2171,12 +1403,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "longitudine"
-         }
-      ],
       "word": "longitude"
    },
    {
@@ -2186,7 +1412,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "manager"
    },
    {
@@ -2194,12 +1419,6 @@
          {
             "abbr": "max",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "massimo"
          }
       ],
       "word": "maximum"
@@ -2211,12 +1430,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "memoria"
-         }
-      ],
       "word": "memory"
    },
    {
@@ -2224,12 +1437,6 @@
          {
             "abbr": "msg",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "messaggio"
          }
       ],
       "word": "message"
@@ -2242,7 +1449,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [],
       "word": "metadata"
    },
    {
@@ -2252,7 +1458,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "microcontroller"
    },
    {
@@ -2260,12 +1465,6 @@
          {
             "abbr": "mid",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "mezzo"
          }
       ],
       "word": "middle"
@@ -2277,12 +1476,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "minimo"
-         }
-      ],
       "word": "minimum"
    },
    {
@@ -2292,7 +1485,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "miscellaneous"
    },
    {
@@ -2302,12 +1494,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "modulo"
-         }
-      ],
       "word": "modulo"
    },
    {
@@ -2315,12 +1501,6 @@
          {
             "abbr": "mul",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "moltiplicazione"
          }
       ],
       "word": "multiplication"
@@ -2333,12 +1513,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "mutabile"
-         }
-      ],
       "word": "mutable"
    },
    {
@@ -2346,12 +1520,6 @@
          {
             "abbr": "nav",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "navigazione"
          }
       ],
       "word": "navigation"
@@ -2363,7 +1531,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "network"
    },
    {
@@ -2372,12 +1539,6 @@
             "abbr": "nl",
             "context": "endcoding",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "nuova linea"
          }
       ],
       "word": "newline"
@@ -2390,12 +1551,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "no"
-         }
-      ],
       "word": "no"
    },
    {
@@ -2404,12 +1559,6 @@
             "abbr": "$...",
             "context": "DOM",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "nodo"
          }
       ],
       "word": "node"
@@ -2422,12 +1571,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "diverso"
-         }
-      ],
       "word": "not equal"
    },
    {
@@ -2435,12 +1578,6 @@
          {
             "abbr": "num",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "numero"
          }
       ],
       "word": "number"
@@ -2452,12 +1589,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "numero di"
-         }
-      ],
       "word": "number of"
    },
    {
@@ -2465,12 +1596,6 @@
          {
             "abbr": "obj",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "oggetto"
          }
       ],
       "word": "object"
@@ -2483,12 +1608,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "chiave oggetto"
-         }
-      ],
       "word": "object key"
    },
    {
@@ -2498,12 +1617,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "ottale"
-         }
-      ],
       "word": "octal"
    },
    {
@@ -2511,12 +1624,6 @@
          {
             "abbr": "os",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "sistema operativo"
          }
       ],
       "word": "operating system"
@@ -2529,12 +1636,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "operazione"
-         }
-      ],
       "word": "operation"
    },
    {
@@ -2542,12 +1643,6 @@
          {
             "abbr": "opt",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "opzione"
          }
       ],
       "word": "option"
@@ -2560,12 +1655,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "ordine"
-         }
-      ],
       "word": "order"
    },
    {
@@ -2573,12 +1662,6 @@
          {
             "abbr": "org",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "organizzazione"
          }
       ],
       "word": "organization"
@@ -2590,12 +1673,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "origine"
-         }
-      ],
       "word": "origin"
    },
    {
@@ -2605,7 +1682,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "output"
    },
    {
@@ -2613,12 +1689,6 @@
          {
             "abbr": "pkg",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "pacchetto"
          }
       ],
       "word": "package"
@@ -2630,12 +1700,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "parametro"
-         }
-      ],
       "word": "parameter"
    },
    {
@@ -2645,7 +1709,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "performance"
    },
    {
@@ -2655,7 +1718,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "picture"
    },
    {
@@ -2663,12 +1725,6 @@
          {
             "abbr": "px",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "pixel"
          }
       ],
       "word": "pixel"
@@ -2685,12 +1741,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "puntatore"
-         }
-      ],
       "word": "pointer"
    },
    {
@@ -2700,12 +1750,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "poligono"
-         }
-      ],
       "word": "poligon"
    },
    {
@@ -2713,12 +1757,6 @@
          {
             "abbr": "pos",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "posizione"
          }
       ],
       "word": "position"
@@ -2731,12 +1769,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "potenza"
-         }
-      ],
       "word": "power"
    },
    {
@@ -2746,7 +1778,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "predication"
    },
    {
@@ -2754,12 +1785,6 @@
          {
             "abbr": "pred",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "predizione"
          }
       ],
       "word": "prediction"
@@ -2771,12 +1796,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "preferenza"
-         }
-      ],
       "word": "preference"
    },
    {
@@ -2786,12 +1805,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "precedente"
-         }
-      ],
       "word": "previous"
    },
    {
@@ -2799,12 +1812,6 @@
          {
             "abbr": "priv",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "privato"
          }
       ],
       "word": "private"
@@ -2817,12 +1824,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "processo"
-         }
-      ],
       "word": "process"
    },
    {
@@ -2830,12 +1831,6 @@
          {
             "abbr": "prod",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "produzione"
          }
       ],
       "word": "production"
@@ -2847,12 +1842,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "profilatore"
-         }
-      ],
       "word": "profiler"
    },
    {
@@ -2860,12 +1849,6 @@
          {
             "abbr": "pub",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "pubblico"
          }
       ],
       "word": "public"
@@ -2881,7 +1864,6 @@
             "degree": "red"
          }
       ],
-      "translations": [],
       "word": "query"
    },
    {
@@ -2890,12 +1872,6 @@
             "abbr": "r",
             "context": "circles",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "raggio"
          }
       ],
       "word": "radius"
@@ -2911,12 +1887,6 @@
             "degree": "red"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "casuale"
-         }
-      ],
       "word": "random"
    },
    {
@@ -2926,7 +1896,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "range"
    },
    {
@@ -2936,12 +1905,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "ricevere"
-         }
-      ],
       "word": "receive"
    },
    {
@@ -2949,12 +1912,6 @@
          {
             "abbr": "rec",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "registrare"
          }
       ],
       "word": "record"
@@ -2967,12 +1924,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "rettangolo"
-         }
-      ],
       "word": "rectangle"
    },
    {
@@ -2980,12 +1931,6 @@
          {
             "abbr": "ref",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "riferimento"
          }
       ],
       "word": "reference"
@@ -3001,12 +1946,6 @@
             "degree": "red"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "espressione regolare"
-         }
-      ],
       "word": "regular expression"
    },
    {
@@ -3016,12 +1955,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "relation"
-         }
-      ],
       "word": "relation"
    },
    {
@@ -3029,12 +1962,6 @@
          {
             "abbr": "rem",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "remoto"
          }
       ],
       "word": "remote"
@@ -3050,12 +1977,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "rimuovere"
-         }
-      ],
       "word": "remove"
    },
    {
@@ -3065,7 +1986,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "repository"
    },
    {
@@ -3073,12 +1993,6 @@
          {
             "abbr": "req",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "richiesta"
          }
       ],
       "word": "request"
@@ -3090,12 +2004,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "risposta"
-         }
-      ],
       "word": "response"
    },
    {
@@ -3103,12 +2011,6 @@
          {
             "abbr": "res",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "risultato"
          }
       ],
       "word": "result"
@@ -3120,12 +2022,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "ritorno"
-         }
-      ],
       "word": "return"
    },
    {
@@ -3133,12 +2029,6 @@
          {
             "abbr": "rev",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "revisione"
          }
       ],
       "word": "revision"
@@ -3150,7 +2040,6 @@
             "degree": "red"
          }
       ],
-      "translations": [],
       "word": "script"
    },
    {
@@ -3158,12 +2047,6 @@
          {
             "abbr": "sel",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "selezione"
          }
       ],
       "word": "selection"
@@ -3176,12 +2059,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "semaforo"
-         }
-      ],
       "word": "semaphore"
    },
    {
@@ -3189,12 +2066,6 @@
          {
             "abbr": "sep",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "separazione"
          }
       ],
       "word": "separator"
@@ -3206,12 +2077,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "sequenza"
-         }
-      ],
       "word": "sequence"
    },
    {
@@ -3221,7 +2086,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "service"
    },
    {
@@ -3229,12 +2093,6 @@
          {
             "abbr": "sess",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "sessione"
          }
       ],
       "word": "session"
@@ -3247,12 +2105,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "selezionato come prefisso"
-         }
-      ],
       "word": "signed as prefix"
    },
    {
@@ -3260,12 +2112,6 @@
          {
             "abbr": "sin",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "seno"
          }
       ],
       "word": "sine"
@@ -3278,7 +2124,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [],
       "word": "software"
    },
    {
@@ -3292,12 +2137,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "soluzione"
-         }
-      ],
       "word": "solution"
    },
    {
@@ -3305,12 +2144,6 @@
          {
             "abbr": "sol",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "risolutore"
          }
       ],
       "word": "solver"
@@ -3322,12 +2155,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "sorgente"
-         }
-      ],
       "word": "source"
    },
    {
@@ -3335,12 +2162,6 @@
          {
             "abbr": "spec",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "specificazione"
          }
       ],
       "word": "specification"
@@ -3352,12 +2173,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "radice quadrata"
-         }
-      ],
       "word": "square root"
    },
    {
@@ -3367,7 +2182,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "standard"
    },
    {
@@ -3377,7 +2191,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "standard input output"
    },
    {
@@ -3387,7 +2200,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "statement"
    },
    {
@@ -3395,12 +2207,6 @@
          {
             "abbr": "stat",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "statistica"
          }
       ],
       "word": "statistic"
@@ -3412,12 +2218,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "stringa"
-         }
-      ],
       "word": "string"
    },
    {
@@ -3425,12 +2225,6 @@
          {
             "abbr": "sub",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "sottrazione"
          }
       ],
       "word": "subtration"
@@ -3442,12 +2236,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "sincronizzazione"
-         }
-      ],
       "word": "synchronization"
    },
    {
@@ -3457,7 +2245,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "table data"
    },
    {
@@ -3467,7 +2254,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "table header"
    },
    {
@@ -3477,12 +2263,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "riga"
-         }
-      ],
       "word": "table row"
    },
    {
@@ -3490,12 +2270,6 @@
          {
             "abbr": "tgt",
             "degree": "red"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "bersaglio"
          }
       ],
       "word": "target"
@@ -3511,12 +2285,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "temporaneo"
-         }
-      ],
       "word": "temporary"
    },
    {
@@ -3524,12 +2292,6 @@
          {
             "abbr": "txt",
             "degree": "red"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "testo"
          }
       ],
       "word": "text"
@@ -3542,12 +2304,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "tempo"
-         }
-      ],
       "word": "time"
    },
    {
@@ -3557,7 +2313,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "timer"
    },
    {
@@ -3567,7 +2322,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "timestamp"
    },
    {
@@ -3575,12 +2329,6 @@
          {
             "abbr": "2",
             "degree": "red"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "a"
          }
       ],
       "word": "to"
@@ -3592,12 +2340,6 @@
             "degree": "red"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "interruttore"
-         }
-      ],
       "word": "toggle"
    },
    {
@@ -3605,12 +2347,6 @@
          {
             "abbr": "tx",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "transazione"
          }
       ],
       "word": "transaction"
@@ -3627,12 +2363,6 @@
             "degree": "red"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "tipo"
-         }
-      ],
       "word": "type"
    },
    {
@@ -3642,7 +2372,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "typescript"
    },
    {
@@ -3657,12 +2386,6 @@
             "degree": "red"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "utente"
-         }
-      ],
       "word": "user"
    },
    {
@@ -3670,12 +2393,6 @@
          {
             "abbr": "util",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "utilità"
          }
       ],
       "word": "utility"
@@ -3692,12 +2409,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "valore"
-         }
-      ],
       "word": "value"
    },
    {
@@ -3705,12 +2416,6 @@
          {
             "abbr": "var",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "variabile"
          }
       ],
       "word": "variable"
@@ -3721,12 +2426,6 @@
             "abbr": "v",
             "context": "physics",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "vettore"
          }
       ],
       "word": "vector"
@@ -3742,12 +2441,6 @@
             "degree": "red"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "versione"
-         }
-      ],
       "word": "version"
    },
    {
@@ -3755,12 +2448,6 @@
          {
             "abbr": "ver",
             "degree": "green"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "verticale"
          }
       ],
       "word": "vertical"
@@ -3773,12 +2460,6 @@
             "degree": "yellow"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "spazio bianco"
-         }
-      ],
       "word": "white space"
    },
    {
@@ -3787,12 +2468,6 @@
             "abbr": "w",
             "context": "shapes",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "larghezza"
          }
       ],
       "word": "width"
@@ -3804,12 +2479,6 @@
             "degree": "green"
          }
       ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "finestra"
-         }
-      ],
       "word": "window"
    },
    {
@@ -3819,7 +2488,6 @@
             "degree": "green"
          }
       ],
-      "translations": [],
       "word": "wizard"
    },
    {
@@ -3828,12 +2496,6 @@
             "abbr": "y",
             "context": "only with **n**",
             "degree": "yellow"
-         }
-      ],
-      "translations": [
-         {
-            "lang": "it",
-            "word": "si"
          }
       ],
       "word": "yes"

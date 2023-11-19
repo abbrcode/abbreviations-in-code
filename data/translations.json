@@ -1,0 +1,2129 @@
+[
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "abbreviazione"
+         }
+      ],
+      "word": "abbreviation"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "assoluto"
+         }
+      ],
+      "word": "absolute"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "acronimo"
+         }
+      ],
+      "word": "acronym"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "azione"
+         }
+      ],
+      "word": "action"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "attivo"
+         }
+      ],
+      "word": "active"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "attuale"
+         }
+      ],
+      "word": "actual"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "addizione"
+         }
+      ],
+      "word": "addition"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "indirizzo"
+         }
+      ],
+      "word": "address"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "algoritmo"
+         }
+      ],
+      "word": "algorithm"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "allocazione"
+         }
+      ],
+      "word": "allocation"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "alternativo"
+         }
+      ],
+      "word": "alternative"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "annotazione"
+         }
+      ],
+      "word": "annotation"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "applicazione"
+         }
+      ],
+      "word": "application"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "argomento"
+         }
+      ],
+      "word": "argument"
+   },
+   {
+      "translations": [],
+      "word": "array"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "asincrono"
+         }
+      ],
+      "word": "asynchronous"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "attributo"
+         }
+      ],
+      "word": "attribute"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "autenticazione"
+         }
+      ],
+      "word": "authentication"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "ausiliario"
+         }
+      ],
+      "word": "auxiliary"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "media"
+         }
+      ],
+      "word": "average"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "sfondo"
+         }
+      ],
+      "word": "background"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "batteria"
+         }
+      ],
+      "word": "battery"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "codice binario"
+         }
+      ],
+      "word": "binary"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "boleano"
+         }
+      ],
+      "word": "boolean"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "interruzione"
+         }
+      ],
+      "word": "break"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "interruzione di riga"
+         }
+      ],
+      "word": "breakline"
+   },
+   {
+      "translations": [],
+      "word": "buffer"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "bottone"
+         }
+      ],
+      "word": "button"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "calcolatore"
+         }
+      ],
+      "word": "calculator"
+   },
+   {
+      "translations": [],
+      "word": "callback"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "certificato"
+         }
+      ],
+      "word": "certificate"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "canale"
+         }
+      ],
+      "word": "channel"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "carattere"
+         }
+      ],
+      "word": "character"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "controllo"
+         }
+      ],
+      "word": "check"
+   },
+   {
+      "translations": [],
+      "word": "checksum"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "cerchio"
+         }
+      ],
+      "word": "circle"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "classe"
+         }
+      ],
+      "word": "class"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "pulizia"
+         }
+      ],
+      "word": "clear"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "collezione"
+         }
+      ],
+      "word": "collection"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "colonna"
+         }
+      ],
+      "word": "column"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "comando"
+         }
+      ],
+      "word": "command"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "commerciale"
+         }
+      ],
+      "word": "commercial"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "comune"
+         }
+      ],
+      "word": "common"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "comunicazione"
+         }
+      ],
+      "word": "communication"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "comparazione"
+         }
+      ],
+      "word": "comparison"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "componente"
+         }
+      ],
+      "word": "component"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "concatenazione"
+         }
+      ],
+      "word": "concatenation"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "condizione"
+         }
+      ],
+      "word": "condition"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "configurazione"
+         }
+      ],
+      "word": "configuration"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "connessione"
+         }
+      ],
+      "word": "connection"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "costante"
+         }
+      ],
+      "word": "constant"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "contesto"
+         }
+      ],
+      "word": "context"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "continuo"
+         }
+      ],
+      "word": "continue"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "controllo"
+         }
+      ],
+      "word": "control"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "conversazione"
+         }
+      ],
+      "word": "conversation"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "coordinate"
+         }
+      ],
+      "word": "coordinate"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "copia"
+         }
+      ],
+      "word": "copy"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "coseno"
+         }
+      ],
+      "word": "cosine"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "cotangente"
+         }
+      ],
+      "word": "cotangent"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "conto"
+         }
+      ],
+      "word": "count"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "corrente"
+         }
+      ],
+      "word": "current"
+   },
+   {
+      "translations": [],
+      "word": "database"
+   },
+   {
+      "translations": [],
+      "word": "debug"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "decimale"
+         }
+      ],
+      "word": "decimal"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "dichiarazione"
+         }
+      ],
+      "word": "declaration"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "decremento"
+         }
+      ],
+      "word": "decrease"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "predefinito"
+         }
+      ],
+      "word": "default"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "definizione"
+         }
+      ],
+      "word": "definition"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "eliminazione"
+         }
+      ],
+      "word": "deletion"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "tempo delta"
+         }
+      ],
+      "word": "delta time"
+   },
+   {
+      "translations": [],
+      "word": "dependency"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "descrizione"
+         }
+      ],
+      "word": "description"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "destinazione"
+         }
+      ],
+      "word": "destination"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "sviluppatore"
+         }
+      ],
+      "word": "developer"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "sviluppo"
+         }
+      ],
+      "word": "development"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "dispositivo"
+         }
+      ],
+      "word": "device"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "differenza"
+         }
+      ],
+      "word": "difference"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "dimensione"
+         }
+      ],
+      "word": "dimension"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "direzione"
+         }
+      ],
+      "word": "direction"
+   },
+   {
+      "translations": [],
+      "word": "directory"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "disabilitare"
+         }
+      ],
+      "word": "disable"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "schermo"
+         }
+      ],
+      "word": "display"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "divisione"
+         }
+      ],
+      "word": "division"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "documento"
+         }
+      ],
+      "word": "document"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "documentazione"
+         }
+      ],
+      "word": "documentation"
+   },
+   {
+      "translations": [],
+      "word": "driver"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "dinamico"
+         }
+      ],
+      "word": "dynamic"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "elemento"
+         }
+      ],
+      "word": "element"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "abilitare"
+         }
+      ],
+      "word": "enable"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "ambiente"
+         }
+      ],
+      "word": "environment"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "uguale"
+         }
+      ],
+      "word": "equal"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "errore"
+         }
+      ],
+      "word": "error"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "evento"
+         }
+      ],
+      "word": "event"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "esecuzione"
+         }
+      ],
+      "word": "execution"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "espressione"
+         }
+      ],
+      "word": "expression"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "estensione"
+         }
+      ],
+      "word": "extension"
+   },
+   {
+      "translations": [],
+      "word": "facet"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "fabbrica"
+         }
+      ],
+      "word": "factory"
+   },
+   {
+      "translations": [],
+      "word": "figure"
+   },
+   {
+      "translations": [],
+      "word": "file chooser"
+   },
+   {
+      "translations": [],
+      "word": "file description"
+   },
+   {
+      "translations": [],
+      "word": "file processor"
+   },
+   {
+      "translations": [],
+      "word": "file reader"
+   },
+   {
+      "translations": [],
+      "word": "file system"
+   },
+   {
+      "translations": [],
+      "word": "file writer"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "per esempio"
+         }
+      ],
+      "word": "for example"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "formato"
+         }
+      ],
+      "word": "format"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "frazione"
+         }
+      ],
+      "word": "fraction"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "frequenza"
+         }
+      ],
+      "word": "frequence"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "funzione"
+         }
+      ],
+      "word": "function"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "puntatore di funzione"
+         }
+      ],
+      "word": "function pointer"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "generazione"
+         }
+      ],
+      "word": "generation"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "maggiore uguale"
+         }
+      ],
+      "word": "greater or equal"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "maggiore di"
+         }
+      ],
+      "word": "greater than"
+   },
+   {
+      "translations": [],
+      "word": "hardware"
+   },
+   {
+      "translations": [],
+      "word": "header"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "altezza"
+         }
+      ],
+      "word": "height"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "esadecimale"
+         }
+      ],
+      "word": "hexadecimal"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "orizzontale"
+         }
+      ],
+      "word": "horizontal"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "identificatore"
+         }
+      ],
+      "word": "identifier"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "immagine"
+         }
+      ],
+      "word": "image"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "implementazione"
+         }
+      ],
+      "word": "implementation"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "importazione"
+         }
+      ],
+      "word": "import"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "inclusione"
+         }
+      ],
+      "word": "inclusion"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "aumento"
+         }
+      ],
+      "word": "increase"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "indice"
+         }
+      ],
+      "word": "index"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "informazione"
+         }
+      ],
+      "word": "information"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "inizializzazione"
+         }
+      ],
+      "word": "initialization"
+   },
+   {
+      "translations": [],
+      "word": "input"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "inserzione"
+         }
+      ],
+      "word": "insertion"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "istanza"
+         }
+      ],
+      "word": "instance"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "intero"
+         }
+      ],
+      "word": "integer"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "interfaccia"
+         }
+      ],
+      "word": "interface"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "iteratore"
+         }
+      ],
+      "word": "iterator"
+   },
+   {
+      "translations": [],
+      "word": "javascript"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "chiave"
+         }
+      ],
+      "word": "key"
+   },
+   {
+      "translations": [],
+      "word": "keymap"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "tastiera"
+         }
+      ],
+      "word": "keyword"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "lingua"
+         }
+      ],
+      "word": "language"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "latitudine"
+         }
+      ],
+      "word": "latitude"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "lunghezza"
+         }
+      ],
+      "word": "length"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "minore uguale"
+         }
+      ],
+      "word": "less or equal"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "minore di"
+         }
+      ],
+      "word": "less than"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "livello"
+         }
+      ],
+      "word": "level"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "librearia"
+         }
+      ],
+      "word": "library"
+   },
+   {
+      "translations": [],
+      "word": "link"
+   },
+   {
+      "translations": [],
+      "word": "linked list"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "posizione"
+         }
+      ],
+      "word": "location"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "longitudine"
+         }
+      ],
+      "word": "longitude"
+   },
+   {
+      "translations": [],
+      "word": "manager"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "massimo"
+         }
+      ],
+      "word": "maximum"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "memoria"
+         }
+      ],
+      "word": "memory"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "messaggio"
+         }
+      ],
+      "word": "message"
+   },
+   {
+      "translations": [],
+      "word": "metadata"
+   },
+   {
+      "translations": [],
+      "word": "microcontroller"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "mezzo"
+         }
+      ],
+      "word": "middle"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "minimo"
+         }
+      ],
+      "word": "minimum"
+   },
+   {
+      "translations": [],
+      "word": "miscellaneous"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "modulo"
+         }
+      ],
+      "word": "modulo"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "moltiplicazione"
+         }
+      ],
+      "word": "multiplication"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "mutabile"
+         }
+      ],
+      "word": "mutable"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "navigazione"
+         }
+      ],
+      "word": "navigation"
+   },
+   {
+      "translations": [],
+      "word": "network"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "nuova linea"
+         }
+      ],
+      "word": "newline"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "no"
+         }
+      ],
+      "word": "no"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "nodo"
+         }
+      ],
+      "word": "node"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "diverso"
+         }
+      ],
+      "word": "not equal"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "numero"
+         }
+      ],
+      "word": "number"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "numero di"
+         }
+      ],
+      "word": "number of"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "oggetto"
+         }
+      ],
+      "word": "object"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "chiave oggetto"
+         }
+      ],
+      "word": "object key"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "ottale"
+         }
+      ],
+      "word": "octal"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "sistema operativo"
+         }
+      ],
+      "word": "operating system"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "operazione"
+         }
+      ],
+      "word": "operation"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "opzione"
+         }
+      ],
+      "word": "option"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "ordine"
+         }
+      ],
+      "word": "order"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "organizzazione"
+         }
+      ],
+      "word": "organization"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "origine"
+         }
+      ],
+      "word": "origin"
+   },
+   {
+      "translations": [],
+      "word": "output"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "pacchetto"
+         }
+      ],
+      "word": "package"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "parametro"
+         }
+      ],
+      "word": "parameter"
+   },
+   {
+      "translations": [],
+      "word": "performance"
+   },
+   {
+      "translations": [],
+      "word": "picture"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "pixel"
+         }
+      ],
+      "word": "pixel"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "puntatore"
+         }
+      ],
+      "word": "pointer"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "poligono"
+         }
+      ],
+      "word": "poligon"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "posizione"
+         }
+      ],
+      "word": "position"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "potenza"
+         }
+      ],
+      "word": "power"
+   },
+   {
+      "translations": [],
+      "word": "predication"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "predizione"
+         }
+      ],
+      "word": "prediction"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "preferenza"
+         }
+      ],
+      "word": "preference"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "precedente"
+         }
+      ],
+      "word": "previous"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "privato"
+         }
+      ],
+      "word": "private"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "processo"
+         }
+      ],
+      "word": "process"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "produzione"
+         }
+      ],
+      "word": "production"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "profilatore"
+         }
+      ],
+      "word": "profiler"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "pubblico"
+         }
+      ],
+      "word": "public"
+   },
+   {
+      "translations": [],
+      "word": "query"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "raggio"
+         }
+      ],
+      "word": "radius"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "casuale"
+         }
+      ],
+      "word": "random"
+   },
+   {
+      "translations": [],
+      "word": "range"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "ricevere"
+         }
+      ],
+      "word": "receive"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "registrare"
+         }
+      ],
+      "word": "record"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "rettangolo"
+         }
+      ],
+      "word": "rectangle"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "riferimento"
+         }
+      ],
+      "word": "reference"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "espressione regolare"
+         }
+      ],
+      "word": "regular expression"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "relation"
+         }
+      ],
+      "word": "relation"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "remoto"
+         }
+      ],
+      "word": "remote"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "rimuovere"
+         }
+      ],
+      "word": "remove"
+   },
+   {
+      "translations": [],
+      "word": "repository"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "richiesta"
+         }
+      ],
+      "word": "request"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "risposta"
+         }
+      ],
+      "word": "response"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "risultato"
+         }
+      ],
+      "word": "result"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "ritorno"
+         }
+      ],
+      "word": "return"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "revisione"
+         }
+      ],
+      "word": "revision"
+   },
+   {
+      "translations": [],
+      "word": "script"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "selezione"
+         }
+      ],
+      "word": "selection"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "semaforo"
+         }
+      ],
+      "word": "semaphore"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "separazione"
+         }
+      ],
+      "word": "separator"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "sequenza"
+         }
+      ],
+      "word": "sequence"
+   },
+   {
+      "translations": [],
+      "word": "service"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "sessione"
+         }
+      ],
+      "word": "session"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "selezionato come prefisso"
+         }
+      ],
+      "word": "signed as prefix"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "seno"
+         }
+      ],
+      "word": "sine"
+   },
+   {
+      "translations": [],
+      "word": "software"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "soluzione"
+         }
+      ],
+      "word": "solution"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "risolutore"
+         }
+      ],
+      "word": "solver"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "sorgente"
+         }
+      ],
+      "word": "source"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "specificazione"
+         }
+      ],
+      "word": "specification"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "radice quadrata"
+         }
+      ],
+      "word": "square root"
+   },
+   {
+      "translations": [],
+      "word": "standard"
+   },
+   {
+      "translations": [],
+      "word": "standard input output"
+   },
+   {
+      "translations": [],
+      "word": "statement"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "statistica"
+         }
+      ],
+      "word": "statistic"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "stringa"
+         }
+      ],
+      "word": "string"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "sottrazione"
+         }
+      ],
+      "word": "subtration"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "sincronizzazione"
+         }
+      ],
+      "word": "synchronization"
+   },
+   {
+      "translations": [],
+      "word": "table data"
+   },
+   {
+      "translations": [],
+      "word": "table header"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "riga"
+         }
+      ],
+      "word": "table row"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "bersaglio"
+         }
+      ],
+      "word": "target"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "temporaneo"
+         }
+      ],
+      "word": "temporary"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "testo"
+         }
+      ],
+      "word": "text"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "tempo"
+         }
+      ],
+      "word": "time"
+   },
+   {
+      "translations": [],
+      "word": "timer"
+   },
+   {
+      "translations": [],
+      "word": "timestamp"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "a"
+         }
+      ],
+      "word": "to"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "interruttore"
+         }
+      ],
+      "word": "toggle"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "transazione"
+         }
+      ],
+      "word": "transaction"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "tipo"
+         }
+      ],
+      "word": "type"
+   },
+   {
+      "translations": [],
+      "word": "typescript"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "utente"
+         }
+      ],
+      "word": "user"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "utilità"
+         }
+      ],
+      "word": "utility"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "valore"
+         }
+      ],
+      "word": "value"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "variabile"
+         }
+      ],
+      "word": "variable"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "vettore"
+         }
+      ],
+      "word": "vector"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "versione"
+         }
+      ],
+      "word": "version"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "verticale"
+         }
+      ],
+      "word": "vertical"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "spazio bianco"
+         }
+      ],
+      "word": "white space"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "larghezza"
+         }
+      ],
+      "word": "width"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "finestra"
+         }
+      ],
+      "word": "window"
+   },
+   {
+      "translations": [],
+      "word": "wizard"
+   },
+   {
+      "translations": [
+         {
+            "lang": "it",
+            "word": "si"
+         }
+      ],
+      "word": "yes"
+   }
+]
