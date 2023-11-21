@@ -1,30 +1,27 @@
 import { readFileSync, writeFileSync } from 'fs';
 
-//
-
-// Sort abbrs
+// Abbrs
 {
-   const path = './data/abbrs/.json';
+   const langs = JSON.parse(readFileSync('./data/langs.json', 'utf-8'));
+   const abbrs = JSON.parse(readFileSync('./data/abbrs/.json', 'utf-8'));
 
-   const abbrs = JSON.parse(readFileSync(path, 'utf-8'));
+   // Sort langs
+   writeFileSync('./data/langs.json', JSON.stringify(langs.sort(), null, 3), 'utf-8');
 
-   writeFileSync(path, JSON.stringify(abbrs.sort(), null, 3), 'utf-8');
-}
+   // Sort abbrs
+   writeFileSync('./data/abbrs/.json', JSON.stringify(abbrs.sort(), null, 3), 'utf-8');
 
-// Sort langs
-{
-   const path = './data/langs.json';
+   for (const lang of langs) {
+      if (lang === 'en') continue;
 
-   const langs = JSON.parse(readFileSync(path, 'utf-8'));
+      let translations = JSON.parse(readFileSync(`./data/translations/${lang}.json`, 'utf-8'));
 
-   writeFileSync(path, JSON.stringify(langs.sort(), null, 3), 'utf-8');
-}
+      for (let abbr of abbrs) {
+         // Mirror abbr word to translations key
+         if (!translations[abbr.word]) translations[abbr.word] = null;
+      }
 
-// Sort translations
-{
-   const path = './data/translations.json';
-
-   const translations = JSON.parse(readFileSync(path, 'utf-8'));
-
-   writeFileSync(path, JSON.stringify(translations.sort(), null, 3), 'utf-8');
+      // Sort translations
+      writeFileSync(`./data/translations/${lang}.json`, JSON.stringify(translations.sort(), null, 3), 'utf-8');
+   }
 }
