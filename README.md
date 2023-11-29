@@ -327,7 +327,7 @@ Colored circles before the abbr mean the degree of recommendation:
 ### V
 - value • 🟡 v { only with **k** } • 🟢 val
 - variable • 🟢 var
-- vector • 🟡 v { physics }
+- vector • 🟡 v { physics } • 🟢 vec
 - version • 🟢 v • 🔴 ver
 - vertical • 🟢 ver
 
