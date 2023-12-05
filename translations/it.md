@@ -327,7 +327,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 ### V
 - valore (value) • 🟡 v { only with **k** } • 🟢 val
 - variabile (variable) • 🟢 var
-- vettore (vector) • 🟡 v { physics }
+- vettore (vector) • 🟡 v { physics } • 🟢 vec
 - versione (version) • 🟢 v • 🔴 ver
 - verticale (vertical) • 🟢 ver
 

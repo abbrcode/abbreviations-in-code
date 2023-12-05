@@ -2426,6 +2426,10 @@
             "abbr": "v",
             "context": "physics",
             "degree": "yellow"
+         },
+         {
+            "abbr": "vec",
+            "degree": "green"
          }
       ],
       "word": "vector"
