@@ -1,31 +1,69 @@
-import { readFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 
 //
 
-const abbrs = JSON.parse(readFileSync('./data/abbrs/.json', 'utf-8'));
+const alphabet = 'abcdefghijklmnopqrstuvwxyz';
 
-const degrees = JSON.parse(readFileSync('./data/degrees.json', 'utf-8'));
+export default class Template {
+   abbrs = JSON.parse(readFileSync('./data/abbrs/.json', 'utf-8'));
+   degrees = JSON.parse(readFileSync('./data/degrees.json', 'utf-8'));
 
-//
+   constructor (lang) {
+      this.lang = lang;
 
-const property = abbr => {
-   let p = `- ${abbr.word}`;
+      this.template = readFileSync(`./data/templates/${lang}.md`, 'utf-8');
 
-   for (const a of abbr.abbrs) {
-      p += ` • ${degrees[a.degree]} ${a.abbr}`;
+      if (this.lang !== 'en') {
+         this.translations = JSON.parse(readFileSync(`./data/translations/${lang}.json`, 'utf-8'));
+      }
 
-      if (a.degree === 'yellow') p += ` { ${a.context} }`;
+      this.replace('{{ length }}', this.abbrs.length);
    }
 
-   return `${p}\n`;
-};
+   replace(prev, replace) {
+      this.template = this.template.replace(prev, replace);
+   }
 
-export const section = letter => {
-   let s = `### ${letter.toUpperCase()}\n`;
+   list() {
+      let list = '';
 
-   const query = abbrs.filter(a => a.word[0].match(letter));
+      for (const letter of alphabet) {
+         let section = `### ${letter.toUpperCase()}\n`;
 
-   for (const abbr of query) s += property(abbr);
+         const query = this.abbrs.filter(a => a.word[0].match(letter));
 
-   return `${s}\n`;
-};
+         // Abbr property
+         for (const abbr of query) {
+            let property = `- `;
+
+            if (this.lang !== 'en') {
+               const translation = this.translations.find(translation => abbr.word === translation.word);
+
+               if (translation.translation) {
+                  property += `${translation.translation} (${abbr.word})`;
+               } else {
+                  property += `(${abbr.word})`;
+               }
+            } else {
+               property += abbr.word;
+            }
+
+            for (const a of abbr.abbrs) {
+               property += ` • ${this.degrees[a.degree]} ${a.abbr}`;
+
+               if (a.degree === 'yellow') property += ` { ${a.context} }`;
+            }
+
+            section += `${property}\n`;
+         }
+
+         list += `${section}\n`;
+      }
+
+      this.replace('{{ list }}', list);
+   }
+
+   write(path) {
+      writeFileSync(path, this.template, 'utf-8');
+   }
+}

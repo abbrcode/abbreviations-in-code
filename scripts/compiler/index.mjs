@@ -1,28 +1,16 @@
-const alphabet = 'abcdefghijklmnopqrstuvwxyz';
+import { readFileSync } from 'fs';
+
+import compile from './compile.mjs';
+import translate from './translate.mjs';
 
 //
 
-import { readFileSync, writeFileSync } from 'fs';
+const langs = JSON.parse(readFileSync('./data/langs.json'));
 
-//
-
-const abbrs = JSON.parse(readFileSync('./data/abbrs/.json', 'utf-8'));
-
-let template = readFileSync('./data/template.md', 'utf-8');
-
-// List
-import { section } from './template.mjs';
-{
-   let list = '';
-
-   for (const letter of alphabet) list += section(letter);
-
-   template = template.replace('{{ list }}', list);
+for (const lang of langs) {
+   if (lang === 'en') {
+      compile();
+   } else {
+      translate(lang);
+   }
 }
-
-// Length
-{
-   template = template.replace('{{ length }}', abbrs.length);
-}
-
-writeFileSync('./README.md', template, 'utf-8');
