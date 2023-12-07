@@ -43,7 +43,10 @@ Colored circles before the abbr mean the degree of recommendation:
 - alternative • 🟢 alt
 - annotation • 🟢 anno
 - application • 🟢 app
+- arccosecant • 🟢 acosec
 - arccosine • 🟢 acos
+- arccotangent • 🟢 acot • 🟢 actg
+- arcsecant • 🟢 asec
 - arcsine • 🟢 asin
 - arctangent • 🟢 atan
 - argument • 🟢 arg
@@ -161,7 +164,6 @@ Colored circles before the abbr mean the degree of recommendation:
 ### G
 - generation • 🟢 gen
 - geometry • 🟢 geom
-- geometric • 🟢 geom
 - greater or equal • 🟡 ge { binary operations }
 - greater than • 🟡 gt { binary operations }
 
@@ -188,7 +190,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - integer • 🟢 int
 - interface • 🟢 iface • 🔴 intf
 - inverse • 🟢 inv
-- inverted • 🟢 inv
 - iterator • 🟡 iter { loops }
 
 ### J
@@ -214,7 +215,6 @@ Colored circles before the abbr mean the degree of recommendation:
 
 ### M
 - manager • 🟢 mng
-- mathematic • 🟢 math
 - matrix • 🟡 mtx { mathematics } • 🟡 mat { mathematics }
 - maximum • 🟢 max
 - memory • 🟢 mem
