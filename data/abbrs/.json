@@ -2268,6 +2268,15 @@
    {
       "abbrs": [
          {
+            "abbr": "tan",
+            "degree": "green"
+         }
+      ],
+      "word": "tangent"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "tgt",
             "degree": "red"
          }
