@@ -53,27 +53,27 @@
    },
    {
       "word": "arccosecant",
-      "translation": null
+      "translation": "arcocosecante"
    },
    {
       "word": "arccosine",
-      "translation": null
+      "translation": "arcoseno"
    },
    {
       "word": "arccotangent",
-      "translation": null
+      "translation": "arcotangente"
    },
    {
       "word": "arcsecant",
-      "translation": null
+      "translation": "arcosecante"
    },
    {
       "word": "arcsine",
-      "translation": null
+      "translation": "arcoseno"
    },
    {
       "word": "arctangent",
-      "translation": null
+      "translation": "arcotangente"
    },
    {
       "word": "argument",
@@ -253,7 +253,7 @@
    },
    {
       "word": "cosecant",
-      "translation": null
+      "translation": "cosecante"
    },
    {
       "word": "cosine",
@@ -301,7 +301,7 @@
    },
    {
       "word": "degrees",
-      "translation": null
+      "translation": "gradi"
    },
    {
       "word": "deletion",
@@ -409,7 +409,7 @@
    },
    {
       "word": "exponential",
-      "translation": null
+      "translation": "esponenziale"
    },
    {
       "word": "expression",
@@ -485,7 +485,7 @@
    },
    {
       "word": "geometry",
-      "translation": null
+      "translation": "geometria"
    },
    {
       "word": "greater or equal",
@@ -573,7 +573,7 @@
    },
    {
       "word": "inverse",
-      "translation": null
+      "translation": "inverso"
    },
    {
       "word": "iterator",
@@ -645,7 +645,7 @@
    },
    {
       "word": "matrix",
-      "translation": null
+      "translation": "matrice"
    },
    {
       "word": "maximum",
@@ -841,7 +841,7 @@
    },
    {
       "word": "radians",
-      "translation": null
+      "translation": "radianti"
    },
    {
       "word": "radius",
@@ -917,7 +917,7 @@
    },
    {
       "word": "secant",
-      "translation": null
+      "translation": "secante"
    },
    {
       "word": "selection",
@@ -1017,7 +1017,7 @@
    },
    {
       "word": "tangent",
-      "translation": null
+      "translation": "tangente"
    },
    {
       "word": "target",
