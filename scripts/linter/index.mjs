@@ -11,17 +11,24 @@ import { readFileSync, writeFileSync } from 'fs';
    // Sort abbrs
    writeFileSync('./data/abbrs/.json', JSON.stringify(abbrs.sort(), null, 3), 'utf-8');
 
+   // Mirror abbr word to translations word
    for (const lang of langs) {
       if (lang === 'en') continue;
 
       let translations = JSON.parse(readFileSync(`./data/translations/${lang}.json`, 'utf-8'));
 
       for (let abbr of abbrs) {
-         // Mirror abbr word to translations key
-         if (!translations[abbr.word]) translations[abbr.word] = null;
+         const query = translations.find(translation => abbr.word === translation.word);
+
+         if (!query) {
+            translations.push({
+               word: abbr.word,
+               translation: null
+            });
+         }
       }
 
       // Sort translations
-      writeFileSync(`./data/translations/${lang}.json`, JSON.stringify(translations.sort(), null, 3), 'utf-8');
+      writeFileSync(`./data/translations/${lang}.json`, JSON.stringify(translations.sort((a, b) => a.word < b.word ? -1 : 1), null, 3), 'utf-8');
    }
 }
