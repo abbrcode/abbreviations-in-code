@@ -53,6 +53,32 @@
     degree: green
   word: application
 - abbrs:
+  - abbr: acosec
+    degree: green
+  word: arccosecant
+- abbrs:
+  - abbr: acos
+    degree: green
+  word: arccosine
+- abbrs:
+  - abbr: acot
+    degree: green
+  - abbr: actg
+    degree: green
+  word: arccotangent
+- abbrs:
+  - abbr: asec
+    degree: green
+  word: arcsecant
+- abbrs:
+  - abbr: asin
+    degree: green
+  word: arcsine
+- abbrs:
+  - abbr: atan
+    degree: green
+  word: arctangent
+- abbrs:
   - abbr: arg
     degree: green
   word: argument
@@ -246,11 +272,17 @@
     degree: red
   word: copy
 - abbrs:
+  - abbr: cosec
+    degree: green
+  word: cosecant
+- abbrs:
   - abbr: cos
     degree: green
   word: cosine
 - abbrs:
   - abbr: cot
+    degree: green
+  - abbr: ctg
     degree: green
   word: cotangent
 - abbrs:
@@ -292,6 +324,10 @@
   - abbr: def
     degree: green
   word: definition
+- abbrs:
+  - abbr: deg
+    degree: green
+  word: degrees
 - abbrs:
   - abbr: del
     degree: green
@@ -403,6 +439,10 @@
     degree: green
   word: execution
 - abbrs:
+  - abbr: exp
+    degree: green
+  word: exponential
+- abbrs:
   - abbr: expr
     degree: green
   word: expression
@@ -478,6 +518,10 @@
   - abbr: gen
     degree: green
   word: generation
+- abbrs:
+  - abbr: geom
+    degree: green
+  word: geometry
 - abbrs:
   - abbr: ge
     context: binary operations
@@ -571,6 +615,10 @@
     degree: red
   word: interface
 - abbrs:
+  - abbr: inv
+    degree: green
+  word: inverse
+- abbrs:
   - abbr: iter
     context: loops
     degree: yellow
@@ -644,6 +692,14 @@
   - abbr: mng
     degree: green
   word: manager
+- abbrs:
+  - abbr: mat
+    context: mathematics
+    degree: yellow
+  - abbr: mtx
+    context: mathematics
+    degree: yellow
+  word: matrix
 - abbrs:
   - abbr: max
     degree: green
@@ -853,6 +909,10 @@
     degree: red
   word: query
 - abbrs:
+  - abbr: rad
+    degree: green
+  word: radians
+- abbrs:
   - abbr: r
     context: circles
     degree: yellow
@@ -932,6 +992,10 @@
   - abbr: sc
     degree: red
   word: script
+- abbrs:
+  - abbr: sec
+    degree: green
+  word: secant
 - abbrs:
   - abbr: sel
     degree: green
@@ -1033,6 +1097,10 @@
   - abbr: tr
     degree: green
   word: table row
+- abbrs:
+  - abbr: tan
+    degree: green
+  word: tangent
 - abbrs:
   - abbr: tgt
     degree: red

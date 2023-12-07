@@ -52,6 +52,30 @@
       "translation": "applicazione"
    },
    {
+      "word": "arccosecant",
+      "translation": null
+   },
+   {
+      "word": "arccosine",
+      "translation": null
+   },
+   {
+      "word": "arccotangent",
+      "translation": null
+   },
+   {
+      "word": "arcsecant",
+      "translation": null
+   },
+   {
+      "word": "arcsine",
+      "translation": null
+   },
+   {
+      "word": "arctangent",
+      "translation": null
+   },
+   {
       "word": "argument",
       "translation": "argomento"
    },
@@ -228,6 +252,10 @@
       "translation": "copia"
    },
    {
+      "word": "cosecant",
+      "translation": null
+   },
+   {
       "word": "cosine",
       "translation": "coseno"
    },
@@ -270,6 +298,10 @@
    {
       "word": "definition",
       "translation": "definizione"
+   },
+   {
+      "word": "degrees",
+      "translation": null
    },
    {
       "word": "deletion",
@@ -376,6 +408,10 @@
       "translation": "esecuzione"
    },
    {
+      "word": "exponential",
+      "translation": null
+   },
+   {
       "word": "expression",
       "translation": "espressione"
    },
@@ -446,6 +482,10 @@
    {
       "word": "generation",
       "translation": "generazione"
+   },
+   {
+      "word": "geometry",
+      "translation": null
    },
    {
       "word": "greater or equal",
@@ -532,6 +572,10 @@
       "translation": "interfaccia"
    },
    {
+      "word": "inverse",
+      "translation": null
+   },
+   {
       "word": "iterator",
       "translation": "iteratore"
    },
@@ -597,6 +641,10 @@
    },
    {
       "word": "manager",
+      "translation": null
+   },
+   {
+      "word": "matrix",
       "translation": null
    },
    {
@@ -792,6 +840,10 @@
       "translation": "quesito"
    },
    {
+      "word": "radians",
+      "translation": null
+   },
+   {
       "word": "radius",
       "translation": "raggio"
    },
@@ -861,6 +913,10 @@
    },
    {
       "word": "script",
+      "translation": null
+   },
+   {
+      "word": "secant",
       "translation": null
    },
    {
@@ -957,6 +1013,10 @@
    },
    {
       "word": "table row",
+      "translation": null
+   },
+   {
+      "word": "tangent",
       "translation": null
    },
    {

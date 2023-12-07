@@ -120,6 +120,64 @@
    {
       "abbrs": [
          {
+            "abbr": "acosec",
+            "degree": "green"
+         }
+      ],
+      "word": "arccosecant"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "acos",
+            "degree": "green"
+         }
+      ],
+      "word": "arccosine"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "acot",
+            "degree": "green"
+         },
+         {
+            "abbr": "actg",
+            "degree": "green"
+         }
+      ],
+      "word": "arccotangent"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "asec",
+            "degree": "green"
+         }
+      ],
+      "word": "arcsecant"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "asin",
+            "degree": "green"
+         }
+      ],
+      "word": "arcsine"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "atan",
+            "degree": "green"
+         }
+      ],
+      "word": "arctangent"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "arg",
             "degree": "green"
          }
@@ -543,6 +601,15 @@
    {
       "abbrs": [
          {
+            "abbr": "cosec",
+            "degree": "green"
+         }
+      ],
+      "word": "cosecant"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "cos",
             "degree": "green"
          }
@@ -553,6 +620,10 @@
       "abbrs": [
          {
             "abbr": "cot",
+            "degree": "green"
+         },
+         {
+            "abbr": "ctg",
             "degree": "green"
          }
       ],
@@ -643,6 +714,15 @@
          }
       ],
       "word": "definition"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "deg",
+            "degree": "green"
+         }
+      ],
+      "word": "degrees"
    },
    {
       "abbrs": [
@@ -889,6 +969,15 @@
    {
       "abbrs": [
          {
+            "abbr": "exp",
+            "degree": "green"
+         }
+      ],
+      "word": "exponential"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "expr",
             "degree": "green"
          }
@@ -1055,6 +1144,15 @@
          }
       ],
       "word": "generation"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "geom",
+            "degree": "green"
+         }
+      ],
+      "word": "geometry"
    },
    {
       "abbrs": [
@@ -1258,6 +1356,15 @@
    {
       "abbrs": [
          {
+            "abbr": "inv",
+            "degree": "green"
+         }
+      ],
+      "word": "inverse"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "iter",
             "context": "loops",
             "degree": "yellow"
@@ -1413,6 +1520,21 @@
          }
       ],
       "word": "manager"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "mat",
+            "context": "mathematics",
+            "degree": "yellow"
+         },
+         {
+            "abbr": "mtx",
+            "context": "mathematics",
+            "degree": "yellow"
+         }
+      ],
+      "word": "matrix"
    },
    {
       "abbrs": [
@@ -1869,6 +1991,15 @@
    {
       "abbrs": [
          {
+            "abbr": "rad",
+            "degree": "green"
+         }
+      ],
+      "word": "radians"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "r",
             "context": "circles",
             "degree": "yellow"
@@ -2041,6 +2172,15 @@
          }
       ],
       "word": "script"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "sec",
+            "degree": "green"
+         }
+      ],
+      "word": "secant"
    },
    {
       "abbrs": [
