@@ -43,6 +43,12 @@ Colored circles before the abbr mean the degree of recommendation:
 - alternative • 🟢 alt
 - annotation • 🟢 anno
 - application • 🟢 app
+- arccosecant • 🟢 acosec
+- arccosine • 🟢 acos
+- arccotangent • 🟢 acot • 🟢 actg
+- arcsecant • 🟢 asec
+- arcsine • 🟢 asin
+- arctangent • 🟢 atan
 - argument • 🟢 arg
 - array • 🟢 arr
 - asynchronous • 🟢 async
@@ -91,8 +97,9 @@ Colored circles before the abbr mean the degree of recommendation:
 - conversation • 🟢 conv
 - coordinate • 🟢 coord
 - copy • 🔴 cpy
+- cosecant • 🟢 cosec
 - cosine • 🟢 cos
-- cotangent • 🟢 cot
+- cotangent • 🟢 cot • 🟢 ctg
 - count • 🟢 cnt
 - current • 🔴 cur • 🟢 curr
 
@@ -104,6 +111,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - decrease • 🟡 dec { loops }
 - default • 🔴 def
 - definition • 🟢 def
+- degrees • 🟢 deg
 - deletion • 🟢 del
 - delta time • 🟡 dt { calculations }
 - dependency • 🟢 dep
@@ -132,6 +140,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - error • 🟢 err
 - event • 🟢 e • 🟢 evt
 - execution • 🟢 exe
+- exponential • 🟢 exp
 - expression • 🟢 expr
 - extension • 🟢 ext
 
@@ -154,6 +163,7 @@ Colored circles before the abbr mean the degree of recommendation:
 
 ### G
 - generation • 🟢 gen
+- geometry • 🟢 geom
 - greater or equal • 🟡 ge { binary operations }
 - greater than • 🟡 gt { binary operations }
 
@@ -179,6 +189,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - instance • 🟢 inst
 - integer • 🟢 int
 - interface • 🟢 iface • 🔴 intf
+- inverse • 🟢 inv
 - iterator • 🟡 iter { loops }
 
 ### J
@@ -204,6 +215,7 @@ Colored circles before the abbr mean the degree of recommendation:
 
 ### M
 - manager • 🟢 mng
+- matrix • 🟡 mtx { mathematics } • 🟡 mat { mathematics }
 - maximum • 🟢 max
 - memory • 🟢 mem
 - message • 🟢 msg
@@ -262,6 +274,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - query • 🟢 q • 🔴 qry
 
 ### R
+- radians • 🟢 rad
 - radius • 🟡 r { circles }
 - random • 🟢 rand • 🔴 rnd
 - range • 🟢 rng
@@ -282,6 +295,7 @@ Colored circles before the abbr mean the degree of recommendation:
 
 ### S
 - script • 🔴 sc
+- secant • 🟢 sec
 - selection • 🟢 sel
 - semaphore • 🟡 sem { conditional operators }
 - separator • 🟢 sep
