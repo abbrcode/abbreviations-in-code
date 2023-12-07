@@ -215,7 +215,7 @@ Colored circles before the abbr mean the degree of recommendation:
 
 ### M
 - manager • 🟢 mng
-- matrix • 🟡 mtx { mathematics } • 🟡 mat { mathematics }
+- matrix • 🟡 mat { mathematics } • 🟡 mtx { mathematics }
 - maximum • 🟢 max
 - memory • 🟢 mem
 - message • 🟢 msg
@@ -322,6 +322,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - table data • 🟢 td
 - table header • 🟢 th
 - table row • 🟢 tr
+- tangent • 🟢 tan
 - target • 🔴 tgt
 - temporary • 🟢 tmp • 🟢 temp
 - text • 🔴 txt
@@ -359,7 +360,7 @@ Colored circles before the abbr mean the degree of recommendation:
 ### Z
 
 
-263 abbrs in the list
+278 abbrs in the list
 
 <br />
 

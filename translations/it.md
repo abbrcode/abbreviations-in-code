@@ -43,6 +43,12 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - alternativo (alternative) • 🟢 alt
 - annotazione (annotation) • 🟢 anno
 - applicazione (application) • 🟢 app
+- arcocosecante (arccosecant) • 🟢 acosec
+- arcoseno (arccosine) • 🟢 acos
+- arcotangente (arccotangent) • 🟢 acot • 🟢 actg
+- arcosecante (arcsecant) • 🟢 asec
+- arcoseno (arcsine) • 🟢 asin
+- arcotangente (arctangent) • 🟢 atan
 - argomento (argument) • 🟢 arg
 - (array) • 🟢 arr
 - asincrono (asynchronous) • 🟢 async
@@ -91,8 +97,9 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - conversazione (conversation) • 🟢 conv
 - coordinate (coordinate) • 🟢 coord
 - copia (copy) • 🔴 cpy
+- cosecante (cosecant) • 🟢 cosec
 - coseno (cosine) • 🟢 cos
-- cotangente (cotangent) • 🟢 cot
+- cotangente (cotangent) • 🟢 cot • 🟢 ctg
 - conto (count) • 🟢 cnt
 - corrente (current) • 🔴 cur • 🟢 curr
 
@@ -104,6 +111,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - decremento (decrease) • 🟡 dec { loops }
 - predefinito (default) • 🔴 def
 - definizione (definition) • 🟢 def
+- gradi (degrees) • 🟢 deg
 - eliminazione (deletion) • 🟢 del
 - tempo delta (delta time) • 🟡 dt { calculations }
 - (dependency) • 🟢 dep
@@ -132,6 +140,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - errore (error) • 🟢 err
 - evento (event) • 🟢 e • 🟢 evt
 - esecuzione (execution) • 🟢 exe
+- esponenziale (exponential) • 🟢 exp
 - espressione (expression) • 🟢 expr
 - estensione (extension) • 🟢 ext
 
@@ -154,6 +163,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 
 ### G
 - generazione (generation) • 🟢 gen
+- geometria (geometry) • 🟢 geom
 - maggiore uguale (greater or equal) • 🟡 ge { binary operations }
 - maggiore di (greater than) • 🟡 gt { binary operations }
 
@@ -179,6 +189,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - istanza (instance) • 🟢 inst
 - intero (integer) • 🟢 int
 - interfaccia (interface) • 🟢 iface • 🔴 intf
+- inverso (inverse) • 🟢 inv
 - iteratore (iterator) • 🟡 iter { loops }
 
 ### J
@@ -204,6 +215,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 
 ### M
 - (manager) • 🟢 mng
+- matrice (matrix) • 🟡 mat { mathematics } • 🟡 mtx { mathematics }
 - massimo (maximum) • 🟢 max
 - memoria (memory) • 🟢 mem
 - messaggio (message) • 🟢 msg
@@ -262,6 +274,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - quesito (query) • 🟢 q • 🔴 qry
 
 ### R
+- radianti (radians) • 🟢 rad
 - raggio (radius) • 🟡 r { circles }
 - casuale (random) • 🟢 rand • 🔴 rnd
 - gamma (range) • 🟢 rng
@@ -282,6 +295,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 
 ### S
 - (script) • 🔴 sc
+- secante (secant) • 🟢 sec
 - selezione (selection) • 🟢 sel
 - semaforo (semaphore) • 🟡 sem { conditional operators }
 - separazione (separator) • 🟢 sep
@@ -308,6 +322,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - (table data) • 🟢 td
 - (table header) • 🟢 th
 - (table row) • 🟢 tr
+- tangente (tangent) • 🟢 tan
 - bersaglio (target) • 🔴 tgt
 - temporaneo (temporary) • 🟢 tmp • 🟢 temp
 - testo (text) • 🔴 txt
@@ -345,7 +360,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 ### Z
 
 
-263 abbreviazioni nella lista
+278 abbreviazioni nella lista
 
 <br />
 
