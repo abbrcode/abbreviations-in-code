@@ -11,9 +11,11 @@ export default class Template {
    constructor (lang) {
       this.lang = lang;
 
-      this.template = readFileSync(`./data/templates/${lang}.md`, 'utf-8');
+      if (this.lang === 'en') {
+         this.template = readFileSync('./data/template.md', 'utf-8');
+      } else {
+         this.template = readFileSync(`./data/translations/${this.lang}/.md`, 'utf-8');
 
-      if (this.lang !== 'en') {
          this.translations = JSON.parse(readFileSync(`./data/translations/${lang}.json`, 'utf-8'));
       }
 
