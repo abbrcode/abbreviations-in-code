@@ -91,6 +91,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - configurazione (configuration) • 🔴 cfg • 🔴 conf • 🟢 config
 - connessione (connection) • 🔴 con • 🟢 conn
 - costante (constant) • 🟢 const
+- contenitore (container) • 🟢 cntr
 - contesto (context) • 🟢 ctx
 - continuo (continue) • 🟢 cont
 - controllo (control) • 🟢 ctrl
@@ -360,7 +361,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 ### Z
 
 
-278 abbreviazioni nella lista
+279 abbreviazioni nella lista
 
 <br />
 

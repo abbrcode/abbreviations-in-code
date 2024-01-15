@@ -91,6 +91,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - configuration • 🔴 cfg • 🔴 conf • 🟢 config
 - connection • 🔴 con • 🟢 conn
 - constant • 🟢 const
+- container • 🟢 cntr
 - context • 🟢 ctx
 - continue • 🟢 cont
 - control • 🟢 ctrl
@@ -360,7 +361,7 @@ Colored circles before the abbr mean the degree of recommendation:
 ### Z
 
 
-278 abbrs in the list
+279 abbrs in the list
 
 <br />
 
