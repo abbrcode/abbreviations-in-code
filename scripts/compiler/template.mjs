@@ -16,7 +16,7 @@ export default class Template {
       } else {
          this.template = readFileSync(`./data/translations/${this.lang}/.md`, 'utf-8');
 
-         this.translations = JSON.parse(readFileSync(`./data/translations/${lang}.json`, 'utf-8'));
+         this.translations = JSON.parse(readFileSync(`./data/translations/${lang}/.json`, 'utf-8'));
       }
 
       this.replace('{{ length }}', this.abbrs.length);

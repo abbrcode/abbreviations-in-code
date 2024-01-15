@@ -15,7 +15,9 @@ import { readFileSync, writeFileSync } from 'fs';
    for (const lang of langs) {
       if (lang === 'en') continue;
 
-      let translations = JSON.parse(readFileSync(`./data/translations/${lang}.json`, 'utf-8'));
+      const path = `./data/translations/${lang}/.json`;
+
+      let translations = JSON.parse(readFileSync(path, 'utf-8'));
 
       for (let abbr of abbrs) {
          const query = translations.find(translation => abbr.word === translation.word);
@@ -29,6 +31,6 @@ import { readFileSync, writeFileSync } from 'fs';
       }
 
       // Sort translations
-      writeFileSync(`./data/translations/${lang}.json`, JSON.stringify(translations.sort((a, b) => a.word < b.word ? -1 : 1), null, 3), 'utf-8');
+      writeFileSync(path, JSON.stringify(translations.sort((a, b) => a.word < b.word ? -1 : 1), null, 3), 'utf-8');
    }
 }
