@@ -248,6 +248,10 @@
     degree: green
   word: constant
 - abbrs:
+  - abbr: cntr
+    degree: green
+  word: container
+- abbrs:
   - abbr: ctx
     degree: green
   word: context
