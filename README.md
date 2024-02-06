@@ -233,7 +233,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - navigation • 🟢 nav
 - network • 🟢 net
 - newline • 🟡 nl { endcoding }
-- no • 🟡 n { only with **yes** }
+- no • 🟡 n { only with **y** }
 - node • 🟡 $... { DOM }
 - not equal • 🟡 ne { binary operators }
 - number • 🟢 num

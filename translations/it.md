@@ -233,7 +233,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - navigazione (navigation) • 🟢 nav
 - rete (network) • 🟢 net
 - nuova linea (newline) • 🟡 nl { endcoding }
-- no (no) • 🟡 n { only with **yes** }
+- no (no) • 🟡 n { only with **y** }
 - nodo (node) • 🟡 $... { DOM }
 - diverso (not equal) • 🟡 ne { binary operators }
 - numero (number) • 🟢 num
