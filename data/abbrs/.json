@@ -1678,7 +1678,7 @@
       "abbrs": [
          {
             "abbr": "n",
-            "context": "only with **yes**",
+            "context": "only with **y**",
             "degree": "yellow"
          }
       ],
