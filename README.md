@@ -150,7 +150,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - factory • 🟢 fac
 - figure • 🟢 fig
 - file chooser • 🟢 fc
-- file description • 🟢 fd
+- file descriptor • 🟢 fd
 - file processor • 🟢 fp
 - file reader • 🟢 fr
 - file system • 🟢 fs
