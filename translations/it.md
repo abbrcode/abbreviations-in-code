@@ -150,7 +150,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - fabbrica (factory) • 🟢 fac
 - figura (figure) • 🟢 fig
 - (file chooser) • 🟢 fc
-- (file description) • 🟢 fd
+- descrittore di file (file descriptor) • 🟢 fd
 - (file processor) • 🟢 fp
 - (file reader) • 🟢 fr
 - (file system) • 🟢 fs

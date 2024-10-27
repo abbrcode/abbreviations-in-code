@@ -473,7 +473,7 @@
 - abbrs:
   - abbr: fd
     degree: green
-  word: file description
+  word: file descriptor
 - abbrs:
   - abbr: fp
     degree: green
