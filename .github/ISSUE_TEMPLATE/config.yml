@@ -2,4 +2,6 @@ blank_issues_enabled: false
 contact_links:
   - name: CONTIBUTING.md
     url: https://github.com/kisvegabor/abbreviations-in-code/blob/master/.github/CONTRIBUTING.md
-    about: The basic rules of contributing
+    about: Our guidelines for contributing
+  - name: Discussions
+    url: https://github.com/orgs/abbrcode/discussions
