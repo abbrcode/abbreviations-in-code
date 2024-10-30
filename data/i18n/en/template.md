@@ -26,6 +26,9 @@ Colored circles before the abbr mean the degree of recommendation:
 -  🟡 Context-sensitive • Context is specified between { }
 -  🔴 Not recommended
 
+## Translations
+{{ translations }}
+
 ## List
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z) 
 
