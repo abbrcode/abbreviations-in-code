@@ -53,7 +53,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - arcoseno (arcsine) • 🟢 asin
 - arcotangente (arctangent) • 🟢 atan
 - argomento (argument) • 🟢 arg
-- null (array) • 🟢 arr
+- (array) • 🟢 arr
 - asincrono (asynchronous) • 🟢 async
 - attributo (attribute) • 🟢 attr
 - autenticazione (authentication) • 🟢 auth
@@ -72,12 +72,12 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 
 ### C
 - calcolatore (calculator) • 🟢 calc
-- null (callback) • 🟢 cb
+- (callback) • 🟢 cb
 - certificato (certificate) • 🟢 cert
 - canale (channel) • 🟡 ch { connections }
 - carattere (character) • 🟢 char
 - controllo (check) • 🟢 chk
-- null (checksum) • 🟡 csum { operations }
+- (checksum) • 🟡 csum { operations }
 - cerchio (circle) • 🟡 circ { shapes }
 - classe (class) • 🔴 cls
 - pulire (clear) • 🟢 clr
@@ -108,8 +108,8 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - corrente (current) • 🔴 cur • 🟢 curr
 
 ### D
-- null (database) • 🟢 db
-- null (debug) • 🟢 dbg
+- (database) • 🟢 db
+- (debug) • 🟢 dbg
 - decimale (decimal) • 🟢 dec
 - dichiarazione (declaration) • 🟢 decl
 - decremento (decrease) • 🟡 dec { loops }
@@ -118,7 +118,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - gradi (degrees) • 🟢 deg
 - eliminazione (deletion) • 🟢 del
 - tempo delta (delta time) • 🟡 dt { calculations }
-- null (dependency) • 🟢 dep
+- (dependency) • 🟢 dep
 - descrizione (description) • 🟢 desc
 - destinazione (destination) • 🟢 dest
 - sviluppatore (developer) • 🟢 dev
@@ -127,13 +127,13 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - differenza (difference) • 🟡 diff { operations }
 - dimensione (dimension) • 🟢 dim
 - direzione (direction) • 🟢 dir
-- null (directory) • 🟢 dir
+- (directory) • 🟢 dir
 - disabilitare (disable) • 🟢 dis
 - schermo (display) • 🟢 disp
 - divisione (division) • 🟢 div
 - documento (document) • 🟢 doc
 - documentazione (documentation) • 🟢 docs
-- null (driver) • 🟢 drv
+- (driver) • 🟢 drv
 - dinamico (dynamic) • 🟢 dyn
 
 ### E
@@ -152,12 +152,12 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - sfaccettatura (facet) • 🟢 fct
 - fabbrica (factory) • 🟢 fac
 - figura (figure) • 🟢 fig
-- null (file chooser) • 🟢 fc
+- (file chooser) • 🟢 fc
 - descrittore di file (file descriptor) • 🟢 fd
-- null (file processor) • 🟢 fp
-- null (file reader) • 🟢 fr
-- null (file system) • 🟢 fs
-- null (file writer) • 🟢 fw
+- (file processor) • 🟢 fp
+- (file reader) • 🟢 fr
+- (file system) • 🟢 fs
+- (file writer) • 🟢 fw
 - per esempio (for example) • 🟢 e.g.
 - formato (format) • 🟢 fmt
 - frazione (fraction) • 🟢 frac
@@ -172,7 +172,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - maggiore di (greater than) • 🟡 gt { binary operations }
 
 ### H
-- null (hardware) • 🟡 hw { computer science }
+- (hardware) • 🟡 hw { computer science }
 - intestazione (header) • 🔴 hdr
 - altezza (height) • 🟡 h { shapes }
 - esadecimale (hexadecimal) • 🟢 hex
@@ -188,7 +188,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - indice (index) • 🟢 idx
 - informazione (information) • 🟢 info
 - inizializzazione (initialization) • 🟢 init
-- null (input) • 🟢 in
+- (input) • 🟢 in
 - inserzione (insertion) • 🟢 ins
 - istanza (instance) • 🟢 inst
 - intero (integer) • 🟢 int
@@ -197,11 +197,11 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - iteratore (iterator) • 🟡 iter { loops }
 
 ### J
-- null (javascript) • 🟢 js
+- (javascript) • 🟢 js
 
 ### K
 - chiave (key) • 🟡 k { only with **val** }
-- null (keymap) • 🟢 km
+- (keymap) • 🟢 km
 - tastiera (keyword) • 🟢 kwd
 
 ### L
@@ -218,12 +218,12 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - longitudine (longitude) • 🟡 lon { only with **coord** }
 
 ### M
-- null (manager) • 🟢 mng
+- (manager) • 🟢 mng
 - matrice (matrix) • 🟡 mat { mathematics } • 🟡 mtx { mathematics }
 - massimo (maximum) • 🟢 max
 - memoria (memory) • 🟢 mem
 - messaggio (message) • 🟢 msg
-- null (metadata) • 🟡 meta { data science }
+- (metadata) • 🟡 meta { data science }
 - microcontrollore (microcontroller) • 🟢 mcu
 - mezzo (middle) • 🟢 mid
 - minimo (minimum) • 🟢 min
@@ -252,7 +252,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - ordine (order) • 🟡 ord { data science }
 - organizzazione (organization) • 🟢 org
 - origine (origin) • 🟢 orig
-- null (output) • 🟢 out
+- (output) • 🟢 out
 
 ### P
 - pacchetto (package) • 🟢 pkg
@@ -290,7 +290,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - relation (relation) • 🟢 rel
 - remoto (remote) • 🟢 rem
 - rimuovere (remove) • 🟢 rm • 🟢 rmv
-- null (repository) • 🟢 repo
+- (repository) • 🟢 repo
 - richiesta (request) • 🟢 req
 - risposta (response) • 🟢 res
 - risultato (result) • 🟢 res
@@ -298,7 +298,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - revisione (revision) • 🟢 rev
 
 ### S
-- null (script) • 🔴 sc
+- (script) • 🔴 sc
 - secante (secant) • 🟢 sec
 - selezione (selection) • 🟢 sel
 - semaforo (semaphore) • 🟡 sem { conditional operators }
@@ -308,14 +308,14 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - sessione (session) • 🟢 sess
 - selezionato come prefisso (signed as prefix) • 🟡 s { modifiers }
 - seno (sine) • 🟢 sin
-- null (software) • 🟡 sw { computer science }
+- (software) • 🟡 sw { computer science }
 - soluzione (solution) • 🔴 sln • 🟢 sol
 - risolutore (solver) • 🟢 sol
 - sorgente (source) • 🟢 src
 - specificazione (specification) • 🟢 spec
 - radice quadrata (square root) • 🟢 sqrt
-- null (standard) • 🟢 std
-- null (standard input output) • 🟢 stdio
+- (standard) • 🟢 std
+- (standard input output) • 🟢 stdio
 - affermazione (statement) • 🟢 stmt
 - statistica (statistic) • 🟢 stat
 - stringa (string) • 🟢 str
@@ -323,21 +323,21 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - sincronizzazione (synchronization) • 🟢 sync
 
 ### T
-- null (table data) • 🟢 td
-- null (table header) • 🟢 th
-- null (table row) • 🟢 tr
+- (table data) • 🟢 td
+- (table header) • 🟢 th
+- (table row) • 🟢 tr
 - tangente (tangent) • 🟢 tan
 - bersaglio (target) • 🔴 tgt
 - temporaneo (temporary) • 🟢 tmp • 🟢 temp
 - testo (text) • 🔴 txt
 - tempo (time) • 🟡 t { physics }
-- null (timer) • 🟢 tmr
-- null (timestamp) • 🟢 ts
+- (timer) • 🟢 tmr
+- (timestamp) • 🟢 ts
 - a (to) • 🔴 2
 - interruttore (toggle) • 🔴 tgl
 - transazione (transaction) • 🟢 tx
 - tipo (type) • 🟡 t { modifiers } • 🔴 tpe
-- null (typescript) • 🟢 ts
+- (typescript) • 🟢 ts
 
 ### U
 - utente (user) • 🟡 u { URLs } • 🔴 usr
@@ -354,7 +354,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - spazio bianco (white space) • 🟡 ws { encoding }
 - larghezza (width) • 🟡 w { shapes }
 - finestra (window) • 🟢 win
-- null (wizard) • 🟢 wiz
+- (wizard) • 🟢 wiz
 
 ### X
 
