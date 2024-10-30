@@ -2,7 +2,7 @@
 
 Dare un buon nome a variabili, funzioni e file può essere difficile.
 I nomi lunghi sono sempre chiari, ma richiedono tempo per essere letti, spazio e sono difficili da ricordare.
-Scegliere una forma più corta è meglio.
+È meglio scegliere una forma più corta.
 Se usi le abbreviazioni qui sotto, la tua denominazione diventerà più coerente, logica e comprensibile per gli altri programmatori (anche per i principianti).
 
 <h2 align='center'>
@@ -23,7 +23,7 @@ Se usi le abbreviazioni qui sotto, la tua denominazione diventerà più coerente
 I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 
 -  🟢 Raccomandato
--  🟡 Sensibile al contesto • Il contesto è specificato tra { }.
+-  🟡 Sensibile al contesto • Il contesto è specificato tra { }
 -  🔴 Non raccomandato
 
 ## Lista
