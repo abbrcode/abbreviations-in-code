@@ -23,7 +23,7 @@ If you use the abbreviations below, your naming will become more coherent, logic
 Colored circles before the abbr mean the degree of recommendation:
 
 -  🟢 Recommended
--  🟡 Context-sensitive • Context is specified between { }.
+-  🟡 Context-sensitive • Context is specified between { }
 -  🔴 Not recommended
 
 ## List
