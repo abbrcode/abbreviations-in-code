@@ -4,7 +4,7 @@
       "build": "npm run lint && npm run compile",
 
       "compile": "node ./scripts/compiler/index.mjs",
-      "lint": "node ./scripts/linter/index.mjs"
+      "lint": "node --experimental-strip-types ./scripts/linter/index.ts",
    "devDependencies": {
       "js-yaml": "^4.1.0"
    }
