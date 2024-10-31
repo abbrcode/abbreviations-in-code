@@ -1,8 +1,12 @@
 {
+   "type": "module",
    "scripts": {
-      "build": "npm run lint && npm run compile",
-
-      "compile": "node ./scripts/compiler/index.mjs",
-      "lint": "node ./scripts/linter/index.mjs"
+      "build": "npm run lint && npm run transpile && npm run compile",
+      "compile": "node --experimental-strip-types ./scripts/compiler/index.ts",
+      "lint": "node --experimental-strip-types ./scripts/linter/index.ts",
+      "transpile": "node --experimental-strip-types ./scripts/transpiler/index.ts"
+   },
+   "devDependencies": {
+      "js-yaml": "^4.1.0"
    }
 }
