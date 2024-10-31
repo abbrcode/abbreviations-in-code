@@ -3,7 +3,7 @@
    "scripts": {
       "build": "npm run lint && npm run compile",
 
-      "compile": "node ./scripts/compiler/index.mjs",
+      "compile": "node --experimental-strip-types ./scripts/compiler/index.ts",
       "lint": "node --experimental-strip-types ./scripts/linter/index.ts",
       "transpile": "node --experimental-strip-types ./scripts/transpiler/index.ts"
    },
