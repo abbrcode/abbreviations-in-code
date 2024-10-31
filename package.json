@@ -5,6 +5,8 @@
 
       "compile": "node ./scripts/compiler/index.mjs",
       "lint": "node --experimental-strip-types ./scripts/linter/index.ts",
+      "transpile": "node --experimental-strip-types ./scripts/transpiler/index.ts"
+   },
    "devDependencies": {
       "js-yaml": "^4.1.0"
    }
