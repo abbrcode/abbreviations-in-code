@@ -81,7 +81,7 @@
    },
    {
       "word": "array",
-      "translation": null
+      "translation": "vettore"
    },
    {
       "word": "asynchronous",
@@ -141,7 +141,7 @@
    },
    {
       "word": "callback",
-      "translation": null
+      "translation": "richiamo"
    },
    {
       "word": "certificate",
@@ -161,7 +161,7 @@
    },
    {
       "word": "checksum",
-      "translation": null
+      "translation": "checksum"
    },
    {
       "word": "circle",
@@ -277,11 +277,11 @@
    },
    {
       "word": "database",
-      "translation": null
+      "translation": "base di dati"
    },
    {
       "word": "debug",
-      "translation": null
+      "translation": "debug"
    },
    {
       "word": "decimal",
@@ -317,7 +317,7 @@
    },
    {
       "word": "dependency",
-      "translation": null
+      "translation": "dipendenza"
    },
    {
       "word": "description",
@@ -353,7 +353,7 @@
    },
    {
       "word": "directory",
-      "translation": null
+      "translation": "directory"
    },
    {
       "word": "disable",
@@ -377,7 +377,7 @@
    },
    {
       "word": "driver",
-      "translation": null
+      "translation": "driver"
    },
    {
       "word": "dynamic",
@@ -437,7 +437,7 @@
    },
    {
       "word": "file chooser",
-      "translation": null
+      "translation": "selettore di file"
    },
    {
       "word": "file descriptor",
@@ -445,19 +445,19 @@
    },
    {
       "word": "file processor",
-      "translation": null
+      "translation": "processore di file"
    },
    {
       "word": "file reader",
-      "translation": null
+      "translation": "lettore di file"
    },
    {
       "word": "file system",
-      "translation": null
+      "translation": "sistema di file"
    },
    {
       "word": "file writer",
-      "translation": null
+      "translation": "scrittore di file"
    },
    {
       "word": "for example",
@@ -501,7 +501,7 @@
    },
    {
       "word": "hardware",
-      "translation": null
+      "translation": "hardware"
    },
    {
       "word": "header",
@@ -557,7 +557,7 @@
    },
    {
       "word": "input",
-      "translation": null
+      "translation": "input"
    },
    {
       "word": "insertion",
@@ -584,16 +584,12 @@
       "translation": "iteratore"
    },
    {
-      "word": "javascript",
-      "translation": null
-   },
-   {
       "word": "key",
       "translation": "chiave"
    },
    {
       "word": "keymap",
-      "translation": null
+      "translation": "mappa dei tasti"
    },
    {
       "word": "keyword",
@@ -645,7 +641,7 @@
    },
    {
       "word": "manager",
-      "translation": null
+      "translation": "direttore"
    },
    {
       "word": "matrix",
@@ -665,7 +661,7 @@
    },
    {
       "word": "metadata",
-      "translation": null
+      "translation": "metadata"
    },
    {
       "word": "microcontroller",
@@ -740,6 +736,14 @@
       "translation": "ottale"
    },
    {
+      "word": "open source",
+      "translation": "open source"
+   },
+   {
+      "word": "open source software",
+      "translation": "software open source"
+   },
+   {
       "word": "operating system",
       "translation": "sistema operativo"
    },
@@ -765,7 +769,7 @@
    },
    {
       "word": "output",
-      "translation": null
+      "translation": "output"
    },
    {
       "word": "package",
@@ -893,7 +897,7 @@
    },
    {
       "word": "repository",
-      "translation": null
+      "translation": "repository"
    },
    {
       "word": "request",
@@ -917,7 +921,7 @@
    },
    {
       "word": "script",
-      "translation": null
+      "translation": "script"
    },
    {
       "word": "secant",
@@ -957,7 +961,7 @@
    },
    {
       "word": "software",
-      "translation": null
+      "translation": "software"
    },
    {
       "word": "solution",
@@ -981,11 +985,11 @@
    },
    {
       "word": "standard",
-      "translation": null
+      "translation": "standard"
    },
    {
       "word": "standard input output",
-      "translation": null
+      "translation": "standard input output"
    },
    {
       "word": "statement",
@@ -1009,15 +1013,15 @@
    },
    {
       "word": "table data",
-      "translation": null
+      "translation": "dato di tabella"
    },
    {
       "word": "table header",
-      "translation": null
+      "translation": "intestazione di tabella"
    },
    {
       "word": "table row",
-      "translation": null
+      "translation": "riga di tabella"
    },
    {
       "word": "tangent",
@@ -1041,11 +1045,11 @@
    },
    {
       "word": "timer",
-      "translation": null
+      "translation": "timer"
    },
    {
       "word": "timestamp",
-      "translation": null
+      "translation": "timestamp"
    },
    {
       "word": "to",
@@ -1062,10 +1066,6 @@
    {
       "word": "type",
       "translation": "tipo"
-   },
-   {
-      "word": "typescript",
-      "translation": null
    },
    {
       "word": "user",
@@ -1109,7 +1109,7 @@
    },
    {
       "word": "wizard",
-      "translation": null
+      "translation": "installatore"
    },
    {
       "word": "yes",

@@ -23,8 +23,11 @@ If you use the abbreviations below, your naming will become more coherent, logic
 Colored circles before the abbr mean the degree of recommendation:
 
 -  🟢 Recommended
--  🟡 Context-sensitive • Context is specified between { }.
+-  🟡 Context-sensitive • Context is specified between { }
 -  🔴 Not recommended
+
+## Translations
+[it](./i18n/it.md)
 
 ## List
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z) 
@@ -194,7 +197,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - iterator • 🟡 iter { loops }
 
 ### J
-- javascript • 🟢 js
 
 ### K
 - key • 🟡 k { only with **val** }
@@ -243,6 +245,8 @@ Colored circles before the abbr mean the degree of recommendation:
 - object • 🟢 obj
 - object key • 🟡 key { only with **val** }
 - octal • 🟢 oct
+- open source • 🔴 os
+- open source software • 🟢 oss
 - operating system • 🟢 os
 - operation • 🟡 op { binary operations }
 - option • 🟢 opt
@@ -334,7 +338,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - toggle • 🔴 tgl
 - transaction • 🟢 tx
 - type • 🟡 t { modifiers } • 🔴 tpe
-- typescript • 🟢 ts
 
 ### U
 - user • 🟡 u { URLs } • 🔴 usr

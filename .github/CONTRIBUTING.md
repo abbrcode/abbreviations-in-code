@@ -2,17 +2,16 @@
 
 # Contributing
 
-Welcome to the CONTRIBUTING.md. In this file you can find everything you need to contribute in our repo.
+In this file you can find everything you need to contribute in our repo.
 
-> [GitHub open source page](https://github.com/open-source)
+> [GitHub page about OSS](https://github.com/open-source)
 
-## A good abbreviation is:
+This project is under the [MIT License](./LICENCE) feel free to use it, fork it and contribute.
 
--  `global` • understood by everyone
--  `neutral` • singular masculine noun form like in dictionaries.
--  `significant` • seen for the first time you still know what it means
+## I found a problem/an error/something off
+- Check if the problem has already been reported as an issue ([here](https://github.com/abbrcode/abbreviations-in-code/issues))
+- Or open a [new issue](https://github.com/abbrcode/abbreviations-in-code/issues/new/choose)
 
-## Open an issue
-
--  [New abbr](https://github.com/abbrcode/abbreviations-in-code/issues/new?assignees=&labels=&template=newAbbr.md&title=)
--  [Edit curr abbr](https://github.com/abbrcode/abbreviations-in-code/issues/new?assignees=&labels=&template=editCurrAbbr.md&title=)
+## I'm looking for new shiny things
+- New ideas and changes are held in the project [Brevis](https://github.com/orgs/abbrcode/projects/1)
+- Also take a look at the [Discussions](https://github.com/orgs/abbrcode/discussions)
