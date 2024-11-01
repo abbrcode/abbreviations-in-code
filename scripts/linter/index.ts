@@ -9,7 +9,7 @@ import type { Translation } from '../types/i18n.ts';
 
    var abbrs = JSON.parse(readFileSync<Abbr[]>(path, 'utf-8')) as Abbr[];
 
-   writeFileSync(path, JSON.stringify(abbrs.sort(), null, 3), 'utf-8');
+   writeFileSync(path, JSON.stringify(abbrs.sort((a, b) => a.word < b.word ? -1 : 1), null, 3), 'utf-8');
 }
 
 // Sort langs.json
