@@ -1,5 +1,14 @@
-{
-   "green": "🟢",
-   "yellow": "🟡",
-   "red": "🔴"
-}
+[
+   [
+      "recommended",
+      "🟢"
+   ],
+   [
+      "context sensitive",
+      "🟡"
+   ],
+   [
+      "not recommended",
+      "🔴"
+   ]
+]

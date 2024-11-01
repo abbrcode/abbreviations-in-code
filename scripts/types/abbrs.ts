@@ -2,11 +2,11 @@ export type Abbr = {
    abbrs: ({
       abbr: string;
       context: never;
-      degree: "green" | "red";
+      degree: "recommended" | "not recommended",
    } | {
       abbr: string;
-      degree: "yellow";
       context: string,
+      degree: "context sensitive",
    })[],
    word: string;
 };

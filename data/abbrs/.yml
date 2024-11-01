@@ -1,1218 +1,1218 @@
 - abbrs:
     - abbr: abbr
-      degree: green
+      degree: recommended
   word: abbreviation
 - abbrs:
     - abbr: abs
-      degree: green
+      degree: recommended
   word: absolute
 - abbrs:
     - abbr: acro
-      degree: green
+      degree: recommended
   word: acronym
 - abbrs:
     - abbr: act
-      degree: red
+      degree: not recommended
   word: action
 - abbrs:
     - abbr: act
-      degree: red
+      degree: not recommended
   word: active
 - abbrs:
     - abbr: act
-      degree: red
+      degree: not recommended
   word: actual
 - abbrs:
     - abbr: sum
-      degree: green
+      degree: recommended
   word: addition
 - abbrs:
     - abbr: addr
-      degree: green
+      degree: recommended
   word: address
 - abbrs:
     - abbr: algo
-      degree: green
+      degree: recommended
   word: algorithm
 - abbrs:
     - abbr: alloc
       context: memory
-      degree: yellow
+      degree: context sensitive
   word: allocation
 - abbrs:
     - abbr: alt
-      degree: green
+      degree: recommended
   word: alternative
 - abbrs:
     - abbr: anno
-      degree: green
+      degree: recommended
   word: annotation
 - abbrs:
     - abbr: app
-      degree: green
+      degree: recommended
   word: application
 - abbrs:
     - abbr: acosec
-      degree: green
+      degree: recommended
   word: arccosecant
 - abbrs:
     - abbr: acos
-      degree: green
+      degree: recommended
   word: arccosine
 - abbrs:
     - abbr: acot
-      degree: green
+      degree: recommended
     - abbr: actg
-      degree: green
+      degree: recommended
   word: arccotangent
 - abbrs:
     - abbr: asec
-      degree: green
+      degree: recommended
   word: arcsecant
 - abbrs:
     - abbr: asin
-      degree: green
+      degree: recommended
   word: arcsine
 - abbrs:
     - abbr: atan
-      degree: green
+      degree: recommended
   word: arctangent
 - abbrs:
     - abbr: arg
-      degree: green
+      degree: recommended
   word: argument
 - abbrs:
     - abbr: arr
-      degree: green
+      degree: recommended
   word: array
 - abbrs:
     - abbr: async
-      degree: green
+      degree: recommended
   word: asynchronous
 - abbrs:
     - abbr: attr
-      degree: green
+      degree: recommended
   word: attribute
 - abbrs:
     - abbr: auth
-      degree: green
+      degree: recommended
   word: authentication
 - abbrs:
     - abbr: aux
-      degree: green
+      degree: recommended
   word: auxiliary
 - abbrs:
     - abbr: avg
-      degree: green
+      degree: recommended
   word: average
 - abbrs:
     - abbr: bg
-      degree: green
+      degree: recommended
   word: background
 - abbrs:
     - abbr: bat
       context: power
-      degree: yellow
+      degree: context sensitive
   word: battery
 - abbrs:
     - abbr: bin
-      degree: green
+      degree: recommended
   word: binary
 - abbrs:
     - abbr: bool
-      degree: green
+      degree: recommended
   word: boolean
 - abbrs:
     - abbr: brk
-      degree: red
+      degree: not recommended
   word: break
 - abbrs:
     - abbr: bl
       context: encoding
-      degree: yellow
+      degree: context sensitive
   word: breakline
 - abbrs:
     - abbr: buf
-      degree: red
+      degree: not recommended
     - abbr: buff
-      degree: green
+      degree: recommended
   word: buffer
 - abbrs:
     - abbr: btn
-      degree: green
+      degree: recommended
   word: button
 - abbrs:
     - abbr: calc
-      degree: green
+      degree: recommended
   word: calculator
 - abbrs:
     - abbr: cb
-      degree: green
+      degree: recommended
   word: callback
 - abbrs:
     - abbr: cert
-      degree: green
+      degree: recommended
   word: certificate
 - abbrs:
     - abbr: ch
       context: connections
-      degree: yellow
+      degree: context sensitive
   word: channel
 - abbrs:
     - abbr: char
-      degree: green
+      degree: recommended
   word: character
 - abbrs:
     - abbr: chk
-      degree: green
+      degree: recommended
   word: check
 - abbrs:
     - abbr: csum
       context: operations
-      degree: yellow
+      degree: context sensitive
   word: checksum
 - abbrs:
     - abbr: circ
       context: shapes
-      degree: yellow
+      degree: context sensitive
   word: circle
 - abbrs:
     - abbr: cls
-      degree: red
+      degree: not recommended
   word: class
 - abbrs:
     - abbr: clr
-      degree: green
+      degree: recommended
   word: clear
 - abbrs:
     - abbr: coll
-      degree: green
+      degree: recommended
   word: collection
 - abbrs:
     - abbr: col
-      degree: green
+      degree: recommended
   word: column
 - abbrs:
     - abbr: cmd
-      degree: green
+      degree: recommended
   word: command
 - abbrs:
     - abbr: com
       context: URLs
-      degree: yellow
+      degree: context sensitive
   word: commercial
 - abbrs:
     - abbr: com
-      degree: red
+      degree: not recommended
     - abbr: comm
-      degree: red
+      degree: not recommended
   word: common
 - abbrs:
     - abbr: com
-      degree: green
+      degree: recommended
   word: communication
 - abbrs:
     - abbr: cmp
       context: conditional operators
-      degree: yellow
+      degree: context sensitive
   word: comparison
 - abbrs:
     - abbr: comp
-      degree: green
+      degree: recommended
   word: component
 - abbrs:
     - abbr: concat
-      degree: green
+      degree: recommended
   word: concatenation
 - abbrs:
     - abbr: cond
-      degree: green
+      degree: recommended
   word: condition
 - abbrs:
     - abbr: cfg
-      degree: red
+      degree: not recommended
     - abbr: conf
-      degree: red
+      degree: not recommended
     - abbr: config
-      degree: green
+      degree: recommended
   word: configuration
 - abbrs:
     - abbr: con
-      degree: red
+      degree: not recommended
     - abbr: conn
-      degree: green
+      degree: recommended
   word: connection
 - abbrs:
     - abbr: const
-      degree: green
+      degree: recommended
   word: constant
 - abbrs:
     - abbr: cntr
-      degree: green
+      degree: recommended
   word: container
 - abbrs:
     - abbr: ctx
-      degree: green
+      degree: recommended
   word: context
 - abbrs:
     - abbr: cont
-      degree: green
+      degree: recommended
   word: continue
 - abbrs:
     - abbr: ctrl
-      degree: green
+      degree: recommended
   word: control
 - abbrs:
     - abbr: conv
-      degree: green
+      degree: recommended
   word: conversation
 - abbrs:
     - abbr: coord
-      degree: green
+      degree: recommended
   word: coordinate
 - abbrs:
     - abbr: cpy
-      degree: red
+      degree: not recommended
   word: copy
 - abbrs:
     - abbr: cosec
-      degree: green
+      degree: recommended
   word: cosecant
 - abbrs:
     - abbr: cos
-      degree: green
+      degree: recommended
   word: cosine
 - abbrs:
     - abbr: cot
-      degree: green
+      degree: recommended
     - abbr: ctg
-      degree: green
+      degree: recommended
   word: cotangent
 - abbrs:
     - abbr: cnt
-      degree: green
+      degree: recommended
   word: count
 - abbrs:
     - abbr: cur
-      degree: red
+      degree: not recommended
     - abbr: curr
-      degree: green
+      degree: recommended
   word: current
 - abbrs:
     - abbr: db
-      degree: green
+      degree: recommended
   word: database
 - abbrs:
     - abbr: dbg
-      degree: green
+      degree: recommended
   word: debug
 - abbrs:
     - abbr: dec
-      degree: green
+      degree: recommended
   word: decimal
 - abbrs:
     - abbr: decl
-      degree: green
+      degree: recommended
   word: declaration
 - abbrs:
     - abbr: dec
       context: loops
-      degree: yellow
+      degree: context sensitive
   word: decrease
 - abbrs:
     - abbr: def
-      degree: red
+      degree: not recommended
   word: default
 - abbrs:
     - abbr: def
-      degree: green
+      degree: recommended
   word: definition
 - abbrs:
     - abbr: deg
-      degree: green
+      degree: recommended
   word: degrees
 - abbrs:
     - abbr: del
-      degree: green
+      degree: recommended
   word: deletion
 - abbrs:
     - abbr: dt
       context: calculations
-      degree: yellow
+      degree: context sensitive
   word: delta time
 - abbrs:
     - abbr: dep
-      degree: green
+      degree: recommended
   word: dependency
 - abbrs:
     - abbr: desc
-      degree: green
+      degree: recommended
   word: description
 - abbrs:
     - abbr: dest
-      degree: green
+      degree: recommended
   word: destination
 - abbrs:
     - abbr: dev
-      degree: green
+      degree: recommended
   word: developer
 - abbrs:
     - abbr: dev
-      degree: green
+      degree: recommended
   word: development
 - abbrs:
     - abbr: dev
       context: devices
-      degree: yellow
+      degree: context sensitive
   word: device
 - abbrs:
     - abbr: diff
       context: operations
-      degree: yellow
+      degree: context sensitive
   word: difference
 - abbrs:
     - abbr: dim
-      degree: green
+      degree: recommended
   word: dimension
 - abbrs:
     - abbr: dir
-      degree: green
+      degree: recommended
   word: direction
 - abbrs:
     - abbr: dir
-      degree: green
+      degree: recommended
   word: directory
 - abbrs:
     - abbr: dis
-      degree: green
+      degree: recommended
   word: disable
 - abbrs:
     - abbr: disp
-      degree: green
+      degree: recommended
   word: display
 - abbrs:
     - abbr: div
-      degree: green
+      degree: recommended
   word: division
 - abbrs:
     - abbr: doc
-      degree: green
+      degree: recommended
   word: document
 - abbrs:
     - abbr: docs
-      degree: green
+      degree: recommended
   word: documentation
 - abbrs:
     - abbr: drv
-      degree: green
+      degree: recommended
   word: driver
 - abbrs:
     - abbr: dyn
-      degree: green
+      degree: recommended
   word: dynamic
 - abbrs:
     - abbr: elm
-      degree: green
+      degree: recommended
   word: element
 - abbrs:
     - abbr: en
-      degree: green
+      degree: recommended
   word: enable
 - abbrs:
     - abbr: env
-      degree: green
+      degree: recommended
   word: environment
 - abbrs:
     - abbr: eq
       context: binary operations
-      degree: yellow
+      degree: context sensitive
   word: equal
 - abbrs:
     - abbr: err
-      degree: green
+      degree: recommended
   word: error
 - abbrs:
     - abbr: e
-      degree: green
+      degree: recommended
     - abbr: evt
-      degree: green
+      degree: recommended
   word: event
 - abbrs:
     - abbr: exe
-      degree: green
+      degree: recommended
   word: execution
 - abbrs:
     - abbr: exp
-      degree: green
+      degree: recommended
   word: exponential
 - abbrs:
     - abbr: expr
-      degree: green
+      degree: recommended
   word: expression
 - abbrs:
     - abbr: ext
-      degree: green
+      degree: recommended
   word: extension
 - abbrs:
     - abbr: fct
-      degree: green
+      degree: recommended
   word: facet
 - abbrs:
     - abbr: fac
-      degree: green
+      degree: recommended
   word: factory
 - abbrs:
     - abbr: fig
-      degree: green
+      degree: recommended
   word: figure
 - abbrs:
     - abbr: fc
-      degree: green
+      degree: recommended
   word: file chooser
 - abbrs:
     - abbr: fd
-      degree: green
+      degree: recommended
   word: file descriptor
 - abbrs:
     - abbr: fp
-      degree: green
+      degree: recommended
   word: file processor
 - abbrs:
     - abbr: fr
-      degree: green
+      degree: recommended
   word: file reader
 - abbrs:
     - abbr: fs
-      degree: green
+      degree: recommended
   word: file system
 - abbrs:
     - abbr: fw
-      degree: green
+      degree: recommended
   word: file writer
 - abbrs:
     - abbr: e.g.
-      degree: green
+      degree: recommended
   word: for example
 - abbrs:
     - abbr: fmt
-      degree: green
+      degree: recommended
   word: format
 - abbrs:
     - abbr: frac
-      degree: green
+      degree: recommended
   word: fraction
 - abbrs:
     - abbr: freq
-      degree: green
+      degree: recommended
   word: frequence
 - abbrs:
     - abbr: f
-      degree: red
+      degree: not recommended
     - abbr: fn
-      degree: red
+      degree: not recommended
     - abbr: func
-      degree: green
+      degree: recommended
   word: function
 - abbrs:
     - abbr: fp
-      degree: green
+      degree: recommended
   word: function pointer
 - abbrs:
     - abbr: gen
-      degree: green
+      degree: recommended
   word: generation
 - abbrs:
     - abbr: geom
-      degree: green
+      degree: recommended
   word: geometry
 - abbrs:
     - abbr: ge
       context: binary operations
-      degree: yellow
+      degree: context sensitive
   word: greater or equal
 - abbrs:
     - abbr: gt
       context: binary operations
-      degree: yellow
+      degree: context sensitive
   word: greater than
 - abbrs:
     - abbr: hw
       context: computer science
-      degree: yellow
+      degree: context sensitive
   word: hardware
 - abbrs:
     - abbr: hdr
-      degree: red
+      degree: not recommended
   word: header
 - abbrs:
     - abbr: h
       context: shapes
-      degree: yellow
+      degree: context sensitive
   word: height
 - abbrs:
     - abbr: hex
-      degree: green
+      degree: recommended
   word: hexadecimal
 - abbrs:
     - abbr: hor
       context: shapes
-      degree: yellow
+      degree: context sensitive
   word: horizontal
 - abbrs:
     - abbr: id
-      degree: green
+      degree: recommended
   word: identifier
 - abbrs:
     - abbr: img
-      degree: green
+      degree: recommended
   word: image
 - abbrs:
     - abbr: impl
-      degree: green
+      degree: recommended
   word: implementation
 - abbrs:
     - abbr: imp
-      degree: green
+      degree: recommended
   word: import
 - abbrs:
     - abbr: inc
-      degree: green
+      degree: recommended
   word: inclusion
 - abbrs:
     - abbr: inc
       context: loops
-      degree: yellow
+      degree: context sensitive
   word: increase
 - abbrs:
     - abbr: idx
-      degree: green
+      degree: recommended
   word: index
 - abbrs:
     - abbr: info
-      degree: green
+      degree: recommended
   word: information
 - abbrs:
     - abbr: init
-      degree: green
+      degree: recommended
   word: initialization
 - abbrs:
     - abbr: in
-      degree: green
+      degree: recommended
   word: input
 - abbrs:
     - abbr: ins
-      degree: green
+      degree: recommended
   word: insertion
 - abbrs:
     - abbr: inst
-      degree: green
+      degree: recommended
   word: instance
 - abbrs:
     - abbr: int
-      degree: green
+      degree: recommended
   word: integer
 - abbrs:
     - abbr: iface
-      degree: green
+      degree: recommended
     - abbr: intf
-      degree: red
+      degree: not recommended
   word: interface
 - abbrs:
     - abbr: inv
-      degree: green
+      degree: recommended
   word: inverse
 - abbrs:
     - abbr: iter
       context: loops
-      degree: yellow
+      degree: context sensitive
   word: iterator
 - abbrs:
     - abbr: js
-      degree: green
+      degree: recommended
   word: javascript
 - abbrs:
     - abbr: k
       context: only with **val**
-      degree: yellow
+      degree: context sensitive
   word: key
 - abbrs:
     - abbr: km
-      degree: green
+      degree: recommended
   word: keymap
 - abbrs:
     - abbr: kwd
-      degree: green
+      degree: recommended
   word: keyword
 - abbrs:
     - abbr: lang
-      degree: green
+      degree: recommended
   word: language
 - abbrs:
     - abbr: lat
       context: only with **coord**
-      degree: yellow
+      degree: context sensitive
   word: latitude
 - abbrs:
     - abbr: len
-      degree: green
+      degree: recommended
   word: length
 - abbrs:
     - abbr: le
       context: binary operators
-      degree: yellow
+      degree: context sensitive
   word: less or equal
 - abbrs:
     - abbr: lt
       context: binary operators
-      degree: yellow
+      degree: context sensitive
   word: less than
 - abbrs:
     - abbr: lvl
-      degree: green
+      degree: recommended
   word: level
 - abbrs:
     - abbr: lib
-      degree: green
+      degree: recommended
   word: library
 - abbrs:
     - abbr: lnk
-      degree: red
+      degree: not recommended
   word: link
 - abbrs:
     - abbr: ll
-      degree: green
+      degree: recommended
   word: linked list
 - abbrs:
     - abbr: loc
-      degree: green
+      degree: recommended
   word: location
 - abbrs:
     - abbr: lon
       context: only with **coord**
-      degree: yellow
+      degree: context sensitive
   word: longitude
 - abbrs:
     - abbr: mng
-      degree: green
+      degree: recommended
   word: manager
 - abbrs:
     - abbr: mat
       context: mathematics
-      degree: yellow
+      degree: context sensitive
     - abbr: mtx
       context: mathematics
-      degree: yellow
+      degree: context sensitive
   word: matrix
 - abbrs:
     - abbr: max
-      degree: green
+      degree: recommended
   word: maximum
 - abbrs:
     - abbr: mem
-      degree: green
+      degree: recommended
   word: memory
 - abbrs:
     - abbr: msg
-      degree: green
+      degree: recommended
   word: message
 - abbrs:
     - abbr: meta
       context: data science
-      degree: yellow
+      degree: context sensitive
   word: metadata
 - abbrs:
     - abbr: mcu
-      degree: green
+      degree: recommended
   word: microcontroller
 - abbrs:
     - abbr: mid
-      degree: green
+      degree: recommended
   word: middle
 - abbrs:
     - abbr: min
-      degree: green
+      degree: recommended
   word: minimum
 - abbrs:
     - abbr: misc
-      degree: green
+      degree: recommended
   word: miscellaneous
 - abbrs:
     - abbr: mod
-      degree: green
+      degree: recommended
   word: modulo
 - abbrs:
     - abbr: mul
-      degree: green
+      degree: recommended
   word: multiplication
 - abbrs:
     - abbr: mut
       context: variables
-      degree: yellow
+      degree: context sensitive
   word: mutable
 - abbrs:
     - abbr: nav
-      degree: green
+      degree: recommended
   word: navigation
 - abbrs:
     - abbr: net
-      degree: green
+      degree: recommended
   word: network
 - abbrs:
     - abbr: nl
       context: endcoding
-      degree: yellow
+      degree: context sensitive
   word: newline
 - abbrs:
     - abbr: 'n'
       context: only with **y**
-      degree: yellow
+      degree: context sensitive
   word: 'no'
 - abbrs:
     - abbr: $...
       context: DOM
-      degree: yellow
+      degree: context sensitive
   word: node
 - abbrs:
     - abbr: ne
       context: binary operators
-      degree: yellow
+      degree: context sensitive
   word: not equal
 - abbrs:
     - abbr: num
-      degree: green
+      degree: recommended
   word: number
 - abbrs:
     - abbr: num
-      degree: green
+      degree: recommended
   word: number of
 - abbrs:
     - abbr: obj
-      degree: green
+      degree: recommended
   word: object
 - abbrs:
     - abbr: key
       context: only with **val**
-      degree: yellow
+      degree: context sensitive
   word: object key
 - abbrs:
     - abbr: oct
-      degree: green
+      degree: recommended
   word: octal
 - abbrs:
     - abbr: os
-      degree: green
+      degree: recommended
   word: operating system
 - abbrs:
     - abbr: op
       context: binary operations
-      degree: yellow
+      degree: context sensitive
   word: operation
 - abbrs:
     - abbr: opt
-      degree: green
+      degree: recommended
   word: option
 - abbrs:
     - abbr: ord
       context: data science
-      degree: yellow
+      degree: context sensitive
   word: order
 - abbrs:
     - abbr: org
-      degree: green
+      degree: recommended
   word: organization
 - abbrs:
     - abbr: orig
-      degree: green
+      degree: recommended
   word: origin
 - abbrs:
     - abbr: out
-      degree: green
+      degree: recommended
   word: output
 - abbrs:
     - abbr: pkg
-      degree: green
+      degree: recommended
   word: package
 - abbrs:
     - abbr: param
-      degree: green
+      degree: recommended
   word: parameter
 - abbrs:
     - abbr: perf
-      degree: green
+      degree: recommended
   word: performance
 - abbrs:
     - abbr: pic
-      degree: green
+      degree: recommended
   word: picture
 - abbrs:
     - abbr: px
-      degree: green
+      degree: recommended
   word: pixel
 - abbrs:
     - abbr: p
       context: memory
-      degree: yellow
+      degree: context sensitive
     - abbr: ptr
-      degree: green
+      degree: recommended
   word: pointer
 - abbrs:
     - abbr: pol
-      degree: green
+      degree: recommended
   word: poligon
 - abbrs:
     - abbr: pos
-      degree: green
+      degree: recommended
   word: position
 - abbrs:
     - abbr: pwr
       context: energy
-      degree: yellow
+      degree: context sensitive
   word: power
 - abbrs:
-    - abbr: pred
-      degree: green
-  word: predication
+    - abbr: pnot recommended
+      degree: recommended
+  word: pnot recommendedication
 - abbrs:
-    - abbr: pred
-      degree: green
-  word: prediction
+    - abbr: pnot recommended
+      degree: recommended
+  word: pnot recommendediction
 - abbrs:
     - abbr: pref
-      degree: green
+      degree: recommended
   word: preference
 - abbrs:
     - abbr: prev
-      degree: green
+      degree: recommended
   word: previous
 - abbrs:
     - abbr: priv
-      degree: green
+      degree: recommended
   word: private
 - abbrs:
     - abbr: proc
       context: threads
-      degree: yellow
+      degree: context sensitive
   word: process
 - abbrs:
     - abbr: prod
-      degree: green
+      degree: recommended
   word: production
 - abbrs:
     - abbr: prof
-      degree: green
+      degree: recommended
   word: profiler
 - abbrs:
     - abbr: pub
-      degree: green
+      degree: recommended
   word: public
 - abbrs:
     - abbr: q
-      degree: green
+      degree: recommended
     - abbr: qry
-      degree: red
+      degree: not recommended
   word: query
 - abbrs:
     - abbr: rad
-      degree: green
+      degree: recommended
   word: radians
 - abbrs:
     - abbr: r
       context: circles
-      degree: yellow
+      degree: context sensitive
   word: radius
 - abbrs:
     - abbr: rand
-      degree: green
+      degree: recommended
     - abbr: rnd
-      degree: red
+      degree: not recommended
   word: random
 - abbrs:
     - abbr: rng
-      degree: green
+      degree: recommended
   word: range
 - abbrs:
     - abbr: recv
-      degree: green
+      degree: recommended
   word: receive
 - abbrs:
     - abbr: rec
-      degree: green
+      degree: recommended
   word: record
 - abbrs:
     - abbr: rect
       context: shapes
-      degree: yellow
+      degree: context sensitive
   word: rectangle
 - abbrs:
     - abbr: ref
-      degree: green
+      degree: recommended
   word: reference
 - abbrs:
     - abbr: regex
-      degree: green
+      degree: recommended
     - abbr: rgx
-      degree: red
+      degree: not recommended
   word: regular expression
 - abbrs:
     - abbr: rel
-      degree: green
+      degree: recommended
   word: relation
 - abbrs:
     - abbr: rem
-      degree: green
+      degree: recommended
   word: remote
 - abbrs:
     - abbr: rm
-      degree: green
+      degree: recommended
     - abbr: rmv
-      degree: green
+      degree: recommended
   word: remove
 - abbrs:
     - abbr: repo
-      degree: green
+      degree: recommended
   word: repository
 - abbrs:
     - abbr: req
-      degree: green
+      degree: recommended
   word: request
 - abbrs:
     - abbr: res
-      degree: green
+      degree: recommended
   word: response
 - abbrs:
     - abbr: res
-      degree: green
+      degree: recommended
   word: result
 - abbrs:
     - abbr: ret
-      degree: green
+      degree: recommended
   word: return
 - abbrs:
     - abbr: rev
-      degree: green
+      degree: recommended
   word: revision
 - abbrs:
     - abbr: sc
-      degree: red
+      degree: not recommended
   word: script
 - abbrs:
     - abbr: sec
-      degree: green
+      degree: recommended
   word: secant
 - abbrs:
     - abbr: sel
-      degree: green
+      degree: recommended
   word: selection
 - abbrs:
     - abbr: sem
       context: conditional operators
-      degree: yellow
+      degree: context sensitive
   word: semaphore
 - abbrs:
     - abbr: sep
-      degree: green
+      degree: recommended
   word: separator
 - abbrs:
     - abbr: seq
-      degree: green
+      degree: recommended
   word: sequence
 - abbrs:
     - abbr: svc
-      degree: green
+      degree: recommended
   word: service
 - abbrs:
     - abbr: sess
-      degree: green
+      degree: recommended
   word: session
 - abbrs:
     - abbr: s
       context: modifiers
-      degree: yellow
+      degree: context sensitive
   word: signed as prefix
 - abbrs:
     - abbr: sin
-      degree: green
+      degree: recommended
   word: sine
 - abbrs:
     - abbr: sw
       context: computer science
-      degree: yellow
+      degree: context sensitive
   word: software
 - abbrs:
     - abbr: sln
-      degree: red
+      degree: not recommended
     - abbr: sol
-      degree: green
+      degree: recommended
   word: solution
 - abbrs:
     - abbr: sol
-      degree: green
+      degree: recommended
   word: solver
 - abbrs:
     - abbr: src
-      degree: green
+      degree: recommended
   word: source
 - abbrs:
     - abbr: spec
-      degree: green
+      degree: recommended
   word: specification
 - abbrs:
     - abbr: sqrt
-      degree: green
+      degree: recommended
   word: square root
 - abbrs:
     - abbr: std
-      degree: green
+      degree: recommended
   word: standard
 - abbrs:
     - abbr: stdio
-      degree: green
+      degree: recommended
   word: standard input output
 - abbrs:
     - abbr: stmt
-      degree: green
+      degree: recommended
   word: statement
 - abbrs:
     - abbr: stat
-      degree: green
+      degree: recommended
   word: statistic
 - abbrs:
     - abbr: str
-      degree: green
+      degree: recommended
   word: string
 - abbrs:
     - abbr: sub
-      degree: green
+      degree: recommended
   word: subtration
 - abbrs:
     - abbr: sync
-      degree: green
+      degree: recommended
   word: synchronization
 - abbrs:
     - abbr: td
-      degree: green
+      degree: recommended
   word: table data
 - abbrs:
     - abbr: th
-      degree: green
+      degree: recommended
   word: table header
 - abbrs:
     - abbr: tr
-      degree: green
+      degree: recommended
   word: table row
 - abbrs:
     - abbr: tan
-      degree: green
+      degree: recommended
   word: tangent
 - abbrs:
     - abbr: tgt
-      degree: red
+      degree: not recommended
   word: target
 - abbrs:
     - abbr: tmp
-      degree: green
+      degree: recommended
     - abbr: temp
-      degree: green
+      degree: recommended
   word: temporary
 - abbrs:
     - abbr: txt
-      degree: red
+      degree: not recommended
   word: text
 - abbrs:
     - abbr: t
       context: physics
-      degree: yellow
+      degree: context sensitive
   word: time
 - abbrs:
     - abbr: tmr
-      degree: green
+      degree: recommended
   word: timer
 - abbrs:
     - abbr: ts
-      degree: green
+      degree: recommended
   word: timestamp
 - abbrs:
     - abbr: '2'
-      degree: red
+      degree: not recommended
   word: to
 - abbrs:
     - abbr: tgl
-      degree: red
+      degree: not recommended
   word: toggle
 - abbrs:
     - abbr: tx
-      degree: green
+      degree: recommended
   word: transaction
 - abbrs:
     - abbr: t
       context: modifiers
-      degree: yellow
+      degree: context sensitive
     - abbr: tpe
-      degree: red
+      degree: not recommended
   word: type
 - abbrs:
     - abbr: ts
-      degree: green
+      degree: recommended
   word: typescript
 - abbrs:
     - abbr: u
       context: URLs
-      degree: yellow
+      degree: context sensitive
     - abbr: usr
-      degree: red
+      degree: not recommended
   word: user
 - abbrs:
     - abbr: util
-      degree: green
+      degree: recommended
   word: utility
 - abbrs:
     - abbr: v
       context: only with **k**
-      degree: yellow
+      degree: context sensitive
     - abbr: val
-      degree: green
+      degree: recommended
   word: value
 - abbrs:
     - abbr: var
-      degree: green
+      degree: recommended
   word: variable
 - abbrs:
     - abbr: v
       context: physics
-      degree: yellow
+      degree: context sensitive
     - abbr: vec
-      degree: green
+      degree: recommended
   word: vector
 - abbrs:
     - abbr: v
-      degree: green
+      degree: recommended
     - abbr: ver
-      degree: red
+      degree: not recommended
   word: version
 - abbrs:
     - abbr: ver
-      degree: green
+      degree: recommended
   word: vertical
 - abbrs:
     - abbr: ws
       context: encoding
-      degree: yellow
+      degree: context sensitive
   word: white space
 - abbrs:
     - abbr: w
       context: shapes
-      degree: yellow
+      degree: context sensitive
   word: width
 - abbrs:
     - abbr: win
-      degree: green
+      degree: recommended
   word: window
 - abbrs:
     - abbr: wiz
-      degree: green
+      degree: recommended
   word: wizard
 - abbrs:
     - abbr: 'y'
       context: only with **n**
-      degree: yellow
+      degree: context sensitive
   word: 'yes'

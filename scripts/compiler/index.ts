@@ -1,13 +1,14 @@
 import { readFileSync, writeFileSync } from 'fs';
 
 import type { Abbr } from '../types/abbrs.ts';
-import type { Degrees } from '../types/degrees.ts';
 import type { Langs, Translation } from '../types/i18n.ts';
 
 // Lists i18n files
 const abbrs = JSON.parse(readFileSync('./data/abbrs/.json', 'utf-8')) as Abbr[];
 const langs = JSON.parse(readFileSync('./data/i18n/langs.json')) as Langs;
-const degrees = JSON.parse(readFileSync('./data/degrees.json', 'utf-8')) as Degrees;
+const degrees = new Map<string, string>(JSON.parse(readFileSync('./data/degrees.json', 'utf-8')));
+
+console.log(degrees)
 
 for (const lang of langs) {
    const translations = lang === 'en' ? null : JSON.parse(readFileSync(`./data/i18n/${lang}/translations.json`, 'utf-8')) as Translation[];
@@ -44,9 +45,9 @@ for (const lang of langs) {
          }
 
          for (const abbr of matchingAbbr.abbrs) {
-            property += ` • ${degrees[abbr.degree]} ${abbr.abbr}`;
+            property += ` • ${degrees.get(abbr.degree)!} ${abbr.abbr}`;
 
-            if (abbr.degree === 'yellow') property += ` { ${abbr.context} }`;
+            if (abbr.degree === 'context sensitive') property += ` { ${abbr.context} }`;
          }
 
          section += `${property}\n`;
