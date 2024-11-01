@@ -197,7 +197,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - iterator • 🟡 iter { loops }
 
 ### J
-- javascript • 🟢 js
 
 ### K
 - key • 🟡 k { only with **val** }
@@ -337,7 +336,6 @@ Colored circles before the abbr mean the degree of recommendation:
 - toggle • 🔴 tgl
 - transaction • 🟢 tx
 - type • 🟡 t { modifiers } • 🔴 tpe
-- typescript • 🟢 ts
 
 ### U
 - user • 🟡 u { URLs } • 🔴 usr
@@ -364,7 +362,7 @@ Colored circles before the abbr mean the degree of recommendation:
 ### Z
 
 
-279 abbrs in the list
+277 abbrs in the list
 
 <br />
 

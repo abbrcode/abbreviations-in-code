@@ -197,7 +197,6 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - iteratore (iterator) • 🟡 iter { loops }
 
 ### J
-- javascript (javascript) • 🟢 js
 
 ### K
 - chiave (key) • 🟡 k { only with **val** }
@@ -337,7 +336,6 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - interruttore (toggle) • 🔴 tgl
 - transazione (transaction) • 🟢 tx
 - tipo (type) • 🟡 t { modifiers } • 🔴 tpe
-- typescript (typescript) • 🟢 ts
 
 ### U
 - utente (user) • 🟡 u { URLs } • 🔴 usr
@@ -364,7 +362,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 ### Z
 
 
-279 abbreviazioni nella lista
+277 abbreviazioni nella lista
 
 <br />
 

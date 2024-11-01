@@ -1384,15 +1384,6 @@
    {
       "abbrs": [
          {
-            "abbr": "js",
-            "degree": "recommended"
-         }
-      ],
-      "word": "javascript"
-   },
-   {
-      "abbrs": [
-         {
             "abbr": "k",
             "context": "only with **val**",
             "degree": "context sensitive"
@@ -2522,15 +2513,6 @@
          }
       ],
       "word": "type"
-   },
-   {
-      "abbrs": [
-         {
-            "abbr": "ts",
-            "degree": "recommended"
-         }
-      ],
-      "word": "typescript"
    },
    {
       "abbrs": [

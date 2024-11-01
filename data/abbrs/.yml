@@ -627,10 +627,6 @@
       degree: context sensitive
   word: iterator
 - abbrs:
-    - abbr: js
-      degree: recommended
-  word: javascript
-- abbrs:
     - abbr: k
       context: only with **val**
       degree: context sensitive
@@ -1150,10 +1146,6 @@
     - abbr: tpe
       degree: not recommended
   word: type
-- abbrs:
-    - abbr: ts
-      degree: recommended
-  word: typescript
 - abbrs:
     - abbr: u
       context: URLs
