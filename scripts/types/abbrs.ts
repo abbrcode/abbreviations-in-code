@@ -1,15 +1,12 @@
 export type Abbr = {
-   abbrs: {
+   abbrs: ({
       abbr: string;
       context: never;
       degree: "green" | "red";
-   }[],
-   word: string;
-} | {
-   abbrs: {
+   } | {
       abbr: string;
-      context: string;
       degree: "yellow";
-   }[];
+      context: string,
+   })[],
    word: string;
 };
