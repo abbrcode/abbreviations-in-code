@@ -245,6 +245,8 @@ Colored circles before the abbr mean the degree of recommendation:
 - object • 🟢 obj
 - object key • 🟡 key { only with **val** }
 - octal • 🟢 oct
+- open source • 🔴 os
+- open source software • 🟢 oss
 - operating system • 🟢 os
 - operation • 🟡 op { binary operations }
 - option • 🟢 opt
@@ -362,7 +364,7 @@ Colored circles before the abbr mean the degree of recommendation:
 ### Z
 
 
-277 abbrs in the list
+279 abbrs in the list
 
 <br />
 

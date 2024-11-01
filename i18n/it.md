@@ -245,6 +245,8 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - oggetto (object) • 🟢 obj
 - chiave oggetto (object key) • 🟡 key { only with **val** }
 - ottale (octal) • 🟢 oct
+- open source (open source) • 🔴 os
+- software open source (open source software) • 🟢 oss
 - sistema operativo (operating system) • 🟢 os
 - operazione (operation) • 🟡 op { binary operations }
 - opzione (option) • 🟢 opt
@@ -362,7 +364,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 ### Z
 
 
-277 abbreviazioni nella lista
+279 abbreviazioni nella lista
 
 <br />
 

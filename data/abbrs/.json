@@ -1745,6 +1745,24 @@
       "abbrs": [
          {
             "abbr": "os",
+            "degree": "not recommended"
+         }
+      ],
+      "word": "open source"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "oss",
+            "degree": "recommended"
+         }
+      ],
+      "word": "open source software"
+   },
+   {
+      "abbrs": [
+         {
+            "abbr": "os",
             "degree": "recommended"
          }
       ],
