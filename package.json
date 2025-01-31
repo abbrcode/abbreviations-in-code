@@ -1,4 +1,5 @@
 {
+   "name": "abbreviations-in-code",
    "type": "module",
    "scripts": {
       "build": "pnpm run lint && pnpm run transpile && pnpm run compile",
