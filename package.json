@@ -8,6 +8,6 @@
       "transpile": "node --experimental-strip-types ./scripts/transpiler/index.ts"
    },
    "devDependencies": {
-      "js-yaml": "^4.1.0"
+      "@std/yaml": "npm:@jsr/std__yaml@^1.0.5"
    }
 }
