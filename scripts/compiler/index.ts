@@ -6,7 +6,7 @@ import type { Langs, Translation } from '../types/i18n.ts';
 // Lists i18n files
 const abbrs = JSON.parse(readFileSync('./data/abbrs/.json', 'utf-8')) as Abbr[];
 const langs = JSON.parse(readFileSync('./data/i18n/langs.json')) as Langs;
-const degrees = new Map<string, string>(JSON.parse(readFileSync('./data/degrees.json', 'utf-8')));
+const degrees = new Map<string, string>(JSON.parse(readFileSync('./data/degrees/index.json', 'utf-8')));
 
 for (const lang of langs) {
    const translations = lang === 'en' ? null : JSON.parse(readFileSync(`./data/i18n/${lang}/translations.json`, 'utf-8')) as Translation[];
