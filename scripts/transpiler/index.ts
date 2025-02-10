@@ -1,5 +1,5 @@
 import { readFileSync, writeFileSync } from 'fs';
-import yml from 'js-yaml';
+import * as yaml from '@std/yaml';
 
 import type { Abbr } from '../types/abbrs.ts';
 
@@ -7,5 +7,5 @@ import type { Abbr } from '../types/abbrs.ts';
 {
    const abbrs = JSON.parse(readFileSync('./data/abbrs/.json', 'utf-8')) as Abbr[];
 
-   writeFileSync('./data/abbrs/.yml', yml.dump(abbrs), 'utf-8');
+   writeFileSync('./data/abbrs/.yml', yaml.stringify(abbrs), 'utf-8');
 }

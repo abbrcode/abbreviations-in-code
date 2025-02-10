@@ -8,23 +8,15 @@ importers:
 
   .:
     devDependencies:
-      js-yaml:
-        specifier: ^4.1.0
-        version: 4.1.0
+      '@std/yaml':
+        specifier: npm:@jsr/std__yaml@^1.0.5
+        version: '@jsr/std__yaml@1.0.5'
 
 packages:
 
-  argparse@2.0.1:
-    resolution: {integrity: sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==}
-
-  js-yaml@4.1.0:
-    resolution: {integrity: sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==}
-    hasBin: true
+  '@jsr/std__yaml@1.0.5':
+    resolution: {integrity: sha512-jbh2xwnja+ar+7NE0oDTlbST1WW29dAQOKX8+1DZgdT54NVt9lZ9YVDrzh4uP1w6ZHVirtY0z99BSym0v+Zh4Q==, tarball: https://npm.jsr.io/~/11/@jsr/std__yaml/1.0.5.tgz}
 
 snapshots:
 
-  argparse@2.0.1: {}
-
-  js-yaml@4.1.0:
-    dependencies:
-      argparse: 2.0.1
+  '@jsr/std__yaml@1.0.5': {}

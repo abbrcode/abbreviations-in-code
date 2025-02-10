@@ -6,7 +6,7 @@ import type { Langs, Translation } from '../types/i18n.ts';
 // Lists i18n files
 const abbrs = JSON.parse(readFileSync('./data/abbrs/.json', 'utf-8')) as Abbr[];
 const langs = JSON.parse(readFileSync('./data/i18n/langs.json')) as Langs;
-const degrees = new Map<string, string>(JSON.parse(readFileSync('./data/degrees/index.json', 'utf-8')));
+const degrees = new Map<string, string>(JSON.parse(readFileSync('./data/degrees/alt.json', 'utf-8')));
 
 for (const lang of langs) {
    const translations = lang === 'en' ? null : JSON.parse(readFileSync(`./data/i18n/${lang}/translations.json`, 'utf-8')) as Translation[];
@@ -19,7 +19,7 @@ for (const lang of langs) {
    template = template.replace('{{ degree.recommended }}', degrees.get('recommended')!).replace('{{ degree.contextSensitive }}', degrees.get('context sensitive')!).replace('{{ degree.notRecommended }}', degrees.get('not recommended')!);
 
    // Translations
-   template = template.replace('{{ translations }}', langs.filter(l => lang !== l).map(l => `[${l}](./i18n/${l}.md)`).join('\n'));
+   template = template.replace('{{ translations }}', langs.filter(l => lang !== l).map(l => `[${l}](./alt-${l}.md)`).join('\n'));
 
    // List
    let list = '';
@@ -65,13 +65,13 @@ for (const lang of langs) {
    // Write
    if (lang === 'en') {
       /* alt version */
-      template = template.replace('{{ altVer }}', './i18n/alt-README.md');
+      template = template.replace('{{ altVer }}', '../README.md');
 
-      writeFileSync('./README.md', template, 'utf-8');
+      writeFileSync('./i18n/alt-README.md', template, 'utf-8');
    } else {
       /* alt version */
       template = template.replace('{{ altVer }}', `./alt-${lang}.md`);
 
-      writeFileSync(`./i18n/${lang}.md`, template, 'utf-8');
+      writeFileSync(`./i18n/alt-${lang}.md`, template, 'utf-8');
    }
 }
