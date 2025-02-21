@@ -273,6 +273,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - processo (process) • 🟡 proc { threads }
 - produzione (production) • 🟢 prod
 - profilatore (profiler) • 🟢 prof
+- proprietà (property) • 🟢 prop
 - pubblico (public) • 🟢 pub
 
 ### Q
@@ -364,7 +365,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 ### Z
 
 
-279 abbreviazioni nella lista
+280 abbreviazioni nella lista
 
 <br />
 
