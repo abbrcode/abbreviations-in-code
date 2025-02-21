@@ -1987,6 +1987,15 @@
    {
       "abbrs": [
          {
+            "abbr": "prop",
+            "degree": "recommended"
+         }
+      ],
+      "word": "property"
+   },
+   {
+      "abbrs": [
+         {
             "abbr": "pub",
             "degree": "recommended"
          }
