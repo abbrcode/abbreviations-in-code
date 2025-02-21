@@ -273,6 +273,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - process • 🟡 proc { threads }
 - production • ⚪ prod
 - profiler • ⚪ prof
+- property • ⚪ prop
 - public • ⚪ pub
 
 ### Q
@@ -364,7 +365,7 @@ Colored circles before the abbr mean the degree of recommendation:
 ### Z
 
 
-279 abbrs in the list
+280 abbrs in the list
 
 <br />
 
