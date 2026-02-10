@@ -1,14 +1,5 @@
 [
-   [
-      "recommended",
-      "⚪"
-   ],
-   [
-      "context sensitive",
-      "🟡"
-   ],
-   [
-      "not recommended",
-      "⚫"
-   ]
+	["recommended", "⚪"],
+	["context sensitive", "🟡"],
+	["not recommended", "⚫"]
 ]
