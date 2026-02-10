@@ -11,6 +11,6 @@
 		"transpile": "node --experimental-strip-types ./scripts/transpiler/index.ts"
 	},
 	"devDependencies": {
-		"@std/yaml": "npm:@jsr/std__yaml@^1.0.5"
+		"@std/yaml": "jsr:^1.0.11"
 	}
 }

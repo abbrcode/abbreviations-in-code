@@ -9,14 +9,14 @@ importers:
   .:
     devDependencies:
       '@std/yaml':
-        specifier: npm:@jsr/std__yaml@^1.0.5
-        version: '@jsr/std__yaml@1.0.5'
+        specifier: jsr:^1.0.11
+        version: '@jsr/std__yaml@1.0.11'
 
 packages:
 
-  '@jsr/std__yaml@1.0.5':
-    resolution: {integrity: sha512-jbh2xwnja+ar+7NE0oDTlbST1WW29dAQOKX8+1DZgdT54NVt9lZ9YVDrzh4uP1w6ZHVirtY0z99BSym0v+Zh4Q==, tarball: https://npm.jsr.io/~/11/@jsr/std__yaml/1.0.5.tgz}
+  '@jsr/std__yaml@1.0.11':
+    resolution: {integrity: sha512-uSVzU72mlSkYU2Gxm2ECUoVrd6cY1n7krZ8l75QWwyGuasP1LKyLvEO3veVujKwOwthLQD7oBQvPpYNwYzt15A==, tarball: https://npm.jsr.io/~/11/@jsr/std__yaml/1.0.11.tgz}
 
 snapshots:
 
-  '@jsr/std__yaml@1.0.5': {}
+  '@jsr/std__yaml@1.0.11': {}
