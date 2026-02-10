@@ -162,7 +162,7 @@ I cerchi colorati prima dell'abbreviazione indicano il grado di raccomandazione:
 - formato (format) • ⚪ fmt
 - frazione (fraction) • ⚪ frac
 - frequenza (frequence) • ⚪ freq
-- funzione (function) • ⚫ f • ⚫ fn • ⚪ func
+- funzione (function) • ⚫ f • ⚫ fn • ⚫ fun • ⚪ func
 - puntatore di funzione (function pointer) • ⚪ fp
 
 ### G

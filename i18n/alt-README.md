@@ -162,7 +162,7 @@ Colored circles before the abbr mean the degree of recommendation:
 - format • ⚪ fmt
 - fraction • ⚪ frac
 - frequence • ⚪ freq
-- function • ⚫ f • ⚫ fn • ⚪ func
+- function • ⚫ f • ⚫ fn • ⚫ fun • ⚪ func
 - function pointer • ⚪ fp
 
 ### G

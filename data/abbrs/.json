@@ -1130,6 +1130,10 @@
             "degree": "not recommended"
          },
          {
+            "abbr": "fun",
+            "degree": "not recommended"
+         },
+         {
             "abbr": "func",
             "degree": "recommended"
          }
