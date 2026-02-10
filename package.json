@@ -1,6 +1,9 @@
 {
 	"name": "abbreviations-in-code",
 	"type": "module",
+	"engines": {
+		"node": ">=24"
+	},
 	"scripts": {
 		"build": "pnpm run lint && pnpm run transpile && pnpm run compile",
 		"compile": "node --experimental-strip-types ./scripts/compiler/index.ts && node --experimental-strip-types ./scripts/compiler/alt.ts",
