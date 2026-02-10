@@ -9,14 +9,29 @@ importers:
   .:
     devDependencies:
       '@std/yaml':
-        specifier: npm:@jsr/std__yaml@^1.0.5
-        version: '@jsr/std__yaml@1.0.5'
+        specifier: jsr:^1.0.11
+        version: '@jsr/std__yaml@1.0.11'
+      '@types/node':
+        specifier: ^25.2.0
+        version: 25.2.0
 
 packages:
 
-  '@jsr/std__yaml@1.0.5':
-    resolution: {integrity: sha512-jbh2xwnja+ar+7NE0oDTlbST1WW29dAQOKX8+1DZgdT54NVt9lZ9YVDrzh4uP1w6ZHVirtY0z99BSym0v+Zh4Q==, tarball: https://npm.jsr.io/~/11/@jsr/std__yaml/1.0.5.tgz}
+  '@jsr/std__yaml@1.0.11':
+    resolution: {integrity: sha512-uSVzU72mlSkYU2Gxm2ECUoVrd6cY1n7krZ8l75QWwyGuasP1LKyLvEO3veVujKwOwthLQD7oBQvPpYNwYzt15A==, tarball: https://npm.jsr.io/~/11/@jsr/std__yaml/1.0.11.tgz}
+
+  '@types/node@25.2.0':
+    resolution: {integrity: sha512-DZ8VwRFUNzuqJ5khrvwMXHmvPe+zGayJhr2CDNiKB1WBE1ST8Djl00D0IC4vvNmHMdj6DlbYRIaFE7WHjlDl5w==}
+
+  undici-types@7.16.0:
+    resolution: {integrity: sha512-Zz+aZWSj8LE6zoxD+xrjh4VfkIG8Ya6LvYkZqtUQGJPZjYl53ypCaUwWqo7eI0x66KBGeRo+mlBEkMSeSZ38Nw==}
 
 snapshots:
 
-  '@jsr/std__yaml@1.0.5': {}
+  '@jsr/std__yaml@1.0.11': {}
+
+  '@types/node@25.2.0':
+    dependencies:
+      undici-types: 7.16.0
+
+  undici-types@7.16.0: {}

@@ -1,13 +1,17 @@
 {
-   "name": "abbreviations-in-code",
-   "type": "module",
-   "scripts": {
-      "build": "pnpm run lint && pnpm run transpile && pnpm run compile",
-      "compile": "node --experimental-strip-types ./scripts/compiler/index.ts && node --experimental-strip-types ./scripts/compiler/alt.ts",
-      "lint": "node --experimental-strip-types ./scripts/linter/index.ts",
-      "transpile": "node --experimental-strip-types ./scripts/transpiler/index.ts"
-   },
-   "devDependencies": {
-      "@std/yaml": "npm:@jsr/std__yaml@^1.0.5"
-   }
+	"name": "abbreviations-in-code",
+	"type": "module",
+	"engines": {
+		"node": ">=24"
+	},
+	"scripts": {
+		"build": "pnpm run lint && pnpm run transpile && pnpm run compile",
+		"compile": "node --experimental-strip-types ./scripts/compiler/index.ts && node --experimental-strip-types ./scripts/compiler/alt.ts",
+		"lint": "node --experimental-strip-types ./scripts/linter/index.ts",
+		"transpile": "node --experimental-strip-types ./scripts/transpiler/index.ts"
+	},
+	"devDependencies": {
+		"@std/yaml": "jsr:^1.0.11",
+		"@types/node": "^25.2.0"
+	}
 }

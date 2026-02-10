@@ -1,1122 +1,1122 @@
 [
-   {
-      "word": "abbreviation",
-      "translation": "abbreviazione"
-   },
-   {
-      "word": "absolute",
-      "translation": "assoluto"
-   },
-   {
-      "word": "acronym",
-      "translation": "acronimo"
-   },
-   {
-      "word": "action",
-      "translation": "azione"
-   },
-   {
-      "word": "active",
-      "translation": "attivo"
-   },
-   {
-      "word": "actual",
-      "translation": "attuale"
-   },
-   {
-      "word": "addition",
-      "translation": "addizione"
-   },
-   {
-      "word": "address",
-      "translation": "indirizzo"
-   },
-   {
-      "word": "algorithm",
-      "translation": "algoritmo"
-   },
-   {
-      "word": "allocation",
-      "translation": "allocazione"
-   },
-   {
-      "word": "alternative",
-      "translation": "alternativo"
-   },
-   {
-      "word": "annotation",
-      "translation": "annotazione"
-   },
-   {
-      "word": "application",
-      "translation": "applicazione"
-   },
-   {
-      "word": "arccosecant",
-      "translation": "arcocosecante"
-   },
-   {
-      "word": "arccosine",
-      "translation": "arcoseno"
-   },
-   {
-      "word": "arccotangent",
-      "translation": "arcotangente"
-   },
-   {
-      "word": "arcsecant",
-      "translation": "arcosecante"
-   },
-   {
-      "word": "arcsine",
-      "translation": "arcoseno"
-   },
-   {
-      "word": "arctangent",
-      "translation": "arcotangente"
-   },
-   {
-      "word": "argument",
-      "translation": "argomento"
-   },
-   {
-      "word": "array",
-      "translation": "vettore"
-   },
-   {
-      "word": "asynchronous",
-      "translation": "asincrono"
-   },
-   {
-      "word": "attribute",
-      "translation": "attributo"
-   },
-   {
-      "word": "authentication",
-      "translation": "autenticazione"
-   },
-   {
-      "word": "auxiliary",
-      "translation": "ausiliario"
-   },
-   {
-      "word": "average",
-      "translation": "media"
-   },
-   {
-      "word": "background",
-      "translation": "sfondo"
-   },
-   {
-      "word": "battery",
-      "translation": "batteria"
-   },
-   {
-      "word": "binary",
-      "translation": "binario"
-   },
-   {
-      "word": "boolean",
-      "translation": "boleano"
-   },
-   {
-      "word": "break",
-      "translation": "interruzione"
-   },
-   {
-      "word": "breakline",
-      "translation": "interruzione di riga"
-   },
-   {
-      "word": "buffer",
-      "translation": "buffer"
-   },
-   {
-      "word": "button",
-      "translation": "pulsante"
-   },
-   {
-      "word": "calculator",
-      "translation": "calcolatore"
-   },
-   {
-      "word": "callback",
-      "translation": "richiamo"
-   },
-   {
-      "word": "certificate",
-      "translation": "certificato"
-   },
-   {
-      "word": "channel",
-      "translation": "canale"
-   },
-   {
-      "word": "character",
-      "translation": "carattere"
-   },
-   {
-      "word": "check",
-      "translation": "controllo"
-   },
-   {
-      "word": "checksum",
-      "translation": "checksum"
-   },
-   {
-      "word": "circle",
-      "translation": "cerchio"
-   },
-   {
-      "word": "class",
-      "translation": "classe"
-   },
-   {
-      "word": "clear",
-      "translation": "pulire"
-   },
-   {
-      "word": "collection",
-      "translation": "collezione"
-   },
-   {
-      "word": "column",
-      "translation": "colonna"
-   },
-   {
-      "word": "command",
-      "translation": "comando"
-   },
-   {
-      "word": "commercial",
-      "translation": "commerciale"
-   },
-   {
-      "word": "common",
-      "translation": "comune"
-   },
-   {
-      "word": "communication",
-      "translation": "comunicazione"
-   },
-   {
-      "word": "comparison",
-      "translation": "comparazione"
-   },
-   {
-      "word": "component",
-      "translation": "componente"
-   },
-   {
-      "word": "concatenation",
-      "translation": "concatenazione"
-   },
-   {
-      "word": "condition",
-      "translation": "condizione"
-   },
-   {
-      "word": "configuration",
-      "translation": "configurazione"
-   },
-   {
-      "word": "connection",
-      "translation": "connessione"
-   },
-   {
-      "word": "constant",
-      "translation": "costante"
-   },
-   {
-      "word": "container",
-      "translation": "contenitore"
-   },
-   {
-      "word": "context",
-      "translation": "contesto"
-   },
-   {
-      "word": "continue",
-      "translation": "continuo"
-   },
-   {
-      "word": "control",
-      "translation": "controllo"
-   },
-   {
-      "word": "conversation",
-      "translation": "conversazione"
-   },
-   {
-      "word": "coordinate",
-      "translation": "coordinate"
-   },
-   {
-      "word": "copy",
-      "translation": "copia"
-   },
-   {
-      "word": "cosecant",
-      "translation": "cosecante"
-   },
-   {
-      "word": "cosine",
-      "translation": "coseno"
-   },
-   {
-      "word": "cotangent",
-      "translation": "cotangente"
-   },
-   {
-      "word": "count",
-      "translation": "conto"
-   },
-   {
-      "word": "current",
-      "translation": "corrente"
-   },
-   {
-      "word": "database",
-      "translation": "base di dati"
-   },
-   {
-      "word": "debug",
-      "translation": "debug"
-   },
-   {
-      "word": "decimal",
-      "translation": "decimale"
-   },
-   {
-      "word": "declaration",
-      "translation": "dichiarazione"
-   },
-   {
-      "word": "decrease",
-      "translation": "decremento"
-   },
-   {
-      "word": "default",
-      "translation": "predefinito"
-   },
-   {
-      "word": "definition",
-      "translation": "definizione"
-   },
-   {
-      "word": "degrees",
-      "translation": "gradi"
-   },
-   {
-      "word": "deletion",
-      "translation": "eliminazione"
-   },
-   {
-      "word": "delta time",
-      "translation": "tempo delta"
-   },
-   {
-      "word": "dependency",
-      "translation": "dipendenza"
-   },
-   {
-      "word": "description",
-      "translation": "descrizione"
-   },
-   {
-      "word": "destination",
-      "translation": "destinazione"
-   },
-   {
-      "word": "developer",
-      "translation": "sviluppatore"
-   },
-   {
-      "word": "development",
-      "translation": "sviluppo"
-   },
-   {
-      "word": "device",
-      "translation": "dispositivo"
-   },
-   {
-      "word": "difference",
-      "translation": "differenza"
-   },
-   {
-      "word": "dimension",
-      "translation": "dimensione"
-   },
-   {
-      "word": "direction",
-      "translation": "direzione"
-   },
-   {
-      "word": "directory",
-      "translation": "directory"
-   },
-   {
-      "word": "disable",
-      "translation": "disabilitare"
-   },
-   {
-      "word": "display",
-      "translation": "schermo"
-   },
-   {
-      "word": "division",
-      "translation": "divisione"
-   },
-   {
-      "word": "document",
-      "translation": "documento"
-   },
-   {
-      "word": "documentation",
-      "translation": "documentazione"
-   },
-   {
-      "word": "driver",
-      "translation": "driver"
-   },
-   {
-      "word": "dynamic",
-      "translation": "dinamico"
-   },
-   {
-      "word": "element",
-      "translation": "elemento"
-   },
-   {
-      "word": "enable",
-      "translation": "abilitare"
-   },
-   {
-      "word": "environment",
-      "translation": "ambiente"
-   },
-   {
-      "word": "equal",
-      "translation": "uguale"
-   },
-   {
-      "word": "error",
-      "translation": "errore"
-   },
-   {
-      "word": "event",
-      "translation": "evento"
-   },
-   {
-      "word": "execution",
-      "translation": "esecuzione"
-   },
-   {
-      "word": "exponential",
-      "translation": "esponenziale"
-   },
-   {
-      "word": "expression",
-      "translation": "espressione"
-   },
-   {
-      "word": "extension",
-      "translation": "estensione"
-   },
-   {
-      "word": "facet",
-      "translation": "sfaccettatura"
-   },
-   {
-      "word": "factory",
-      "translation": "fabbrica"
-   },
-   {
-      "word": "figure",
-      "translation": "figura"
-   },
-   {
-      "word": "file chooser",
-      "translation": "selettore di file"
-   },
-   {
-      "word": "file descriptor",
-      "translation": "descrittore di file"
-   },
-   {
-      "word": "file processor",
-      "translation": "processore di file"
-   },
-   {
-      "word": "file reader",
-      "translation": "lettore di file"
-   },
-   {
-      "word": "file system",
-      "translation": "sistema di file"
-   },
-   {
-      "word": "file writer",
-      "translation": "scrittore di file"
-   },
-   {
-      "word": "for example",
-      "translation": "per esempio"
-   },
-   {
-      "word": "format",
-      "translation": "formato"
-   },
-   {
-      "word": "fraction",
-      "translation": "frazione"
-   },
-   {
-      "word": "frequence",
-      "translation": "frequenza"
-   },
-   {
-      "word": "function",
-      "translation": "funzione"
-   },
-   {
-      "word": "function pointer",
-      "translation": "puntatore di funzione"
-   },
-   {
-      "word": "generation",
-      "translation": "generazione"
-   },
-   {
-      "word": "geometry",
-      "translation": "geometria"
-   },
-   {
-      "word": "greater or equal",
-      "translation": "maggiore uguale"
-   },
-   {
-      "word": "greater than",
-      "translation": "maggiore di"
-   },
-   {
-      "word": "hardware",
-      "translation": "hardware"
-   },
-   {
-      "word": "header",
-      "translation": "intestazione"
-   },
-   {
-      "word": "height",
-      "translation": "altezza"
-   },
-   {
-      "word": "hexadecimal",
-      "translation": "esadecimale"
-   },
-   {
-      "word": "horizontal",
-      "translation": "orizzontale"
-   },
-   {
-      "word": "identifier",
-      "translation": "identificatore"
-   },
-   {
-      "word": "image",
-      "translation": "immagine"
-   },
-   {
-      "word": "implementation",
-      "translation": "implementazione"
-   },
-   {
-      "word": "import",
-      "translation": "importazione"
-   },
-   {
-      "word": "inclusion",
-      "translation": "inclusione"
-   },
-   {
-      "word": "increase",
-      "translation": "aumento"
-   },
-   {
-      "word": "index",
-      "translation": "indice"
-   },
-   {
-      "word": "information",
-      "translation": "informazione"
-   },
-   {
-      "word": "initialization",
-      "translation": "inizializzazione"
-   },
-   {
-      "word": "input",
-      "translation": "input"
-   },
-   {
-      "word": "insertion",
-      "translation": "inserzione"
-   },
-   {
-      "word": "instance",
-      "translation": "istanza"
-   },
-   {
-      "word": "integer",
-      "translation": "intero"
-   },
-   {
-      "word": "interface",
-      "translation": "interfaccia"
-   },
-   {
-      "word": "inverse",
-      "translation": "inverso"
-   },
-   {
-      "word": "iterator",
-      "translation": "iteratore"
-   },
-   {
-      "word": "key",
-      "translation": "chiave"
-   },
-   {
-      "word": "keymap",
-      "translation": "mappa dei tasti"
-   },
-   {
-      "word": "keyword",
-      "translation": "tastiera"
-   },
-   {
-      "word": "language",
-      "translation": "lingua"
-   },
-   {
-      "word": "latitude",
-      "translation": "latitudine"
-   },
-   {
-      "word": "length",
-      "translation": "lunghezza"
-   },
-   {
-      "word": "less or equal",
-      "translation": "minore uguale"
-   },
-   {
-      "word": "less than",
-      "translation": "minore di"
-   },
-   {
-      "word": "level",
-      "translation": "livello"
-   },
-   {
-      "word": "library",
-      "translation": "librearia"
-   },
-   {
-      "word": "link",
-      "translation": "collegamento"
-   },
-   {
-      "word": "linked list",
-      "translation": "elenco concatenato"
-   },
-   {
-      "word": "location",
-      "translation": "posizione"
-   },
-   {
-      "word": "longitude",
-      "translation": "longitudine"
-   },
-   {
-      "word": "manager",
-      "translation": "direttore"
-   },
-   {
-      "word": "matrix",
-      "translation": "matrice"
-   },
-   {
-      "word": "maximum",
-      "translation": "massimo"
-   },
-   {
-      "word": "memory",
-      "translation": "memoria"
-   },
-   {
-      "word": "message",
-      "translation": "messaggio"
-   },
-   {
-      "word": "metadata",
-      "translation": "metadata"
-   },
-   {
-      "word": "microcontroller",
-      "translation": "microcontrollore"
-   },
-   {
-      "word": "middle",
-      "translation": "mezzo"
-   },
-   {
-      "word": "minimum",
-      "translation": "minimo"
-   },
-   {
-      "word": "miscellaneous",
-      "translation": "misto"
-   },
-   {
-      "word": "modulo",
-      "translation": "modulo"
-   },
-   {
-      "word": "multiplication",
-      "translation": "moltiplicazione"
-   },
-   {
-      "word": "mutable",
-      "translation": "mutabile"
-   },
-   {
-      "word": "navigation",
-      "translation": "navigazione"
-   },
-   {
-      "word": "network",
-      "translation": "rete"
-   },
-   {
-      "word": "newline",
-      "translation": "nuova linea"
-   },
-   {
-      "word": "no",
-      "translation": "no"
-   },
-   {
-      "word": "node",
-      "translation": "nodo"
-   },
-   {
-      "word": "not equal",
-      "translation": "diverso"
-   },
-   {
-      "word": "number",
-      "translation": "numero"
-   },
-   {
-      "word": "number of",
-      "translation": "numero di"
-   },
-   {
-      "word": "object",
-      "translation": "oggetto"
-   },
-   {
-      "word": "object key",
-      "translation": "chiave oggetto"
-   },
-   {
-      "word": "octal",
-      "translation": "ottale"
-   },
-   {
-      "word": "open source",
-      "translation": "open source"
-   },
-   {
-      "word": "open source software",
-      "translation": "software open source"
-   },
-   {
-      "word": "operating system",
-      "translation": "sistema operativo"
-   },
-   {
-      "word": "operation",
-      "translation": "operazione"
-   },
-   {
-      "word": "option",
-      "translation": "opzione"
-   },
-   {
-      "word": "order",
-      "translation": "ordine"
-   },
-   {
-      "word": "organization",
-      "translation": "organizzazione"
-   },
-   {
-      "word": "origin",
-      "translation": "origine"
-   },
-   {
-      "word": "output",
-      "translation": "output"
-   },
-   {
-      "word": "package",
-      "translation": "pacchetto"
-   },
-   {
-      "word": "parameter",
-      "translation": "parametro"
-   },
-   {
-      "word": "performance",
-      "translation": "prestazione"
-   },
-   {
-      "word": "picture",
-      "translation": "immagine"
-   },
-   {
-      "word": "pixel",
-      "translation": "pixel"
-   },
-   {
-      "word": "pointer",
-      "translation": "puntatore"
-   },
-   {
-      "word": "poligon",
-      "translation": "poligono"
-   },
-   {
-      "word": "position",
-      "translation": "posizione"
-   },
-   {
-      "word": "power",
-      "translation": "potenza"
-   },
-   {
-      "word": "predication",
-      "translation": "predicazione"
-   },
-   {
-      "word": "prediction",
-      "translation": "predizione"
-   },
-   {
-      "word": "preference",
-      "translation": "preferenza"
-   },
-   {
-      "word": "previous",
-      "translation": "precedente"
-   },
-   {
-      "word": "private",
-      "translation": "privato"
-   },
-   {
-      "word": "process",
-      "translation": "processo"
-   },
-   {
-      "word": "production",
-      "translation": "produzione"
-   },
-   {
-      "word": "profiler",
-      "translation": "profilatore"
-   },
-   {
-      "word": "property",
-      "translation": "proprietà"
-   },
-   {
-      "word": "public",
-      "translation": "pubblico"
-   },
-   {
-      "word": "query",
-      "translation": "quesito"
-   },
-   {
-      "word": "radians",
-      "translation": "radianti"
-   },
-   {
-      "word": "radius",
-      "translation": "raggio"
-   },
-   {
-      "word": "random",
-      "translation": "casuale"
-   },
-   {
-      "word": "range",
-      "translation": "gamma"
-   },
-   {
-      "word": "receive",
-      "translation": "ricevere"
-   },
-   {
-      "word": "record",
-      "translation": "registrare"
-   },
-   {
-      "word": "rectangle",
-      "translation": "rettangolo"
-   },
-   {
-      "word": "reference",
-      "translation": "riferimento"
-   },
-   {
-      "word": "regular expression",
-      "translation": "espressione regolare"
-   },
-   {
-      "word": "relation",
-      "translation": "relation"
-   },
-   {
-      "word": "remote",
-      "translation": "remoto"
-   },
-   {
-      "word": "remove",
-      "translation": "rimuovere"
-   },
-   {
-      "word": "repository",
-      "translation": "repository"
-   },
-   {
-      "word": "request",
-      "translation": "richiesta"
-   },
-   {
-      "word": "response",
-      "translation": "risposta"
-   },
-   {
-      "word": "result",
-      "translation": "risultato"
-   },
-   {
-      "word": "return",
-      "translation": "ritorno"
-   },
-   {
-      "word": "revision",
-      "translation": "revisione"
-   },
-   {
-      "word": "script",
-      "translation": "script"
-   },
-   {
-      "word": "secant",
-      "translation": "secante"
-   },
-   {
-      "word": "selection",
-      "translation": "selezione"
-   },
-   {
-      "word": "semaphore",
-      "translation": "semaforo"
-   },
-   {
-      "word": "separator",
-      "translation": "separazione"
-   },
-   {
-      "word": "sequence",
-      "translation": "sequenza"
-   },
-   {
-      "word": "service",
-      "translation": "servizio"
-   },
-   {
-      "word": "session",
-      "translation": "sessione"
-   },
-   {
-      "word": "signed as prefix",
-      "translation": "selezionato come prefisso"
-   },
-   {
-      "word": "sine",
-      "translation": "seno"
-   },
-   {
-      "word": "software",
-      "translation": "software"
-   },
-   {
-      "word": "solution",
-      "translation": "soluzione"
-   },
-   {
-      "word": "solver",
-      "translation": "risolutore"
-   },
-   {
-      "word": "source",
-      "translation": "sorgente"
-   },
-   {
-      "word": "specification",
-      "translation": "specificazione"
-   },
-   {
-      "word": "square root",
-      "translation": "radice quadrata"
-   },
-   {
-      "word": "standard",
-      "translation": "standard"
-   },
-   {
-      "word": "standard input output",
-      "translation": "standard input output"
-   },
-   {
-      "word": "statement",
-      "translation": "affermazione"
-   },
-   {
-      "word": "statistic",
-      "translation": "statistica"
-   },
-   {
-      "word": "string",
-      "translation": "stringa"
-   },
-   {
-      "word": "subtration",
-      "translation": "sottrazione"
-   },
-   {
-      "word": "synchronization",
-      "translation": "sincronizzazione"
-   },
-   {
-      "word": "table data",
-      "translation": "dato di tabella"
-   },
-   {
-      "word": "table header",
-      "translation": "intestazione di tabella"
-   },
-   {
-      "word": "table row",
-      "translation": "riga di tabella"
-   },
-   {
-      "word": "tangent",
-      "translation": "tangente"
-   },
-   {
-      "word": "target",
-      "translation": "bersaglio"
-   },
-   {
-      "word": "temporary",
-      "translation": "temporaneo"
-   },
-   {
-      "word": "text",
-      "translation": "testo"
-   },
-   {
-      "word": "time",
-      "translation": "tempo"
-   },
-   {
-      "word": "timer",
-      "translation": "timer"
-   },
-   {
-      "word": "timestamp",
-      "translation": "timestamp"
-   },
-   {
-      "word": "to",
-      "translation": "a"
-   },
-   {
-      "word": "toggle",
-      "translation": "interruttore"
-   },
-   {
-      "word": "transaction",
-      "translation": "transazione"
-   },
-   {
-      "word": "type",
-      "translation": "tipo"
-   },
-   {
-      "word": "user",
-      "translation": "utente"
-   },
-   {
-      "word": "utility",
-      "translation": "utilità"
-   },
-   {
-      "word": "value",
-      "translation": "valore"
-   },
-   {
-      "word": "variable",
-      "translation": "variabile"
-   },
-   {
-      "word": "vector",
-      "translation": "vettore"
-   },
-   {
-      "word": "version",
-      "translation": "versione"
-   },
-   {
-      "word": "vertical",
-      "translation": "verticale"
-   },
-   {
-      "word": "white space",
-      "translation": "spazio bianco"
-   },
-   {
-      "word": "width",
-      "translation": "larghezza"
-   },
-   {
-      "word": "window",
-      "translation": "finestra"
-   },
-   {
-      "word": "wizard",
-      "translation": "installatore"
-   },
-   {
-      "word": "yes",
-      "translation": "si"
-   }
+	{
+		"word": "abbreviation",
+		"translation": "abbreviazione"
+	},
+	{
+		"word": "absolute",
+		"translation": "assoluto"
+	},
+	{
+		"word": "acronym",
+		"translation": "acronimo"
+	},
+	{
+		"word": "action",
+		"translation": "azione"
+	},
+	{
+		"word": "active",
+		"translation": "attivo"
+	},
+	{
+		"word": "actual",
+		"translation": "attuale"
+	},
+	{
+		"word": "addition",
+		"translation": "addizione"
+	},
+	{
+		"word": "address",
+		"translation": "indirizzo"
+	},
+	{
+		"word": "algorithm",
+		"translation": "algoritmo"
+	},
+	{
+		"word": "allocation",
+		"translation": "allocazione"
+	},
+	{
+		"word": "alternative",
+		"translation": "alternativo"
+	},
+	{
+		"word": "annotation",
+		"translation": "annotazione"
+	},
+	{
+		"word": "application",
+		"translation": "applicazione"
+	},
+	{
+		"word": "arccosecant",
+		"translation": "arcocosecante"
+	},
+	{
+		"word": "arccosine",
+		"translation": "arcoseno"
+	},
+	{
+		"word": "arccotangent",
+		"translation": "arcotangente"
+	},
+	{
+		"word": "arcsecant",
+		"translation": "arcosecante"
+	},
+	{
+		"word": "arcsine",
+		"translation": "arcoseno"
+	},
+	{
+		"word": "arctangent",
+		"translation": "arcotangente"
+	},
+	{
+		"word": "argument",
+		"translation": "argomento"
+	},
+	{
+		"word": "array",
+		"translation": "vettore"
+	},
+	{
+		"word": "asynchronous",
+		"translation": "asincrono"
+	},
+	{
+		"word": "attribute",
+		"translation": "attributo"
+	},
+	{
+		"word": "authentication",
+		"translation": "autenticazione"
+	},
+	{
+		"word": "auxiliary",
+		"translation": "ausiliario"
+	},
+	{
+		"word": "average",
+		"translation": "media"
+	},
+	{
+		"word": "background",
+		"translation": "sfondo"
+	},
+	{
+		"word": "battery",
+		"translation": "batteria"
+	},
+	{
+		"word": "binary",
+		"translation": "binario"
+	},
+	{
+		"word": "boolean",
+		"translation": "boleano"
+	},
+	{
+		"word": "break",
+		"translation": "interruzione"
+	},
+	{
+		"word": "breakline",
+		"translation": "interruzione di riga"
+	},
+	{
+		"word": "buffer",
+		"translation": "buffer"
+	},
+	{
+		"word": "button",
+		"translation": "pulsante"
+	},
+	{
+		"word": "calculator",
+		"translation": "calcolatore"
+	},
+	{
+		"word": "callback",
+		"translation": "richiamo"
+	},
+	{
+		"word": "certificate",
+		"translation": "certificato"
+	},
+	{
+		"word": "channel",
+		"translation": "canale"
+	},
+	{
+		"word": "character",
+		"translation": "carattere"
+	},
+	{
+		"word": "check",
+		"translation": "controllo"
+	},
+	{
+		"word": "checksum",
+		"translation": "checksum"
+	},
+	{
+		"word": "circle",
+		"translation": "cerchio"
+	},
+	{
+		"word": "class",
+		"translation": "classe"
+	},
+	{
+		"word": "clear",
+		"translation": "pulire"
+	},
+	{
+		"word": "collection",
+		"translation": "collezione"
+	},
+	{
+		"word": "column",
+		"translation": "colonna"
+	},
+	{
+		"word": "command",
+		"translation": "comando"
+	},
+	{
+		"word": "commercial",
+		"translation": "commerciale"
+	},
+	{
+		"word": "common",
+		"translation": "comune"
+	},
+	{
+		"word": "communication",
+		"translation": "comunicazione"
+	},
+	{
+		"word": "comparison",
+		"translation": "comparazione"
+	},
+	{
+		"word": "component",
+		"translation": "componente"
+	},
+	{
+		"word": "concatenation",
+		"translation": "concatenazione"
+	},
+	{
+		"word": "condition",
+		"translation": "condizione"
+	},
+	{
+		"word": "configuration",
+		"translation": "configurazione"
+	},
+	{
+		"word": "connection",
+		"translation": "connessione"
+	},
+	{
+		"word": "constant",
+		"translation": "costante"
+	},
+	{
+		"word": "container",
+		"translation": "contenitore"
+	},
+	{
+		"word": "context",
+		"translation": "contesto"
+	},
+	{
+		"word": "continue",
+		"translation": "continuo"
+	},
+	{
+		"word": "control",
+		"translation": "controllo"
+	},
+	{
+		"word": "conversation",
+		"translation": "conversazione"
+	},
+	{
+		"word": "coordinate",
+		"translation": "coordinate"
+	},
+	{
+		"word": "copy",
+		"translation": "copia"
+	},
+	{
+		"word": "cosecant",
+		"translation": "cosecante"
+	},
+	{
+		"word": "cosine",
+		"translation": "coseno"
+	},
+	{
+		"word": "cotangent",
+		"translation": "cotangente"
+	},
+	{
+		"word": "count",
+		"translation": "conto"
+	},
+	{
+		"word": "current",
+		"translation": "corrente"
+	},
+	{
+		"word": "database",
+		"translation": "base di dati"
+	},
+	{
+		"word": "debug",
+		"translation": "debug"
+	},
+	{
+		"word": "decimal",
+		"translation": "decimale"
+	},
+	{
+		"word": "declaration",
+		"translation": "dichiarazione"
+	},
+	{
+		"word": "decrease",
+		"translation": "decremento"
+	},
+	{
+		"word": "default",
+		"translation": "predefinito"
+	},
+	{
+		"word": "definition",
+		"translation": "definizione"
+	},
+	{
+		"word": "degrees",
+		"translation": "gradi"
+	},
+	{
+		"word": "deletion",
+		"translation": "eliminazione"
+	},
+	{
+		"word": "delta time",
+		"translation": "tempo delta"
+	},
+	{
+		"word": "dependency",
+		"translation": "dipendenza"
+	},
+	{
+		"word": "description",
+		"translation": "descrizione"
+	},
+	{
+		"word": "destination",
+		"translation": "destinazione"
+	},
+	{
+		"word": "developer",
+		"translation": "sviluppatore"
+	},
+	{
+		"word": "development",
+		"translation": "sviluppo"
+	},
+	{
+		"word": "device",
+		"translation": "dispositivo"
+	},
+	{
+		"word": "difference",
+		"translation": "differenza"
+	},
+	{
+		"word": "dimension",
+		"translation": "dimensione"
+	},
+	{
+		"word": "direction",
+		"translation": "direzione"
+	},
+	{
+		"word": "directory",
+		"translation": "directory"
+	},
+	{
+		"word": "disable",
+		"translation": "disabilitare"
+	},
+	{
+		"word": "display",
+		"translation": "schermo"
+	},
+	{
+		"word": "division",
+		"translation": "divisione"
+	},
+	{
+		"word": "document",
+		"translation": "documento"
+	},
+	{
+		"word": "documentation",
+		"translation": "documentazione"
+	},
+	{
+		"word": "driver",
+		"translation": "driver"
+	},
+	{
+		"word": "dynamic",
+		"translation": "dinamico"
+	},
+	{
+		"word": "element",
+		"translation": "elemento"
+	},
+	{
+		"word": "enable",
+		"translation": "abilitare"
+	},
+	{
+		"word": "environment",
+		"translation": "ambiente"
+	},
+	{
+		"word": "equal",
+		"translation": "uguale"
+	},
+	{
+		"word": "error",
+		"translation": "errore"
+	},
+	{
+		"word": "event",
+		"translation": "evento"
+	},
+	{
+		"word": "execution",
+		"translation": "esecuzione"
+	},
+	{
+		"word": "exponential",
+		"translation": "esponenziale"
+	},
+	{
+		"word": "expression",
+		"translation": "espressione"
+	},
+	{
+		"word": "extension",
+		"translation": "estensione"
+	},
+	{
+		"word": "facet",
+		"translation": "sfaccettatura"
+	},
+	{
+		"word": "factory",
+		"translation": "fabbrica"
+	},
+	{
+		"word": "figure",
+		"translation": "figura"
+	},
+	{
+		"word": "file chooser",
+		"translation": "selettore di file"
+	},
+	{
+		"word": "file descriptor",
+		"translation": "descrittore di file"
+	},
+	{
+		"word": "file processor",
+		"translation": "processore di file"
+	},
+	{
+		"word": "file reader",
+		"translation": "lettore di file"
+	},
+	{
+		"word": "file system",
+		"translation": "sistema di file"
+	},
+	{
+		"word": "file writer",
+		"translation": "scrittore di file"
+	},
+	{
+		"word": "for example",
+		"translation": "per esempio"
+	},
+	{
+		"word": "format",
+		"translation": "formato"
+	},
+	{
+		"word": "fraction",
+		"translation": "frazione"
+	},
+	{
+		"word": "frequence",
+		"translation": "frequenza"
+	},
+	{
+		"word": "function",
+		"translation": "funzione"
+	},
+	{
+		"word": "function pointer",
+		"translation": "puntatore di funzione"
+	},
+	{
+		"word": "generation",
+		"translation": "generazione"
+	},
+	{
+		"word": "geometry",
+		"translation": "geometria"
+	},
+	{
+		"word": "greater or equal",
+		"translation": "maggiore uguale"
+	},
+	{
+		"word": "greater than",
+		"translation": "maggiore di"
+	},
+	{
+		"word": "hardware",
+		"translation": "hardware"
+	},
+	{
+		"word": "header",
+		"translation": "intestazione"
+	},
+	{
+		"word": "height",
+		"translation": "altezza"
+	},
+	{
+		"word": "hexadecimal",
+		"translation": "esadecimale"
+	},
+	{
+		"word": "horizontal",
+		"translation": "orizzontale"
+	},
+	{
+		"word": "identifier",
+		"translation": "identificatore"
+	},
+	{
+		"word": "image",
+		"translation": "immagine"
+	},
+	{
+		"word": "implementation",
+		"translation": "implementazione"
+	},
+	{
+		"word": "import",
+		"translation": "importazione"
+	},
+	{
+		"word": "inclusion",
+		"translation": "inclusione"
+	},
+	{
+		"word": "increase",
+		"translation": "aumento"
+	},
+	{
+		"word": "index",
+		"translation": "indice"
+	},
+	{
+		"word": "information",
+		"translation": "informazione"
+	},
+	{
+		"word": "initialization",
+		"translation": "inizializzazione"
+	},
+	{
+		"word": "input",
+		"translation": "input"
+	},
+	{
+		"word": "insertion",
+		"translation": "inserzione"
+	},
+	{
+		"word": "instance",
+		"translation": "istanza"
+	},
+	{
+		"word": "integer",
+		"translation": "intero"
+	},
+	{
+		"word": "interface",
+		"translation": "interfaccia"
+	},
+	{
+		"word": "inverse",
+		"translation": "inverso"
+	},
+	{
+		"word": "iterator",
+		"translation": "iteratore"
+	},
+	{
+		"word": "key",
+		"translation": "chiave"
+	},
+	{
+		"word": "keymap",
+		"translation": "mappa dei tasti"
+	},
+	{
+		"word": "keyword",
+		"translation": "tastiera"
+	},
+	{
+		"word": "language",
+		"translation": "lingua"
+	},
+	{
+		"word": "latitude",
+		"translation": "latitudine"
+	},
+	{
+		"word": "length",
+		"translation": "lunghezza"
+	},
+	{
+		"word": "less or equal",
+		"translation": "minore uguale"
+	},
+	{
+		"word": "less than",
+		"translation": "minore di"
+	},
+	{
+		"word": "level",
+		"translation": "livello"
+	},
+	{
+		"word": "library",
+		"translation": "librearia"
+	},
+	{
+		"word": "link",
+		"translation": "collegamento"
+	},
+	{
+		"word": "linked list",
+		"translation": "elenco concatenato"
+	},
+	{
+		"word": "location",
+		"translation": "posizione"
+	},
+	{
+		"word": "longitude",
+		"translation": "longitudine"
+	},
+	{
+		"word": "manager",
+		"translation": "direttore"
+	},
+	{
+		"word": "matrix",
+		"translation": "matrice"
+	},
+	{
+		"word": "maximum",
+		"translation": "massimo"
+	},
+	{
+		"word": "memory",
+		"translation": "memoria"
+	},
+	{
+		"word": "message",
+		"translation": "messaggio"
+	},
+	{
+		"word": "metadata",
+		"translation": "metadata"
+	},
+	{
+		"word": "microcontroller",
+		"translation": "microcontrollore"
+	},
+	{
+		"word": "middle",
+		"translation": "mezzo"
+	},
+	{
+		"word": "minimum",
+		"translation": "minimo"
+	},
+	{
+		"word": "miscellaneous",
+		"translation": "misto"
+	},
+	{
+		"word": "modulo",
+		"translation": "modulo"
+	},
+	{
+		"word": "multiplication",
+		"translation": "moltiplicazione"
+	},
+	{
+		"word": "mutable",
+		"translation": "mutabile"
+	},
+	{
+		"word": "navigation",
+		"translation": "navigazione"
+	},
+	{
+		"word": "network",
+		"translation": "rete"
+	},
+	{
+		"word": "newline",
+		"translation": "nuova linea"
+	},
+	{
+		"word": "no",
+		"translation": "no"
+	},
+	{
+		"word": "node",
+		"translation": "nodo"
+	},
+	{
+		"word": "not equal",
+		"translation": "diverso"
+	},
+	{
+		"word": "number",
+		"translation": "numero"
+	},
+	{
+		"word": "number of",
+		"translation": "numero di"
+	},
+	{
+		"word": "object",
+		"translation": "oggetto"
+	},
+	{
+		"word": "object key",
+		"translation": "chiave oggetto"
+	},
+	{
+		"word": "octal",
+		"translation": "ottale"
+	},
+	{
+		"word": "open source",
+		"translation": "open source"
+	},
+	{
+		"word": "open source software",
+		"translation": "software open source"
+	},
+	{
+		"word": "operating system",
+		"translation": "sistema operativo"
+	},
+	{
+		"word": "operation",
+		"translation": "operazione"
+	},
+	{
+		"word": "option",
+		"translation": "opzione"
+	},
+	{
+		"word": "order",
+		"translation": "ordine"
+	},
+	{
+		"word": "organization",
+		"translation": "organizzazione"
+	},
+	{
+		"word": "origin",
+		"translation": "origine"
+	},
+	{
+		"word": "output",
+		"translation": "output"
+	},
+	{
+		"word": "package",
+		"translation": "pacchetto"
+	},
+	{
+		"word": "parameter",
+		"translation": "parametro"
+	},
+	{
+		"word": "performance",
+		"translation": "prestazione"
+	},
+	{
+		"word": "picture",
+		"translation": "immagine"
+	},
+	{
+		"word": "pixel",
+		"translation": "pixel"
+	},
+	{
+		"word": "pointer",
+		"translation": "puntatore"
+	},
+	{
+		"word": "poligon",
+		"translation": "poligono"
+	},
+	{
+		"word": "position",
+		"translation": "posizione"
+	},
+	{
+		"word": "power",
+		"translation": "potenza"
+	},
+	{
+		"word": "predication",
+		"translation": "predicazione"
+	},
+	{
+		"word": "prediction",
+		"translation": "predizione"
+	},
+	{
+		"word": "preference",
+		"translation": "preferenza"
+	},
+	{
+		"word": "previous",
+		"translation": "precedente"
+	},
+	{
+		"word": "private",
+		"translation": "privato"
+	},
+	{
+		"word": "process",
+		"translation": "processo"
+	},
+	{
+		"word": "production",
+		"translation": "produzione"
+	},
+	{
+		"word": "profiler",
+		"translation": "profilatore"
+	},
+	{
+		"word": "property",
+		"translation": "proprietà"
+	},
+	{
+		"word": "public",
+		"translation": "pubblico"
+	},
+	{
+		"word": "query",
+		"translation": "quesito"
+	},
+	{
+		"word": "radians",
+		"translation": "radianti"
+	},
+	{
+		"word": "radius",
+		"translation": "raggio"
+	},
+	{
+		"word": "random",
+		"translation": "casuale"
+	},
+	{
+		"word": "range",
+		"translation": "gamma"
+	},
+	{
+		"word": "receive",
+		"translation": "ricevere"
+	},
+	{
+		"word": "record",
+		"translation": "registrare"
+	},
+	{
+		"word": "rectangle",
+		"translation": "rettangolo"
+	},
+	{
+		"word": "reference",
+		"translation": "riferimento"
+	},
+	{
+		"word": "regular expression",
+		"translation": "espressione regolare"
+	},
+	{
+		"word": "relation",
+		"translation": "relation"
+	},
+	{
+		"word": "remote",
+		"translation": "remoto"
+	},
+	{
+		"word": "remove",
+		"translation": "rimuovere"
+	},
+	{
+		"word": "repository",
+		"translation": "repository"
+	},
+	{
+		"word": "request",
+		"translation": "richiesta"
+	},
+	{
+		"word": "response",
+		"translation": "risposta"
+	},
+	{
+		"word": "result",
+		"translation": "risultato"
+	},
+	{
+		"word": "return",
+		"translation": "ritorno"
+	},
+	{
+		"word": "revision",
+		"translation": "revisione"
+	},
+	{
+		"word": "script",
+		"translation": "script"
+	},
+	{
+		"word": "secant",
+		"translation": "secante"
+	},
+	{
+		"word": "selection",
+		"translation": "selezione"
+	},
+	{
+		"word": "semaphore",
+		"translation": "semaforo"
+	},
+	{
+		"word": "separator",
+		"translation": "separazione"
+	},
+	{
+		"word": "sequence",
+		"translation": "sequenza"
+	},
+	{
+		"word": "service",
+		"translation": "servizio"
+	},
+	{
+		"word": "session",
+		"translation": "sessione"
+	},
+	{
+		"word": "signed as prefix",
+		"translation": "selezionato come prefisso"
+	},
+	{
+		"word": "sine",
+		"translation": "seno"
+	},
+	{
+		"word": "software",
+		"translation": "software"
+	},
+	{
+		"word": "solution",
+		"translation": "soluzione"
+	},
+	{
+		"word": "solver",
+		"translation": "risolutore"
+	},
+	{
+		"word": "source",
+		"translation": "sorgente"
+	},
+	{
+		"word": "specification",
+		"translation": "specificazione"
+	},
+	{
+		"word": "square root",
+		"translation": "radice quadrata"
+	},
+	{
+		"word": "standard",
+		"translation": "standard"
+	},
+	{
+		"word": "standard input output",
+		"translation": "standard input output"
+	},
+	{
+		"word": "statement",
+		"translation": "affermazione"
+	},
+	{
+		"word": "statistic",
+		"translation": "statistica"
+	},
+	{
+		"word": "string",
+		"translation": "stringa"
+	},
+	{
+		"word": "subtration",
+		"translation": "sottrazione"
+	},
+	{
+		"word": "synchronization",
+		"translation": "sincronizzazione"
+	},
+	{
+		"word": "table data",
+		"translation": "dato di tabella"
+	},
+	{
+		"word": "table header",
+		"translation": "intestazione di tabella"
+	},
+	{
+		"word": "table row",
+		"translation": "riga di tabella"
+	},
+	{
+		"word": "tangent",
+		"translation": "tangente"
+	},
+	{
+		"word": "target",
+		"translation": "bersaglio"
+	},
+	{
+		"word": "temporary",
+		"translation": "temporaneo"
+	},
+	{
+		"word": "text",
+		"translation": "testo"
+	},
+	{
+		"word": "time",
+		"translation": "tempo"
+	},
+	{
+		"word": "timer",
+		"translation": "timer"
+	},
+	{
+		"word": "timestamp",
+		"translation": "timestamp"
+	},
+	{
+		"word": "to",
+		"translation": "a"
+	},
+	{
+		"word": "toggle",
+		"translation": "interruttore"
+	},
+	{
+		"word": "transaction",
+		"translation": "transazione"
+	},
+	{
+		"word": "type",
+		"translation": "tipo"
+	},
+	{
+		"word": "user",
+		"translation": "utente"
+	},
+	{
+		"word": "utility",
+		"translation": "utilità"
+	},
+	{
+		"word": "value",
+		"translation": "valore"
+	},
+	{
+		"word": "variable",
+		"translation": "variabile"
+	},
+	{
+		"word": "vector",
+		"translation": "vettore"
+	},
+	{
+		"word": "version",
+		"translation": "versione"
+	},
+	{
+		"word": "vertical",
+		"translation": "verticale"
+	},
+	{
+		"word": "white space",
+		"translation": "spazio bianco"
+	},
+	{
+		"word": "width",
+		"translation": "larghezza"
+	},
+	{
+		"word": "window",
+		"translation": "finestra"
+	},
+	{
+		"word": "wizard",
+		"translation": "installatore"
+	},
+	{
+		"word": "yes",
+		"translation": "si"
+	}
 ]
